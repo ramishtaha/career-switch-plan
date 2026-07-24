@@ -1,0 +1,500 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+USTADH — KNOWLEDGE REFERENCE FILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Attach this to the Gem as a knowledge file. The system instruction
+points here for all static reference data. Consult it as needed —
+do NOT reprint it wholesale into a session. Pull only the line(s)
+relevant to the moment.
+
+NOTE ON TIMES: Every clock time below (prayers, suhoor, schedule
+blocks) is a SEASONAL APPROXIMATION for the user's location and
+timezone (which the Gem establishes per the system instruction —
+it is not hardcoded here). They drift through the year. Always defer
+to the user's actual prayer times today. Never correct the times he states.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION B — NUTRITION & PERFORMANCE REFERENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GOAL: Cut to competition weight while maintaining daily MMA
+performance and cognitive sharpness for 2+ hours of deep work.
+Core principles and the medical guardrail live in the system
+instruction. This is the detailed reference.
+
+STANDING DAILY HABITS (keep in every plan unless he says otherwise):
+  Beef bone broth — PRE-WORKOUT (~6:30 AM). Collagen/glycine, joint and
+    gut support, electrolytes, light warm fuel that won't sit heavy
+    before MMA. Take it in place of, or alongside, the banana/dates.
+  Haldi wala doodh (turmeric milk) + a pinch of black pepper — before
+    sleep. The black pepper (piperine) sharply boosts curcumin
+    absorption; anti-inflammatory for daily-MMA recovery and a calming
+    wind-down. Fits the pre-10:15 PM sleep routine.
+
+PREFERRED PROTEINS (use these, in any combination):
+  Rawas, surmai, or salmon — omega-3 priority, 3–4x/week
+  Chicken (breast or thigh) — most versatile, cook in bulk
+  Lean beef (mince/keema or small cuts) — iron, zinc, creatine, B12
+  Prawns — fast, lean, high zinc
+  Eggs — always available, works in any meal; his standing protein floor
+  Paneer — vegetarian protein; pan-sear or add to curries; great for a
+    no-meat day
+
+  ORGAN MEATS (weekly rotation — nutrient density a cut needs; FREQUENCY-
+  CAPPED → read [[ORGAN MEAT — FREQUENCY & SAFETY]] below before cooking):
+  Liver — kaleji (chicken) or beef liver. Nature's whole-food multivitamin:
+    B12, folate, copper, heme iron, vitamin A, choline. CAPPED — never daily.
+  Kidney — gurda. B12, selenium, riboflavin, CoQ10 — without liver's vit-A load.
+  Brain — bheja. DHA omega-3 + choline for CNS / impact recovery; rich, occasional.
+  Marrow — nalli. Fat, collagen, glycine — joints and connective tissue.
+
+DAIRY (protein + fats — keep in the fridge):
+  Milk — protein + calcium; in haldi doodh, or a glass with a meal
+  Curd / dahi — gut-friendly probiotic, North Indian staple; cooling,
+    pairs with any meal (a bowl after lunch)
+  Cheese — protein + fat, but calorie-dense → measured amounts on the cut
+
+CARB SOURCES (in order of preference):
+  Rice (white or brown) — primary carb, North Indian staple
+  Roti / chapati — flexible, goes with any curry
+  Dal (lentils) — counts as both carb AND protein supplement
+  Fresh seasonal fruits — vitamins + fibre; favour them around training
+    (post-MMA), keep portions modest on the cut and lighter in the evening.
+    VALUE RULE: buy in-season + locally grown — that is the cheapest, freshest,
+    most nutritious fruit. Out-of-season / imported = cold-stored, pricey, less
+    fresh → skip it. Heuristics to state: "what's piled high and cheap at the
+    mandi this week is in peak season"; "if it feels pricey for the season, it's
+    imported — pick the local champion instead." DON'T read a fixed calendar —
+    the Gem reasons from TODAY's date + the user's location (established per the
+    system instruction, not hardcoded) to name the current best-value local pick:
+    the region's own peak-season produce, including its prized local / GI
+    specialties when they're in season (harvest windows shift ±1–2 weeks year to
+    year). Whatever is locally abundant and cheap that week is in season; bananas
+    and similar staples are cheap local year-round defaults
+
+VEGETABLES (necessary only, easy to include):
+  Spinach (saag) — wilts invisible into any curry in 2 mins
+  Onion, tomato, garlic, ginger — base of every North Indian dish
+    Not a sacrifice — they ARE the cooking
+  Rajma (kidney beans) — high protein, North Indian classic
+  Chana (chickpeas) — protein + fibre, easy to batch
+
+HEALTHY FATS & COOKING OILS (calorie-dense — measure on the cut):
+  Ghee — cooking/finishing in small spoonfuls; a clean North Indian fat
+  Mustard oil — traditional North Indian cooking oil; pungent, heart-friendly
+  Olive oil — extra-virgin, for finishing / salads (not high-heat)
+  Avocado — whole-food fat + fibre; ¼–½ at a meal, pairs well with eggs
+  Beef tallow — rendered beef fat; smoke point ~204°C, oxidation-stable, ideal
+    for high-heat searing / bhuna and frying eggs. ~50% saturated → fine DAILY
+    as a cooking fat (~1–2 tbsp) WITHIN the saturated-fat budget. Render it from
+    suet yourself (see repertoire); keeps months. Always a clean, dry spoon.
+  Bone marrow (nalli) — fat + collagen + glycine; treat as a calorie/fat source
+    (~770 kcal/100g) and count it toward the day's fat. 1–2x/week.
+  Note: fats fuel hormones and satiety, but 1g fat = 9 kcal — keep total
+  fat measured so the 300–400 kcal deficit holds, and keep bigger fats away
+  from the pre-MMA window so they don't sit heavy.
+
+ORGAN MEAT — FREQUENCY & SAFETY (read before cooking any organ meat):
+RULE OF THUMB: "Liver is medicine, not a staple." Organ meats are nutrient-
+dense — that density is exactly why they are capped. Tallow is the only daily
+item; bone broth (a standing habit) is also daily.
+
+  WEEKLY PATTERN (one person):
+  Liver (beef OR chicken) ... 1 serving/week — vitamin A is the limiter
+  Kidney (gurda) ........... 1–2x/week
+  Brain (bheja) ............ at most 1x/week, small portion
+  Marrow (nalli) ........... 1–2x/week (calorie-dense — mind total fat)
+  Tallow ................... daily cooking fat, ~1–2 tbsp
+  Bone broth ............... daily (already his habit)
+
+  GUARDRAILS (CRITICAL — honour these):
+  - LIVER / vitamin A: the upper limit for preformed vitamin A (retinol) is
+    ~3,000 µg/day. Beef liver holds ~9,000 µg per 100g — a single 100g serving
+    is roughly 3× the daily UL, so it is fine OCCASIONALLY but NEVER daily.
+    Beef liver: 100–150g, 1x/week. Chicken liver is milder (~3,300 µg/100g):
+    100–150g, 1–2x/week. Don't eat both in the same week beyond one serving,
+    and don't stack a vitamin-A / cod-liver-oil supplement on top.
+  - BRAIN / prions + cholesterol: cooking does NOT destroy prions, and brain is
+    extremely high in cholesterol. Keep it occasional (≤1x/week, small), and
+    source from YOUNG, healthy animals. Goat/lamb bheja from young animals is a
+    common lower-concern choice in India.
+  - KIDNEY / purines: high-purine. Fine 1–2x/week for a healthy, hydrated
+    athlete; AVOID / limit with gout, high uric acid, or kidney-stone history.
+  - MARROW / tallow: calorie- and saturated-fat-dense. Keep within the daily
+    fat budget (saturated fat <10% of calories); "stable fat" is not "unlimited."
+  Note: organ meats already supply B12, heme iron, and zinc — so do NOT also
+  take a B12/iron/zinc supplement on top (see SUPPLEMENTS + the system
+  instruction's MEDICAL GUARDRAIL).
+
+ORGAN MEAT — SOURCING (India):
+  Buy from a halal / qassab (butcher) shop — kaleji, gurda, bheja, and nalli
+  bones are standard offal there. ORDER brain and marrow ahead; ask for the
+  same-day-slaughter batch (and for suet / kidney fat for tallow — often cheap
+  or free). Freshness signs: liver glossy and firm (no grey, no sour smell);
+  kidney firm with a faint clean smell (strong ammonia = old); brain pale
+  pink-grey, moist, intact; marrow pink/cream, filling the bone. Refrigerate
+  within 1–2 hours; raw organ meat keeps only 1–2 days in the fridge — cook or
+  freeze it fast, in single-serving portions; thaw in the fridge, never on the counter.
+
+DAILY MEAL STRUCTURE:
+
+  PRE-WORKOUT — ~6:30 AM (light, fast-digesting):
+    Beef bone broth (standing habit) + 1 banana OR 2 dates + water.
+    Light and fast-digesting. Fuel, not fullness.
+
+  POST-WORKOUT / BREAKFAST — ~8:00 AM (most important meal):
+    150–180g protein (chicken/beef keema/eggs)
+    1 cup rice OR 2 rotis
+    This is the largest carb meal of the day. Earned by training.
+
+  LUNCH — ~1:00 PM (during Dhuhr break):
+    150–200g protein from batch/cook
+    Smaller carb: ½ cup rice or 1 roti
+    Dal as a side if available — protein top-up
+
+  OPTIONAL SNACK — pre-Asr (only if genuinely hungry):
+    2–3 boiled eggs OR a small portion of leftover protein
+    Skip if not hungry. Honour the deficit.
+
+  DINNER — ~8:05 PM (LOW CARB):
+    150–200g fish (rawas/surmai/salmon) OR prawns
+    No rice or roti at dinner during cut.
+    Dal is acceptable if hungry — protein with minimal carb.
+
+FALLBACK MEALS (solo — when prep didn't happen, or he's eating out):
+  He lives alone, so there is no default "someone cooked." When the batch ran
+  out or a cook got skipped, pick one — no guilt, no macro-policing:
+  - Eggs + curd (dahi) + fruit — boiled eggs are already in the fridge; zero cook.
+  - Bone broth + microwave rice pouch + an egg cracked in — ~4 minutes.
+  - Eat out / order in — gauge protein; if it's mostly carbs (dal-rice, biryani,
+    sabzi-roti), add 2–3 boiled eggs after. Consistency over perfection.
+  Keep the fallback staples ALWAYS stocked (eggs, curd, fruit, broth in the
+  freezer, a rice pouch) — they're the safety net that makes the system stick.
+
+MEAL PREP — BATCH MODEL & FOOD-SAFETY STORAGE:
+The system is "cook once, eat 3–4 times." (Principles live in the MEAL PREP
+PROTOCOL in the system instruction; this is the detail.)
+
+  THE BATCH (one weekly cook session, ~60–90 min, mostly passive):
+  - Anchor protein → buy ~1.5–2 kg raw, cook to ~1–1.5 kg. Portion AT COOK TIME
+    into ~150–200 g servings; 3–4 to the fridge, the rest frozen the same day.
+  - Dal → a big pot; portion, freeze half.
+  - Boiled eggs → a dozen at week start, kept IN-SHELL.
+  - Bone broth → batch the bones; keep a few days' worth in the fridge, freeze
+    the rest in cups + ice-cube trays (instant flavour base for curries/dal).
+  - Organ meat → a SEPARATE small batch (1–2 portions only — frequency-capped).
+  MIDWEEK 15-MIN TOP-UP: a fresh small batch of rice (shortest safe life), a few
+  more eggs, and pull 2–3 protein portions freezer → fridge.
+
+  STORAGE TABLE (fridge ≤4°C / freezer −18°C; freezer times = quality, not safety):
+  Food                          Fridge      Freezer
+  Cooked chicken (curry/pieces)  3–4 days    4–6 months
+  Cooked beef / mutton           3–4 days    2–3 months
+  Cooked keema (ground)          3–4 days    2–3 months   (ground spoils faster)
+  Cooked fish / prawns           3–4 days    2–3 months   (prawns lean to 2–3 d)
+  Cooked RICE                    1–2 days    1–2 months   ← THE RISK ITEM
+  Dal / cooked lentils           3–5 days    ~6 months    (3 d if creamy/ghee-heavy)
+  Boiled eggs (in shell)         ~1 week     don't freeze
+  Marinated RAW meat             1–2 days    3–6 months   (freeze raw-in-marinade)
+  Bone broth / stock             3–4 days    4–6 months
+  Organ meat (cooked, offal)     1–2 days    1–2 months   (perishable; keep batch small)
+  Nihari / marrow-shank stew     2–3 days    2–3 months   (gravy stew keeps better)
+
+  RICE / Bacillus cereus (the one thing that can genuinely make him sick):
+  spores survive reheating — cool rice FAST, fridge within ~1 hour, eat within
+  1–2 days, REHEAT ONCE only, to steaming. This is why rice is the midweek
+  top-up, not the prep-day bulk cook.
+
+  UNIVERSAL RULES (USDA / NHS):
+  - 2-hour rule: cooked food into the fridge within 2 h (1 h if the kitchen is hot).
+  - Don't leave food out to cool fully — get it down fast in shallow containers.
+  - Reheat to 74°C / 165°F, steaming through. Reheat a portion ONCE.
+  - Don't refreeze cooked food that was thawed + reheated.
+  - Thaw in the fridge (or sealed bag under cold water), never on the counter.
+  - When in doubt, throw it out.
+
+FASTING DAYS (Mon/Thu Sunnah — optional):
+  Two protocols available. Note chosen protocol in State Report.
+
+  PROTOCOL A — Fasted training (recommended for cutting):
+    WAKE ~30 min before Fajr — the SAME wake as a normal day (no separate
+    3 AM start). DELAY suhoor to the last time before Fajr — the sunnah of
+    "delay suhoor, hasten iftar." Eat it in the pre-Fajr window, right up to
+    the adhan: high protein (eggs + chicken or beef) + slow carbs + plenty of
+    water. Suhoor must finish before Fajr.
+    Train at 7 AM FASTED. Strong fat-burning effect during a cut.
+    Break the fast at MAGHRIB (hastened iftar): dates + water, pray Maghrib,
+    then protein + carbs (the main refeed). This is Rafiq's "Fasting day"
+    routine — see Section F.
+
+  PROTOCOL B — Skip fast on heavy training days:
+    Fasting is Sunnah, not wajib. No guilt.
+    Resume next available opportunity.
+
+SUPPLEMENTS — GRADED (detailed reference; see MEDICAL GUARDRAIL in the system
+instruction — the user always clears anything new with his doctor). Supplements
+are the last ~5%; the foundation (protein, sleep, hydration/sodium, fuelling
+the session) comes first.
+
+  TIER 1 — strong evidence, high value, do these:
+  - Creatine monohydrate — 5g daily, any time (no loading needed). Best evidence
+    for repeated high-intensity effort (MMA's energy system) AND cognition;
+    helps retain muscle in a deficit.
+  - Hydration + electrolytes — fluids to pale-yellow urine; around the daily
+    sweaty session add sodium ~300–700 mg per hour of sweat (more in heat), plus
+    potassium + magnesium from food/mix. Don't under-replace sodium.
+  - Omega-3 — fatty fish (rawas/surmai/salmon) 3–4x/week is the gold standard;
+    on non-fish days, fish oil ~1–2 g combined EPA+DHA. Don't stack on fish days.
+  - Sleep (the highest-ROI "supplement") — protect 7–9 h, consistent schedule.
+
+  TIER 2 — moderate / emerging / situational:
+  - Magnesium glycinate — 200–350 mg elemental, 30–60 min pre-sleep (pairs with
+    the haldi doodh wind-down). Stay at/under the 350 mg/day SUPPLEMENTAL upper
+    limit unless the physician directs higher. Aids sleep; may ease cramps/DOMS.
+  - Collagen + vitamin C — 15 g collagen + ~50 mg vit C, 30–60 min BEFORE
+    training (training days only). Supports tendon/ligament resilience under
+    MMA's joint load; the pre-load timing is what matters.
+  - Caffeine — 3–6 mg/kg ~60 min pre-session. He trains ~7 AM, so sleep risk is
+    minimal. More is not better.
+  - Whey protein isolate — 1–2 scoops as needed to hit 2.0–2.2 g/kg. Pure
+    convenience lever for a solo athlete in a deficit; adherence is what counts.
+  - Beetroot/nitrate (6–8 mmol, 2–3 h pre) and tart cherry (around hard blocks /
+    competition) — optional fine-tuning; smaller effects in trained athletes.
+
+  ANYTHING A DOCTOR PRESCRIBES — take as directed; don't assume or invent a
+  prescription he hasn't named (see MEDICAL GUARDRAIL).
+  Red meat + weekly organ meats already cover B12 / iron / zinc — don't double-dose.
+
+CUT / TRAINING — WHAT NOT TO OVER-RESTRICT:
+  - Sodium: don't strip it. Daily sweaty training + a deficit is exactly when
+    low sodium causes flat sessions, cramps, and lightheadedness. Only
+    manipulate water/sodium deliberately in the FINAL days of a true weigh-in
+    cut — then aggressively rehydrate + replace sodium after weigh-in.
+    Physician-coordinated; never train hard dehydrated + sodium-stripped.
+  - Carbs around training: keep them pre and/or post-session even in a deficit —
+    they protect high-intensity output. Take the deficit out of the 9 sedentary
+    desk hours, not the session's fuel.
+  - Fat: don't go very-low-fat — it impairs absorption of fat-soluble vitamins
+    (A/D/E/K) and hormonal health. Keep adequate dietary fat.
+  - Antioxidant timing: don't chronically megadose antioxidants (large tart-
+    cherry / vitamin-C loads) right around every session — it can blunt training
+    adaptation. Use tart cherry tactically around competition / heavy blocks.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STARTER RECIPE REPERTOIRE (North Indian, batch / solo)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Compact cards the Gem can serve or adapt — or generate its own (Directive 2).
+Storage numbers match the storage table above; serve via the RECIPE FORMAT
+CONTRACT. GENERAL ORGAN-MEAT PREP: soak liver/kidney/brain in salted or turmeric
+water 20–30 min and rinse (cuts odour/blood); cook organ meats JUST to done —
+overcooking makes them rubbery. Use beef tallow (card F) or ghee/mustard oil.
+
+A. CHICKEN KEEMA (the go-to anchor batch — non-organ)
+  Yield 4–5 portions · fridge 3–4 d · freeze 2–3 mo.
+  Ingredients: 1 kg chicken mince; 2 onions; 2 tomatoes; 1.5 tbsp ginger-garlic;
+    2 green chillies; 1 tsp cumin; 1 tsp turmeric; 1.5 tsp red chilli; 1.5 tsp
+    coriander powder; 1 tsp garam masala; 1 cup peas (optional); 3 tbsp tallow/
+    ghee; salt; coriander.
+  Steps: 1) Fry cumin + onions golden in fat. 2) Ginger-garlic, then tomatoes +
+    dry spices to a thick masala. 3) Add mince, brown, breaking lumps. 4) Splash
+    water, cover, simmer ~15 min till cooked. 5) Garam masala + coriander.
+  Time: 10 prep + 25 cook · Protein ~30 g/portion.
+  Reheat: pan/microwave with a splash of water. Cut tweak: lean mince, less fat,
+    pair with salad instead of rice.
+
+B. KALEJI MASALA (chicken or beef liver) — ORGAN, cap 1x/week (vitamin A)
+  Yield 4 portions · fridge 1–2 d · freeze 1 mo.
+  Ingredients: 500 g liver (cubed, sinew trimmed); 2 onions; 2 tomatoes; 1.5 tbsp
+    ginger-garlic; 2 green chillies; 1 tsp cumin; 1 tsp turmeric; 1.5 tsp red
+    chilli; 1.5 tsp coriander powder; 1 tsp garam masala; 3 tbsp tallow/ghee; salt.
+  Steps: 1) Soak liver in turmeric water 20 min, drain. 2) Fry cumin + onions
+    golden. 3) Ginger-garlic, tomatoes + dry spices to a thick masala. 4) Add
+    liver, sear high 5–7 min JUST until no longer pink — don't overcook.
+    5) Garam masala + coriander.
+  Time: 15 prep + 20 cook · Protein ~28–33 g/portion.
+  Reheat: gentle, with a splash of water — don't boil hard.
+  FREQUENCY: the weekly liver slot. With beef liver, eat ONE serving and freeze
+    the rest — don't eat all four in one week (vitamin-A cap).
+
+C. BHEJA FRY (brain) — ORGAN, cap ≤1x/week, small; young-animal source
+  Yield 3–4 portions · fridge 1–2 d · best fresh (freezing hurts texture).
+  Ingredients: 400 g brain; 1 onion (fine); 1 tomato; 1 tbsp ginger-garlic;
+    2 green chillies; 1 tsp turmeric; 1 tsp red chilli; 1 tsp coriander powder;
+    ½ tsp garam masala; 2 tbsp tallow/ghee; salt; coriander/mint.
+  Steps: 1) Soak in salted water 30 min, peel the thin membrane, rinse.
+    2) Optional parboil 3–4 min, break into chunks. 3) Fry onion soft; add
+    ginger-garlic, tomato + spices to a paste. 4) Fold in brain, cook 8–10 min
+    low-medium till set (scrambles like soft eggs). 5) Garam masala + herbs.
+  Time: 35 (incl. soak) + 15 cook · Protein ~12–18 g/portion (fat-rich, lower protein).
+  Reheat: low heat only.
+
+D. GURDA BHUNA (kidney) — ORGAN, 1–2x/week; skip if gout/uric-acid
+  Yield 4 portions · fridge 1–2 d · freeze 1 mo.
+  Ingredients: 500 g kidney (split, white core removed, diced); 2 onions;
+    2 tomatoes; 1.5 tbsp ginger-garlic; 1 tsp cumin; 1 tsp turmeric; 1.5 tsp red
+    chilli; 1.5 tsp coriander powder; 1 tsp garam masala; 3 tbsp tallow; salt.
+  Steps: 1) Soak diced kidney in salted/turmeric water 30 min, rinse twice
+    (cuts ammonia). 2) Optional 3-min parboil, drain. 3) Bhuna base: cumin +
+    onions golden, ginger-garlic, tomatoes + spices to an oil-separating masala.
+    4) Add kidney, bhuna high 8–10 min till just cooked. 5) Garam masala + coriander.
+  Time: 35 (incl. soak) + 20 cook · Protein ~24–28 g/portion.
+  Reheat: quick pan with a splash of water. Drink water (purines).
+
+E. SIMPLIFIED NALLI NIHARI / MARROW — 1–2x/week (rich; mind total fat)
+  Yield 4 portions · fridge 2–3 d · freeze 2–3 mo (freezes well).
+  Ingredients: 4–6 marrow bones (~1–1.2 kg) OR 800 g bone-in shank + 2 marrow
+    bones; 2 onions; 2 tbsp ginger-garlic; 3 tbsp tallow/ghee; 2 tbsp nihari
+    masala; 1 tsp turmeric; 3 tbsp atta (wholewheat) to thicken; salt; ginger
+    juliennes, lemon, coriander to serve.
+  Steps: 1) Brown onions in fat, add ginger-garlic, then dry spices + a splash
+    of water. 2) Add bones, sear, cover with water. 3) Slow-simmer 2.5–4 h (or
+    pressure-cook ~45 min) till marrow soft + meat falls off; push the marrow
+    into the gravy. 4) Atta + water slurry, stir in, simmer 10 min. 5) Serve
+    with ginger, lemon, coriander.
+  Time: 20 prep + 45 min–4 h · Protein ~20–30 g/portion (with shank meat).
+  Reheat: stovetop, loosen with water/broth.
+
+F. RENDER BEEF TALLOW (cooking fat — make once, use for months)
+  Yield ~700–800 g from 1 kg fat · pantry months / fridge ~1 yr / freezer ~indefinite.
+  Ingredients: 1 kg beef fat / suet (kidney fat = cleanest); ¼ cup water; pinch salt.
+  Steps: 1) Cut fat to ~1 cm (or have the butcher grind it). 2) Low heat with the
+    splash of water. 3) Melt slowly 1.5–3 h, stirring; solids turn golden + sink —
+    don't brown. 4) Strain through a fine sieve/muslin into clean DRY glass jars.
+    5) Cool — it sets white/solid.
+  Use: ~1 tbsp for bhuna, searing, frying eggs/parathas, roasting. Always a
+    clean dry spoon (no water/crumbs) so it keeps.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION C — WEEKDAY TIMETABLE (Monday–Friday)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Seasonal approximations — defer to actual prayer times today.
+* = anchored to Fajr in the app, so it tracks Fajr through the year.
+
+04:20 AM* Alarm OFF — feet on floor (≈ 30 min before Fajr) [SURVIVAL LAYER STARTS]
+          Brush teeth → wash face → Wudu
+04:30 AM* Brief Tahajjud (≈ 20 min before Fajr — the last third runs up to Fajr)
+04:50 AM* Fajr (Congregation) + Morning Adhkar [SURVIVAL LAYER DONE]
+05:00 AM  ★ MORNING READING (20 mins — physical/e-ink, no phone)
+          Log one insight in bullet journal immediately after
+05:20 AM  Deep Work Block 1 — Learn & Recall
+          First 20 mins: Active recall (or skip)
+          Remaining: High-focus learning
+06:30 AM  Pre-workout fuel — beef bone broth + banana or 2 dates
+07:00 AM  MMA Training
+08:00 AM  Post-workout meal IMMEDIATELY on return
+          (protein + carbs — most important meal of day)
+08:20 AM  Shower + get dressed
+08:40 AM  Compact house tidy + commute prep
+09:00 AM  Duha (Chasht) prayer & mental rehearsal
+09:30 AM  Deep Work Block 2 — Practice / hands-on
+          Adjust end time to allow for commute
+10:30 AM  Commute to office
+11:00 AM  Day Job — Focus Block 1
+          ↳ FREE TIME (if any): No-setup study (Directive 12)
+12:40 PM  Dhuhr, Lunch, Qailulah. Sacred block.
+02:40 PM  Day Job — Focus Block 2
+          ↳ FREE TIME (if any): No-setup study (Directive 12)
+05:15 PM  Asr Prayer (Hanafi) & brief mental reset
+05:45 PM  Day Job — Wrap up
+          ↳ FREE TIME (if any): No-setup study (Directive 12)
+07:00 PM  Leave office
+07:15 PM  Maghrib & Evening Adhkar
+07:45 PM  ★ EVENING READING (20 mins — wind-down only)
+          Log one reflection in bullet journal after
+08:05 PM  Dinner (batch portion / quick cook / fallback)
+08:30 PM  Light cleanup + personal downtime
+          ↳ COOK WINDOW (if needed): Flexible Cook Protocol
+09:00 PM  Isha Prayer + Evening Bullet Journaling
+          Complete Evening Reset checklist
+          Brain dump + tomorrow's 3 targets
+09:20 PM  Grilling Session — mock review + practice cleanup
+10:00 PM  Haldi wala doodh + pinch of black pepper (wind-down)
+10:15 PM  Strict sleep cutoff. Phone out of bedroom.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION D — SATURDAY TIMETABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Seasonal approximations — defer to actual prayer times today.
+* = anchored to Fajr (tracks Fajr seasonally). No job/commute today.
+Note: some Saturdays the user is fully occupied — midweek no-setup study
+absorbs the load, no guilt.
+
+04:20 AM* Alarm OFF → Brush teeth → Wudu (≈ 30 min before Fajr)
+04:30 AM* Brief Tahajjud + morning bullet journaling
+04:50 AM* Fajr & Morning Adhkar
+05:10 AM  ★ MORNING READING (20 mins) — log one insight after
+05:30 AM  Uninterrupted Deep Work — main project / practice
+          (skip if the day is fully occupied — no guilt)
+06:30 AM  Pre-workout fuel — beef bone broth + banana or 2 dates
+07:00 AM  MMA Training
+08:00 AM  Post-workout meal IMMEDIATELY
+08:20 AM  Shower
+08:30 AM  Breakfast, Duha prayer, deep apartment clean + weekly chores
+09:30 AM  Synthesize the full week's learning + plan the next
+12:40 PM  Dhuhr & Lunch (batch portion / fallback)
+01:40 PM  FLEXIBLE ZONE — family, friends, errands, hobbies, rest
+          ↳ COOK / PREP WINDOW: Flexible Cook Protocol + MEAL PREP PROTOCOL —
+            batch the week's protein + dal + eggs + broth while it simmers.
+05:15 PM  Asr Prayer
+05:45 PM  Catch up on missed targets or light reading
+07:15 PM  ★ EVENING READING (20 mins) — log one reflection after
+07:35 PM  Maghrib, Dinner (low-carb), Isha, Evening Reset checklist
+          Before sleep: haldi wala doodh + pinch of black pepper
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION E — SUNDAY TIMETABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Seasonal approximations — defer to actual prayer times today.
+* = anchored to Fajr. The rest / recovery + weekly-review day; MMA is optional.
+
+04:20 AM* Alarm OFF → Brush teeth → Wudu (≈ 30 min before Fajr)
+04:30 AM* Brief Tahajjud + morning bullet journaling
+04:50 AM* Fajr & Morning Adhkar
+05:10 AM  ★ MORNING READING (20 mins) — log one insight after
+05:30 AM  WEEKLY REVIEW
+            → What progressed? What carries forward?
+            → Mastery-gate attempt if a milestone is due
+            → Weekly chastity check-in (private, two words; deferrable
+              with "pass" — see Directive 9)
+06:30 AM  Pre-workout fuel (skip if resting)
+07:00 AM  MMA — OPTIONAL: light / active recovery, or full rest
+08:00 AM  Post-workout / breakfast
+08:30 AM  Duha prayer
+09:30 AM  MEAL-PREP / long flexible zone — batch-cook the week's protein; rest;
+          family. (The main weekly cook session usually lands here.)
+12:40 PM  Dhuhr & Lunch
+01:40 PM  FLEXIBLE — family, rest
+05:15 PM  Asr Prayer
+05:45 PM  Light reading / wind-down
+07:35 PM  Maghrib, Dinner (low-carb), Isha, Evening Reset checklist
+          Before sleep: haldi wala doodh + pinch of black pepper
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION F — FASTING DAY TIMETABLE (Mon/Thu sunnah — Protocol A)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Seasonal approximations — defer to actual prayer times today.
+* = anchored to Fajr. Set by Rafiq's "Fasting today" toggle. Sunnah: DELAY
+suhoor, HASTEN iftar. No daytime meals.
+
+04:20 AM* Alarm OFF → quick wudu (≈ 30 min before Fajr)
+04:30 AM* Brief Tahajjud
+04:38 AM* SUHOOR — delayed to the last time before Fajr, eaten right up to the
+          adhan: protein + slow carbs + plenty of water
+04:50 AM* Fajr & Morning Adhkar
+05:15 AM  Light morning reading (lighter — you're fasting)
+07:00 AM  MMA Training — FASTED. Hydrate well beforehand; ease off if light-headed.
+08:00 AM  Post-training REST — no daytime meals. Water + electrolytes.
+09:00 AM* Duha prayer
+11:00 AM  Day — work / study, paced; honour the fast
+12:40 PM  Dhuhr
+05:15 PM  Asr
+07:15 PM* MAGHRIB + IFTAR (hastened): break with dates + water, pray Maghrib,
+          then the main meal — protein + moderate carbs
+08:30 PM  Evening refeed if still hungry (protein-led)
+09:00 PM  Isha + Evening Reset checklist
+10:00 PM  Haldi wala doodh + pinch of black pepper
+10:15 PM  Sleep
