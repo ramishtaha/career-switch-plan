@@ -26,29 +26,59 @@ JPMorgan Chase · Goldman Sachs · Morgan Stanley · HSBC · Wells Fargo · Deut
 ---
 
 ## 📁 Repo Structure
+
 ```
 career-switch-plan/
-├── README.md                    ← You are here (dashboard)
-├── ramish-12-week-plan.md       ← Full day-by-day plan
-├── ramish-week1-plan.md         ← Original Week 1 plan
-└── tracker/
-    ├── progress.md              ← Weekly task checklist
-    ├── dsa-tracker.md           ← DSA problem log
-    └── daily-log/               ← Daily check-in logs (auto-generated)
+│
+├── README.md                          ← You are here (live dashboard)
+├── ramish-12-week-plan.md             ← Full day-by-day plan (all 84 days)
+│
+├── tracker/                           ← Auto-updated by Hermes daily check-ins
+│   ├── progress.md                    ← 84-day task checklist
+│   ├── dsa-tracker.md                 ← DSA problem log + pattern mastery
+│   └── daily-log/                     ← Daily check-in logs (auto-generated)
+│
+├── weeks/                             ← Weekly folders (add artifacts here)
+│   ├── week-01/                        ← Arrays, Hashing, Two Pointers, Stack, LL
+│   │   ├── GUIDE.md                   ← Auto-generated learning guide (Claude Code)
+│   │   ├── dsa/                        ← DSA solutions, notes, patterns
+│   │   ├── spring-boot/                ← Spring Boot code, configs, notes
+│   │   ├── devops/                     ← Dockerfiles, compose files, K8s manifests
+│   │   ├── ai/                         ← AI integration code, prompts, configs
+│   │   ├── system-design/              ← System design notes + diagrams
+│   │   ├── career/                     ← Resume drafts, LinkedIn notes
+│   │   └── reflections.md             ← Weekly reflection (filled by you)
+│   │
+│   ├── week-02/ ... week-12/           ← Same structure for each week
+│
+├── project/                           ← Main Spring Boot project (grows across weeks)
+│   ├── README.md                      ← Project overview + architecture
+│   ├── docker-compose.yml
+│   ├── k8s/
+│   └── ...
+│
+├── templates/                         ← Reusable templates
+│   ├── week-guide-template.md        ← Template for weekly GUIDE.md (for Claude Code)
+│   ├── dsa-solution-template.md      ← Template for DSA solution notes
+│   └── system-design-template.md     ← Template for system design notes
+│
+└── resources/                         ← Reference materials
+    ├── interview-prep.md              ← Interview questions + cheat sheets
+    ├── resume-framing.md             ← Banking domain resume language
+    └── company-research.md            ← Target company notes
 ```
 
 ---
 
 ## 🔔 Daily Check-in System
-Every day at **9:00 PM IST**, Hermes will check in on Discord asking:
+Every day at **9:00 PM IST**, Hermes checks in on Discord:
 - ✅ Which DSA problems did you solve today?
 - ✅ Which Spring Boot / Java tasks did you complete?
 - ✅ Which DevOps / AI / System Design tasks did you complete?
 - 🏆 Biggest win today?
 - 🤔 Biggest struggle?
-- 📅 What needs adjustment?
 
-Your responses auto-update this repo — progress trackers, DSA logs, and daily check-in files. No manual tracking needed. Just show up and do the work.
+Your responses auto-update the `tracker/` folder and push to GitHub. No manual tracking needed.
 
 ---
 
