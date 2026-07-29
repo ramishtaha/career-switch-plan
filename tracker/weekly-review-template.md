@@ -7,6 +7,20 @@
 
 ## Week ___ (___ to ___)
 
+### 📊 Auto-Scoreboard (Hermes fills this from tracker data)
+
+| Metric | This Week | Target | % |
+|--------|-----------|--------|---|
+| DSA solved | __ | 15-18 | __% |
+| DSA unaided % | __% | rising | — |
+| Spring Boot sessions | __ | per plan | __% |
+| Career actions | __ | per plan | __% |
+| Current streak | __ 🔥 | — | — |
+| Low bar days hit | __/7 | 7 | — |
+| High bar days hit | __/7 | stretch | — |
+| Weakest pattern | __ | — | — |
+| Strongest pattern | __ | — | — |
+
 ### 🎯 What I Planned vs What I Did
 
 | Category | Planned | Completed | % |

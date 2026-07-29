@@ -5,14 +5,17 @@
 
 ---
 
-## Overall Stats
-- **Days Completed:** 0 / 84
-- **DSA Problems Solved:** 0
+## Overall Stats (COMPLETION-LOCKED — Day N = Nth day worked, not calendar date)
+- **Active Days Worked:** 2 / 84
+- **DSA Problems Solved:** 3
+- **DSA Unaided:** 0/3 (0%)
 - **System Designs Practiced:** 0 / 10
 - **Mock Interviews:** 0 / 12
 - **Applications Sent:** 0
-- **Current Streak:** 0 🔥
-- **Longest Streak:** 0 🔥
+- **Current Streak:** 1 🔥
+- **Longest Streak:** 1 🔥
+- **Daily Bar System:** 🟢 Low = 1 DSA + 1 concept + 1 career action | 🟡 High = 4 DSA + full SB + full career
+- **Missed Days:** 1 (Jul 28 — extends arc, no reset)
 
 ---
 
@@ -275,4 +278,7 @@
 ---
 
 ## 📝 Notes
-(Add any notes, adjustments, or reflections here)
+- System restructured Jul 30, 2026: completion-locked (Day N = Nth day worked), dual-bar (🟢 low / 🟡 high), dual-mode (🏠 laptop / 🏢 office)
+- Day numbers = working days, NOT calendar dates. Missed days extend the arc, never reset.
+- Grid "Done?" column: ⬜ = not started | 🟢 = low bar hit | 🟡 = high bar hit | ✅ = all tasks done
+- Evening Close-Out cron syncs ALL tracker files atomically when Ramish replies to 9:30 PM check-in.
