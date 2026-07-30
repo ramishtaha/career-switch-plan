@@ -19,15 +19,14 @@
 - **Next Laptop Session**: Create 4 files in IntelliJ → run app → test endpoints with browser/Postman
 
 ## 12-Week Plan State (COMPLETION-LOCKED)
-- **Start Date**: Monday, July 27, 2026
-- **Active Day Count**: 2 of 84 (Day 1 = Jul 27, Day 2 = Jul 29)
-- **Current Week**: 1
-- **Missed Days**: 1 (Jul 28 — personal reasons, zero guilt 💚)
-- **DSA Problems Solved**: 3 (Contains Duplicate, Two Sum, Valid Anagram)
-- **DSA Unaided**: 0/3 (0% — all used Copilot, fine for now, re-solve unaided before Oct)
-- **Current Streak**: 1 day 🔥 (Jul 29)
-- **Longest Streak**: 1 day 🔥
-- **System Designs Practiced**: 0 / 10
+- **Plan Version**: V2 (optimized, starts Aug 3)
+- **Start Date**: Monday, August 3, 2026
+- **Active Day Count**: 0 of 84 (V1 had 3 working days — progress carries over: 3 DSA problems, 0 Spring Boot code)
+- **Current Week**: 0 (pre-launch, V2 starts Aug 3)
+- **DSA Problems Solved**: 3 (Contains Duplicate, Two Sum, Valid Anagram — all Copilot-assisted)
+- **DSA Unaided**: 0/3 (0% — re-solve unaided before Oct)
+- **Current Streak**: 0 (V1 reset for V2 launch)
+- **System Designs Practiced**: 0 / 8
 - **Mock Interviews**: 0 / 12
 - **Applications Sent**: 0
 - **Claude Cert Progress**: not started
@@ -36,8 +35,7 @@
 - **🟢 Low Bar** (streak alive): 1 DSA problem + 1 concept/30 min Spring Boot + 1 career action
 - **🟡 High Bar** (push day): 4 DSA problems + full Spring Boot session + full career block
 - **Rule**: Hit low bar → day ✅. Hit high bar → 🔥 bonus. Missed days extend arc, never reset.
-- **Banked Days**: 0 (complete high-bar work for 3 future days in one day = bank 2)
-- **Last Bar Hit**: Jul 29 — 🟡 (3 DSA problems, exceeded low bar)
+- **Banked Days**: 0
 
 ## Learning Modes
 - **🏠 LAPTOP** (home, evenings + weekends): Full IDE, new concepts, code, grilling, project work
@@ -45,22 +43,22 @@
 - **Office output counts toward same daily bar** — solving 2 DSA at office = 2 of 4 done before evening
 - **Office DSA gets `Help: Copilot ⚠️` flag** — track for unaided re-solve before interviews
 
-## Day State (auto-filled by Evening Close-Out)
-- **Date**: —
-- **Fasting Today**: —
-- **Mood**: —
-- **Survival Layer**: —
-- **Evening Reset**: —
-- **Post-workout meal**: —
-- **Bar Hit Today**: —
-- **Mode Used Today**: —
-- **Office Time Used**: —
+## Career Path Strategy (V2)
+- **Plan A (Primary)**: Java + Spring Boot Backend Engineer at BFSI GCC
+- **Plan B (Fallback)**: AI/GenAI Engineer at Product Company (pivot point: Week 6)
+- **Plan C (Safety Net)**: Stay TCS, build portfolio, switch Q1 2027
+
+## Habit System Status
+- **Reels Addiction**: ACTIVE PROBLEM — evening trigger after office
+- **Sleep**: NOT FIXED — scrolling late, no tahajjud
+- **Phone in bedroom**: UNKNOWN (fix Week 1)
+- **Coming Home Protocol**: NOT ESTABLISHED
+- **Fajr consistency**: UNKNOWN
 
 ## Weekly Review
 - **Last Review**: Jul 26 (Week 0 pre-launch)
-- **Next Review**: Friday, Jul 31 (end of Week 1)
-- **Chastity Check-in**: prompted Jul 26 (awaiting response)
-- **Last Learning Session**: Jul 29 — DSA (Valid Anagram ✅, Group Anagrams started)
+- **Next Review**: Friday, Aug 7 (end of V2 Week 1)
+- **Last Learning Session**: Jul 29 — DSA (Valid Anagram ✅)
 
 ## Claude Certification
 - **Status**: not started
@@ -69,7 +67,10 @@
 
 ## Notes
 - System initialized: Jul 24, 2026
-- System restructured: Jul 30, 2026 (dual-bar + dual-mode + completion-locked + single-source-of-truth)
-- Ustadh (Gemini) + Rafiq (app) replaced by Hermes
+- V1 plan ran Jul 27-30: 3 working days, 3 DSA problems, 0 Spring Boot code written
+- V2 plan launches Aug 3: simplified (one primary focus per week, not 6 concurrent)
+- Key V2 changes: DSA target 100 (not 171), one incremental project (not 6+ tech stack), cloud/K8s deferred to Week 4+, AI as weekly 2hr block (not daily)
+- Habit system is Week 1's REAL goal — without fixing reels/sleep, nothing else sticks
 - All reference files in /root/career-switch-plan/
-- Cron jobs active: morning check-in (8:30 AM), evening close-out (9:30 PM), prayer reminders, DSA nudge (8 AM), Friday review, GitHub backup
+- V2 plan file: ramish-12-week-plan-v2.md
+- Cron jobs active: morning check-in, evening close-out, prayer reminders, Friday review, GitHub backup
