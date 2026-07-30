@@ -1,76 +1,89 @@
 # Session State — Ramish Mentor System
 
 > Auto-updated by Hermes via Evening Close-Out. Read at start of every session.
-> This replaces the Ustadh State Report — I have persistent memory.
 
 ---
 
 ## Active Tracks
-- **Learning**: ✓ ACTIVE — Goal: Senior/Staff backend engineer, GCC/product co, 14-18 LPA
+- **Learning**: ✓ ACTIVE — Goal: Senior/Staff backend engineer, GCC/product co, 14-18+ LPA
 - **Body+Nutrition**: ✓ ACTIVE — Goal: Competition weight cut, daily MMA 7-8 AM
-- **Deen+Chastity**: ✓ ACTIVE — Goal: Prayer consistency, chastity recovery, spiritual growth
+- **Deen+Chastity**: ✓ ACTIVE — Goal: Prayer consistency, tahajjud daily, chastity recovery
 
 ## Learning Mode
 - **Current Mode**: LAPTOP (hands-on coding with IntelliJ)
 - **Last Concept Taught**: Spring Boot layered architecture (Entity→Repository→Service→Controller flow)
 - **Concepts Understood**: What Spring Boot is (auto-config, DI, embedded server), annotations = labels, 4-layer flow (Controller→Service→Repository→DB), @Service on class not method
-- **Concepts Pending**: @Entity details, @RestController annotations breakdown, @GetMapping/@PostMapping, @PathVariable/@RequestBody, JpaRepository methods, running the app, testing endpoints
+- **Concepts Pending**: @Entity details, @RestController, @GetMapping/@PostMapping, @PathVariable/@RequestBody, JpaRepository methods, running the app, testing endpoints
 - **Code Files Given (not yet created on laptop)**: Product.java, ProductRepository.java, ProductService.java, ProductController.java
-- **Next Laptop Session**: Create 4 files in IntelliJ → run app → test endpoints with browser/Postman
+- **Next Laptop Session**: Create 4 files in IntelliJ → run app → test endpoints
 
-## 12-Week Plan State (COMPLETION-LOCKED)
-- **Plan Version**: V2 (optimized, starts Aug 3)
+## 12-Week Plan State (V2 — COMPLETION-LOCKED)
+- **Plan Version**: V2 (optimized, starts Aug 3, 2026)
 - **Start Date**: Monday, August 3, 2026
-- **Active Day Count**: 0 of 84 (V1 had 3 working days — progress carries over: 3 DSA problems, 0 Spring Boot code)
-- **Current Week**: 0 (pre-launch, V2 starts Aug 3)
-- **DSA Problems Solved**: 3 (Contains Duplicate, Two Sum, Valid Anagram — all Copilot-assisted)
-- **DSA Unaided**: 0/3 (0% — re-solve unaided before Oct)
-- **Current Streak**: 0 (V1 reset for V2 launch)
+- **Active Day Count**: 0 of 84 (V1 carryover: 3 DSA problems, 0 Spring Boot code)
+- **Current Week**: 0 (pre-launch)
+- **DSA Problems Solved**: 3 (Contains Duplicate, Two Sum, Valid Anagram — all Copilot)
+- **DSA Unaided**: 0/3 (0% — V2 Day 1 = unaided re-solve of all 3)
+- **Current Streak**: 0 (V2 reset)
 - **System Designs Practiced**: 0 / 8
 - **Mock Interviews**: 0 / 12
 - **Applications Sent**: 0
 - **Claude Cert Progress**: not started
 
-## Daily Bar System
-- **🟢 Low Bar** (streak alive): 1 DSA problem + 1 concept/30 min Spring Boot + 1 career action
-- **🟡 High Bar** (push day): 4 DSA problems + full Spring Boot session + full career block
-- **Rule**: Hit low bar → day ✅. Hit high bar → 🔥 bonus. Missed days extend arc, never reset.
-- **Banked Days**: 0
-
-## Learning Modes
-- **🏠 LAPTOP** (home, evenings + weekends): Full IDE, new concepts, code, grilling, project work
-- **🏢 OFFICE** (TCS laptop + phone, weekdays free time): Discord, LeetCode, theory reading, Claude cert, recall drills
-- **Office output counts toward same daily bar** — solving 2 DSA at office = 2 of 4 done before evening
-- **Office DSA gets `Help: Copilot ⚠️` flag** — track for unaided re-solve before interviews
-
-## Career Path Strategy (V2)
-- **Plan A (Primary)**: Java + Spring Boot Backend Engineer at BFSI GCC
-- **Plan B (Fallback)**: AI/GenAI Engineer at Product Company (pivot point: Week 6)
+## Career Path Strategy
+- **Plan A (Primary)**: Java + Spring Boot → BFSI GCC (₹16-50 LPA)
+- **Plan B (Fallback)**: AI/GenAI Engineer → Product Co (₹20-40 LPA) — pivot point: Week 6
 - **Plan C (Safety Net)**: Stay TCS, build portfolio, switch Q1 2027
+
+## Daily Bar System
+- **🟢 Low Bar**: 1 DSA + 30-min Spring Boot + 1 career action
+- **🟡 High Bar**: 4 DSA + full Spring Boot + full career block
+- **Banked Days**: 3 high-bar days in one day = bank 2 credit days
+- **Rest Day**: zero guilt, arc continues
+
+## Daily Blueprint
+- **Golden Block**: 04:30-05:15 (DSA, barakah hours, laptop not phone)
+- **Office free time**: 13:30-14:30 (LeetCode/theory/Claude cert — counts toward bar)
+- **Evening Block**: 20:45-22:15 (Spring Boot 90 min)
+- **Sleep**: 22:30 (charger OUT of bedroom, greyscale ON)
+- **5-Min Rule**: home → wudu → pray → THEN anything (keystone habit)
 
 ## Habit System Status
 - **Reels Addiction**: ACTIVE PROBLEM — evening trigger after office
 - **Sleep**: NOT FIXED — scrolling late, no tahajjud
-- **Phone in bedroom**: UNKNOWN (fix Week 1)
-- **Coming Home Protocol**: NOT ESTABLISHED
+- **Phone in bedroom**: UNKNOWN (fix by Sunday Aug 2)
+- **5-Min Rule**: NOT ESTABLISHED (start Monday Aug 3)
 - **Fajr consistency**: UNKNOWN
+- **Tahajjud target**: Week 1-2 fix sleep+Fajr, Week 3-4 add tahajjud 1-2x, Week 5-12 daily
+
+## Reels Project
+- **Status**: Approved with guardrails (separate account, no prayer footage, documentary style)
+- **Device**: Personal phone for 5-6 days → second device
+- **Posting**: From laptop browser, Instagram app STAYS BLOCKED on personal phone
+
+## Bullet Journal
+- **Status**: Not yet built — build Sunday Aug 2
+- **Template**: in tracker/habit-tracker.md
 
 ## Weekly Review
 - **Last Review**: Jul 26 (Week 0 pre-launch)
 - **Next Review**: Friday, Aug 7 (end of V2 Week 1)
-- **Last Learning Session**: Jul 29 — DSA (Valid Anagram ✅)
 
 ## Claude Certification
 - **Status**: not started
-- **Study Mode**: office free time or after daily goals at home
-- **Progress**: —
+- **Study Mode**: office free time ONLY (do NOT eat into evening prep)
 
 ## Notes
-- System initialized: Jul 24, 2026
-- V1 plan ran Jul 27-30: 3 working days, 3 DSA problems, 0 Spring Boot code written
-- V2 plan launches Aug 3: simplified (one primary focus per week, not 6 concurrent)
-- Key V2 changes: DSA target 100 (not 171), one incremental project (not 6+ tech stack), cloud/K8s deferred to Week 4+, AI as weekly 2hr block (not daily)
-- Habit system is Week 1's REAL goal — without fixing reels/sleep, nothing else sticks
-- All reference files in /root/career-switch-plan/
-- V2 plan file: ramish-12-week-plan-v2.md
+- V1 ran Jul 27-30: 3 working days, 3 DSA problems, 0 Spring Boot code written
+- V2 launches Aug 3: one primary focus per week, ~100 DSA target, incremental project
+- Habit system is Week 1's REAL goal
+- Reference files:
+  - MASTER-BLUEPRINT.md = everything in one doc
+  - DAILY-BLUEPRINT.md = printable daily routine
+  - ramish-12-week-plan-v2.md = full week-by-week plan
+  - tracker/progress.md = 84-day grid
+  - tracker/dsa-tracker.md = DSA problem log
+  - tracker/habit-tracker.md = bullet journal system
+  - tracker/job-application-tracker.md = applications + salary negotiation
+- Deprecated: ramish-12-week-plan.md (V1), ramish-week1-plan.md (V1), week1-routine.md (replaced by DAILY-BLUEPRINT.md)
 - Cron jobs active: morning check-in, evening close-out, prayer reminders, Friday review, GitHub backup

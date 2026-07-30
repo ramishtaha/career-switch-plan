@@ -1,4 +1,13 @@
-# Daily Routine — Sunnah Path to Life Reform
+# ⚠️ DEPRECATED — Replaced by DAILY-BLUEPRINT.md
+
+> This file was the V1 daily routine (July 27 start).
+> It has been replaced by DAILY-BLUEPRINT.md which reflects the V2 plan (Aug 3 start).
+> Kept for reference only. Do NOT follow this schedule.
+> See: DAILY-BLUEPRINT.md for the current routine.
+
+---
+
+# V1 Daily Routine (ARCHIVED)
 > Active from: Monday, July 27, 2026
 > Principle: Allah first, then duniya, then career. All 5 prayers + 6 hours learning.
 

@@ -1,284 +1,329 @@
-# 📋 Progress Tracker — Ramish's 12-Week Plan
+# 📋 Progress Tracker — Ramish's 12-Week Plan V2
 
-> This file is auto-updated by Hermes during daily check-ins.
-> Manually edit only to add notes. Checkboxes are managed by the daily check-in system.
+> Auto-updated by Hermes via Evening Close-Out. Read at session start.
+> COMPLETION-LOCKED: Day N = Nth day WORKED, not calendar date. Missed days extend arc, never reset.
 
 ---
 
-## Overall Stats (COMPLETION-LOCKED — Day N = Nth day worked, not calendar date)
-- **Active Days Worked:** 2 / 84
-- **DSA Problems Solved:** 3
-- **DSA Unaided:** 0/3 (0%)
-- **System Designs Practiced:** 0 / 10
+## Overall Stats
+
+- **Plan Version:** V2 (starts Aug 3, 2026)
+- **Active Days Worked:** 0 / 84
+- **DSA Problems Solved:** 3 (V1 carryover: Contains Duplicate, Two Sum, Valid Anagram)
+- **DSA Unaided:** 0/3 (0% — re-solve ALL Copilot-flagged before Oct)
+- **System Designs Practiced:** 0 / 8 (3 banking-domain)
 - **Mock Interviews:** 0 / 12
-- **Applications Sent:** 0
-- **Current Streak:** 1 🔥
-- **Longest Streak:** 1 🔥
-- **Daily Bar System:** 🟢 Low = 1 DSA + 1 concept + 1 career action | 🟡 High = 4 DSA + full SB + full career
-- **Missed Days:** 1 (Jul 28 — extends arc, no reset)
+- **Applications Sent:** 0 / 50+
+- **Current Streak:** 0 (V2 reset)
+- **Longest Streak:** 0
+- **Career Path:** Plan A (Java+Spring→BFSI GCC) primary, Plan B (AI/GenAI) fallback at Week 6, Plan C (delay to Q1 2027) safety net
+- **Missed Days:** 0 (V1 had 1 missed day — Jul 28 — old data, not counted in V2)
 
 ---
 
-## WEEK 1 (Jul 27 — Aug 2): Foundations + First Microservices
-### DSA: Arrays, Hashing, Two Pointers, Stack, Linked List
+## Daily Bar System
 
-| # | Day | Date | DSA | Spring Boot | DevOps | AI | Done? |
-|---|-----|------|-----|-------------|-------|-----|-------|
-| 1 | Mon | Jul 27 | Contains Duplicate, Two Sum | Project setup, REST API, GitHub | Docker install | Explore inference dashboards | ⬜ |
-| 2 | Tue | Jul 28 | Valid Anagram, Group Anagrams, Top K Frequent | JPA + H2 CRUD, exception handling | Dockerize app | First API call (cURL) | ⬜ |
-| 3 | Wed | Jul 29 | Products of Array Except Self, Longest Consecutive | Validation, 2nd entity, One-to-Many | Docker Compose + Postgres | Java HTTP client, LLM description | ⬜ |
-| 4 | Thu | Jul 30 | Valid Palindrome, Two Sum II, 3Sum | Split into 2 microservices, RestTemplate | Docker Compose 2 services | /ai/generate-description endpoint | ⬜ |
-| 5 | Fri | Jul 31 | Container With Most Water, Trapping Rain Water | Spring Cloud Gateway | GitHub Actions CI | Configurable prompts (application.yml) | ⬜ |
-| 6 | Sat | Aug 1 | Valid Parentheses, Min Stack, Evaluate RPN | Eureka Service Discovery | Provision DO Droplet, SSH, Docker | Multi-model comparison | ⬜ |
-| 7 | Sun | Aug 2 | Reverse LL, Merge Two Sorted LL, LL Cycle | Resilience4j Circuit Breaker | Deploy to Droplet | Deploy AI endpoint + document | ⬜ |
+| Bar | Requirement |
+|-----|-------------|
+| 🟢 **Low Bar** (streak alive) | 1 DSA + 30-min Spring Boot + 1 career action |
+| 🟡 **High Bar** (push day) | 4 DSA + full Spring Boot session + full career block |
+| 🔥 **Banked Day** | 3 days of high-bar work in one day = bank 2 credit days |
+| 😴 **Rest Day** | "rest day" → zero guilt, arc continues |
+| ⬜ **Missed** | Extend arc, never reset. Zero guilt. Resume. |
+
+---
+
+## PHASE 1: FOUNDATION (Weeks 1-4) — "Build the Machine"
+
+### WEEK 1 (Aug 3-9): DSA Basics + Spring Boot Skeleton + Habit System
+**Theme:** Get the machine running. NO cloud. NO Kubernetes. NO AI. Just basics.
+**Primary Focus:** Arrays & Hashing (DSA) + Spring Boot Project Setup
+**Week 1 REAL Goal:** Habit system locked in (phone out of bedroom, greyscale, evening anchor)
+
+| # | Day | Date | DSA | Spring Boot | Habit System | Bar |
+|---|-----|------|-----|-------------|-------------|-----|
+| 1 | Mon | Aug 3 | Contains Duplicate, Two Sum (UNAIDED re-solve) | Setup JDK 17, IntelliJ, Maven, start.spring.io, push to GitHub | Charger OUT, greyscale ON, app blocker | ⬜ |
+| 2 | Tue | Aug 4 | Valid Anagram, Group Anagrams (UNAIDED) | Product entity + Repository, H2 DB, GET/POST endpoints | Sleep 22:30, Fajr on time | ⬜ |
+| 3 | Wed | Aug 5 | Top K Frequent, Encode/Decode Strings | ProductService layer, @ControllerAdvice exception handling | 5-Min Rule (home→wudu→pray) | ⬜ |
+| 4 | Thu | Aug 6 | Products of Array Except Self | Category entity (One-to-Many), validation | Qailulah 25-min timer | ⬜ |
+| 5 | Fri | Aug 7 | Revision: re-solve 2 without notes | Clean code, comments, 2 unit tests | Weekly Review | ⬜ |
+| 6 | Sat | Aug 8 | Valid Palindrome, Two Sum II | Validation (@Valid), Postman testing | Batch cook Sunday | ⬜ |
+| 7 | Sun | Aug 9 | Revision + REST | REST | Journal: weekly prep for Monday | ⬜ |
 
 **Week 1 Deliverables:**
-- [ ] ~15-18 DSA problems solved
-- [ ] 2-microservice Spring Boot project on GitHub
-- [ ] Dockerized with Docker Compose + Postgres
-- [ ] API Gateway + Eureka + Circuit Breaker
-- [ ] GitHub Actions CI pipeline
-- [ ] App deployed to DigitalOcean
-- [ ] AI endpoint calling LLM inference
+- [ ] 8 DSA problems (Arrays, Hashing, Two Pointers start)
+- [ ] Spring Boot CRUD app running locally with H2
+- [ ] Project on GitHub with 5+ commits
+- [ ] Phone out of bedroom for 7 consecutive nights
+- [ ] Sleep before 22:30 at least 5 nights
 
 ---
 
-## WEEK 2 (Aug 3 — Aug 9): Spring Security + Sliding Window + First Deploy
-### DSA: Sliding Window, Binary Search
+### WEEK 2 (Aug 10-16): Sliding Window + Docker + Resume v1
+**Theme:** DSA patterns deepen. Containerize. Start resume.
+**Primary Focus:** DSA patterns + Docker + Resume
 
-| # | Day | Date | DSA | Spring Boot | System Design | DevOps | Career | Done? |
-|---|-----|------|-----|-------------|---------------|-------|--------|-------|
-| 8 | Mon | Aug 3 | Best Time Buy/Sell Stock, Longest Substring No Repeat | Spring Security JWT | Grokking intro + scalability | — | Resume v1 brain-dump | ⬜ |
-| 9 | Tue | Aug 4 | Longest Repeating Char Replace, Permutation in String | Spring Security RBAC | Load balancers | — | Resume v1 structure | ⬜ |
-| 10 | Wed | Aug 5 | Minimum Window Substring, Fruit Into Baskets | Spring Actuator + metrics | Caching (Redis) | — | Resume v1 TCS bullets | ⬜ |
-| 11 | Thu | Aug 6 | Binary Search, Search a 2D Matrix | Spring profiles (dev/staging/prod) | Database scaling | — | Resume v1 skills section | ⬜ |
-| 12 | Fri | Aug 7 | Koko Eating Bananas, Search Rotated Sorted Array | Spring Boot Test | — | — | Resume v1 full draft | ⬜ |
-| 13 | Sat | Aug 8 | Time-Based Key-Value Store, Median Two Sorted Arrays | Spring Cloud Gateway deep dive | — | Deploy to DO Droplet | Resume v1 review | ⬜ |
-| 14 | Sun | Aug 9 | Weekly revision (3 problems no notes) | Refactor + clean code | — | — | Share resume with peers | ⬜ |
+| # | Day | DSA | Spring Boot / DevOps | Career | Bar |
+|---|------|-----|---------------------|--------|-----|
+| 8 | Mon | Buy/Sell Stock, Longest Substring No Repeat | Dockerize app, Dockerfile | Resume v1 brain dump | ⬜ |
+| 9 | Tue | Longest Repeating Char Replace, Permutation in String | Docker Compose: app + PostgreSQL | Resume structure | ⬜ |
+| 10 | Wed | Minimum Window Substring, Fruit Into Baskets | Spring Security JWT | TCS experience bullets | ⬜ |
+| 11 | Thu | Binary Search, Search 2D Matrix | Spring Actuator + metrics | Skills section | ⬜ |
+| 12 | Fri | Koko Eating Bananas, Search Rotated Array | Spring Profiles (dev/prod) | Resume v1 full draft | ⬜ |
+| 13 | Sat | Time-Based KV Store, Median Two Sorted Arrays | Spring Boot Test (@MockBean) | Share resume with peers | ⬜ |
+| 14 | Sun | Revision (3 no notes) | Refactor + clean code | Resume v1 sent | ⬜ |
 
 **Week 2 Deliverables:**
-- [ ] ~12 DSA problems (Sliding Window, Binary Search)
+- [ ] 8 DSA problems (Sliding Window, Binary Search)
+- [ ] App Dockerized with PostgreSQL
 - [ ] Spring Security, Actuator, Profiles, Tests
-- [ ] System design notes: scalability, LB, caching, DB scaling
-- [ ] App deployed with security
 - [ ] Resume v1 complete + sent to peers
 
 ---
 
-## WEEK 3 (Aug 10 — Aug 16): Trees + Kafka + First System Design
-### DSA: Trees (BST, traversals)
+### WEEK 3 (Aug 17-23): Trees + First System Design + Start Applications
+**Theme:** Add distributed systems thinking. Start the referral engine.
+**Primary Focus:** Trees (DSA) + System Design intro + Microservices
 
-| # | Day | Date | DSA | Spring Boot | System Design | DevOps | Career | Done? |
-|---|-----|------|-----|-------------|---------------|-------|--------|-------|
-| 15 | Mon | Aug 10 | Invert BT, Max Depth, Diameter | Kafka fundamentals + local setup | URL Shortener | K8s minikube basics | Resume v2 | ⬜ |
-| 16 | Tue | Aug 11 | Balanced BT, Same Tree, Subtree | Kafka producer (Product Service) | URL Shortener (draw + explain) | K8s pods, deployments | Resume v2 quantify | ⬜ |
-| 17 | Wed | Aug 12 | BST Search, Insert, Delete | Kafka consumer (Category Service) | Message queues vs pub-sub | K8s ConfigMaps, Secrets | Resume v2 complete | ⬜ |
-| 18 | Thu | Aug 13 | Kth Smallest BST, Validate BST | Kafka consumer groups, partitions | Rate Limiter | K8s deploy Spring Boot | LinkedIn optimization | ⬜ |
-| 19 | Fri | Aug 14 | Construct BT Preorder+Inorder, Level Order | Kafka exactly-once, idempotent producer | Rate Limiter (draw + explain) | K8s rolling updates | Connect 10 BFSI recruiters | ⬜ |
-| 20 | Sat | Aug 15 | BT Right Side View, Count Good Nodes | Kafka Schema Registry, Avro | Review both designs | LangChain4j doc loading | Start referral outreach | ⬜ |
-| 21 | Sun | Aug 16 | Weekly revision (3 tree problems) | Kafka review | — | — | Resume v2 + LinkedIn done | ⬜ |
+| # | Day | DSA | Spring Boot | System Design | Career | Bar |
+|---|------|-----|-------------|---------------|--------|-----|
+| 15 | Mon | Invert BT, Max Depth, Diameter | Split into 2 microservices, RestTemplate | Read Grokking intro | Resume v2 | ⬜ |
+| 16 | Tue | Balanced BT, Same Tree, Subtree | API Gateway (Cloud Gateway) | URL Shortener (capacity, base62) | LinkedIn optimization | ⬜ |
+| 17 | Wed | BST Search/Insert/Delete | Eureka Service Discovery | URL Shortener (draw + explain) | Connect 10 BFSI recruiters | ⬜ |
+| 18 | Thu | Kth Smallest BST, Validate BST | Resilience4j Circuit Breaker | Read: Kafka vs RabbitMQ | Start referral outreach | ⬜ |
+| 19 | Fri | Construct BT, Level Order | Refactor + clean code | Read: Load balancers, caching | Apply to 5 roles | ⬜ |
+| 20 | Sat | BT Right Side View, Count Good Nodes | First LLM API call (cURL to GLM) | Rate Limiter (token bucket) | Connect 10 more recruiters | ⬜ |
+| 21 | Sun | Revision (3 tree problems) | Revision | Rate Limiter (draw + explain) | Resume v2 + LinkedIn done | ⬜ |
 
 **Week 3 Deliverables:**
-- [ ] ~12 DSA problems (Trees, BST)
-- [ ] Kafka producer + consumer integrated
-- [ ] 2 system designs (URL Shortener, Rate Limiter)
-- [ ] K8s basics (minikube)
-- [ ] LangChain4j with chat memory
+- [ ] 8 DSA problems (Trees, BST)
+- [ ] 2-microservice project with Gateway + Eureka + Circuit Breaker
+- [ ] First LLM API call working
+- [ ] 2 system designs started (URL Shortener, Rate Limiter)
 - [ ] Resume v2 + LinkedIn optimized
-- [ ] 10+ BFSI recruiter connections
+- [ ] 10 recruiter connections + 5 applications started
 
 ---
 
-## WEEK 4 (Aug 17 — Aug 23): Heaps + Database Depth + K8s on Cloud
-### DSA: Heaps / Priority Queue
+### WEEK 4 (Aug 24-30): Heaps + Kafka + Cloud Deploy
+**Theme:** Add the missing distributed systems skill. Deploy to cloud.
+**Primary Focus:** Heaps (DSA) + Kafka integration
 
-| # | Day | Date | DSA | Spring Boot | System Design | DevOps | Career | Done? |
-|---|-----|------|-----|-------------|---------------|-------|--------|-------|
-| 22 | Mon | Aug 17 | Kth Largest in Stream, Last Stone Weight | N+1 query problem | Web Crawler | Managed K8s cluster | Follow up referrals | ⬜ |
-| 23 | Tue | Aug 18 | K Closest Points, Task Scheduler | Query plan analysis (EXPLAIN) | Web Crawler (explain) | Deploy to managed K8s | Connect 10 more recruiters | ⬜ |
-| 24 | Wed | Aug 19 | Merge K Sorted Lists, Find Median Data Stream | Indexing strategies | Notification System | K8s HPA autoscaling | Apply to 5 roles | ⬜ |
-| 25 | Thu | Aug 20 | Heaps revision | Connection pooling (HikariCP) | Notification System (explain) | K8s rolling updates | Apply to 5 more roles | ⬜ |
-| 26 | Fri | Aug 21 | — | Transaction isolation levels | Review designs | K8s namespaces, probes | Application tracker review | ⬜ |
-| 27 | Sat | Aug 22 | 5 heap problems re-solve | Flyway migration script | — | Docker vs K8s review | Connect 5 more recruiters | ⬜ |
-| 28 | Sun | Aug 23 | Weekly revision | Database depth review | — | — | Application tracker review | ⬜ |
+| # | Day | DSA | Spring Boot / DevOps | System Design | Career | Bar |
+|---|------|-----|---------------------|---------------|--------|-----|
+| 22 | Mon | Kth Largest in Stream, Last Stone Weight | Kafka: Docker local, producer (Product Service) | Web Crawler (BFS, dedup) | Follow up referrals | ⬜ |
+| 23 | Tue | K Closest Points, Task Scheduler | Kafka consumer (Category Service) | Web Crawler (explain) | Connect 10 more | ⬜ |
+| 24 | Wed | Merge K Sorted Lists, Find Median | Kafka consumer groups, partitions | Notification System | Apply to 5 roles | ⬜ |
+| 25 | Thu | Heaps revision | Deploy to DigitalOcean Droplet | Notification System (explain) | Apply to 5 more | ⬜ |
+| 26 | Fri | Re-solve 3 heaps no notes | GitHub Actions CI pipeline | Review designs | Application tracker review | ⬜ |
+| 27 | Sat | Re-solve 3 more | Verify app on public IP | — | Connect 5 more | ⬜ |
+| 28 | Sun | Revision | Kafka integration review | — | Application tracker review | ⬜ |
 
 **Week 4 Deliverables:**
-- [ ] ~10 DSA problems (Heaps)
-- [ ] Database depth: N+1, indexing, query plans, pooling, transactions, Flyway
-- [ ] 2 more system designs (Web Crawler, Notification System)
-- [ ] K8s on cloud (managed cluster, autoscaling, rolling updates, probes)
-- [ ] pgvector + RAG endpoint with streaming
-- [ ] 10+ BFSI GCC applications submitted
+- [ ] 8 DSA problems (Heaps)
+- [ ] Kafka producer + consumer in project
+- [ ] App deployed to DigitalOcean
+- [ ] GitHub Actions CI
+- [ ] 2 system designs (Web Crawler, Notification System)
+- [ ] 10+ applications submitted
+- [ ] ~34 DSA total (on track for ~100 by Week 12)
 
 ---
 
-## WEEK 5 (Aug 24 — Aug 30): Graphs + Spring Internals + Chat System
-### DSA: Graphs (BFS, DFS, topological sort)
+## PHASE 2: DEPTH (Weeks 5-8) — "Interview-Grade Engineer"
 
-| # | Day | Date | DSA | Spring Boot | System Design | DevOps | Career | Done? |
-|---|-----|------|-----|-------------|---------------|-------|--------|-------|
-| 29 | Mon | Aug 24 | Number of Islands, Max Area | Auto-configuration internals | Chat System (WebSocket) | GitHub Actions CD | Apply to 5 roles | ⬜ |
-| 30 | Tue | Aug 25 | Clone Graph, Course Schedule | Bean lifecycle | Chat System (storage, receipts) | Test CD pipeline | Mock interview 1 (pramp) | ⬜ |
-| 31 | Wed | Aug 26 | Pacific Atlantic, Course Schedule II | AOP (logging aspect) | Chat System (draw + explain) | CI tests block merge | Mock review | ⬜ |
-| 32 | Thu | Aug 27 | Connected Components, Graph Valid Tree | Conditional beans | WebSockets deep dive | — | Mock interview 2 (pramp) | ⬜ |
-| 33 | Fri | Aug 28 | Redundant Connection, Accounts Merge (Union Find) | Spring Boot revision | Chat System final review | Review CI/CD pipeline | Apply to 5 more roles | ⬜ |
-| 34 | Sat | Aug 29 | 5 graph problems re-solve | Spring Boot cheat sheet | Review all 5 designs | Document AI architecture | Connect 5 recruiters | ⬜ |
-| 35 | Sun | Aug 30 | Weekly revision | Revision | — | — | Review mock interviews 1 & 2 | ⬜ |
+### WEEK 5 (Aug 31-Sep 6): Graphs + Spring Internals + AI Integration
+**Theme:** Spring Boot under the hood. Add the AI differentiator.
+
+| # | Day | DSA | Spring Boot | AI Integration | Career | Bar |
+|---|------|-----|-------------|----------------|--------|-----|
+| 29 | Mon | Number of Islands, Max Area | Auto-configuration deep dive | LangChain4j dependency | Mock 1 (pramp DSA) | ⬜ |
+| 30 | Tue | Clone Graph, Course Schedule | Bean lifecycle | Chat memory feature | Apply to 5 | ⬜ |
+| 31 | Wed | Pacific Atlantic, Course Schedule II | AOP (@Before, @Around, logging aspect) | /ai/generate-description endpoint | Mock 2 (pramp DSA) | ⬜ |
+| 32 | Thu | Connected Components, Graph Valid Tree | Conditional beans | — | Apply to 5 | ⬜ |
+| 33 | Fri | Redundant Connection, Accounts Merge | Spring Boot revision | — | Connect 5 recruiters | ⬜ |
+| 34 | Sat | 5 graph problems re-solve | Spring Boot cheat sheet | LangChain4j doc loading | Mock review | ⬜ |
+| 35 | Sun | Revision | Revision | — | Application tracker | ⬜ |
 
 **Week 5 Deliverables:**
-- [ ] ~12 DSA problems (Graphs, Union Find)
+- [ ] 8 DSA problems (Graphs, Union Find)
 - [ ] Spring Boot internals (auto-config, bean lifecycle, AOP, conditional beans)
-- [ ] Chat System design practiced
-- [ ] Full CI/CD pipeline
-- [ ] RAG endpoint with caching, history, fallback, streaming
+- [ ] LangChain4j integrated with chat memory + /ai endpoint
 - [ ] 2 mock interviews done
-- [ ] 20+ BFSI GCC applications submitted
+- [ ] 20+ applications submitted
 
 ---
 
-## WEEK 6 (Aug 31 — Sep 6): Tries + Concurrency + Transaction Processing
-### DSA: Tries, Backtracking
+### WEEK 6 (Sep 7-13): Tries + Concurrency + RAG + ⚠️ DECISION POINT
+**Theme:** Java concurrency is a core interview topic. Master it.
+**⚠️ END OF WEEK 6 — PLAN A/B/C DECISION:**
+- Spring Boot clicking → continue Plan A
+- AI thriving but Spring struggles → consider Plan B
+- Both struggling → simplify, extend timeline, Plan C
 
-| # | Day | Date | DSA | Spring Boot | System Design | DevOps | Career | Done? |
-|---|-----|------|-----|-------------|---------------|-------|--------|-------|
-| 36 | Mon | Aug 31 | Implement Trie, Search Suggestions | Threads, thread pools | Transaction Processing (banking!) | Prometheus + Grafana | Mock interview 3 | ⬜ |
-| 37 | Tue | Sep 1 | Design In-Memory FS, Word Search II | synchronized, volatile, Locks | Transaction Processing (draw) | Grafana dashboard | Mock review | ⬜ |
-| 38 | Wed | Sep 2 | Subsets, Combination Sum | CompletableFuture | Transaction Processing (explain) | Custom Prometheus metrics | Apply to 5 roles | ⬜ |
-| 39 | Thu | Sep 3 | Permutations, Word Search | Virtual Threads (Java 21) | Event sourcing + CQRS | Grafana alerting | 5 more referrals | ⬜ |
-| 40 | Fri | Sep 4 | N-Queens, Sudoku Solver | ExecutorService vs ForkJoinPool | Transaction Processing final | Observability review | Mock interview 4 (SD) | ⬜ |
-| 41 | Sat | Sep 5 | 5 problems re-solve (Tries+BT) | Concurrency cheat sheet | — | MCP server (optional) | Review all 4 mocks | ⬜ |
-| 42 | Sun | Sep 6 | Weekly revision | Revision | — | — | Half-point review | ⬜ |
+| # | Day | DSA | Spring Boot | AI Integration | System Design | Career | Bar |
+|---|------|-----|-------------|----------------|---------------|--------|-----|
+| 36 | Mon | Implement Trie, Search Suggestions | Threads, thread pools | pgvector extension | Transaction Processing (BANKING!) | Mock 3 | ⬜ |
+| 37 | Tue | Word Search II | synchronized, volatile, Locks | Store embeddings | Transaction Processing (draw) | Mock review | ⬜ |
+| 38 | Wed | Subsets, Combination Sum | CompletableFuture | RAG endpoint (retrieve→LLM→answer) | Transaction Processing (explain) | Apply to 5 | ⬜ |
+| 39 | Thu | Permutations, Word Search | Virtual Threads (Java 21) | Semantic search ("similar to X") | Event sourcing + CQRS | 5 referrals | ⬜ |
+| 40 | Fri | N-Queens, Sudoku Solver | ExecutorService vs ForkJoinPool | — | Transaction Processing final | Mock 4 (SD 45min) | ⬜ |
+| 41 | Sat | 5 problems re-solve | Concurrency cheat sheet | — | — | Review all 4 mocks | ⬜ |
+| 42 | Sun | Revision | Revision | — | — | Half-point review + ⚠️ DECISION | ⬜ |
 
 **Week 6 Deliverables:**
-- [ ] ~10 DSA problems (Tries, Backtracking)
+- [ ] 8 DSA problems (Tries, Backtracking)
 - [ ] Java concurrency mastered (threads, locks, CompletableFuture, virtual threads)
+- [ ] RAG endpoint with pgvector (semantic search + retrieval augmented generation)
 - [ ] Transaction Processing System design (banking domain!)
-- [ ] Observability stack (Prometheus + Grafana + alerts)
 - [ ] 4 mock interviews done
-- [ ] Claude Developer cert prep started (if TCS offers free)
+- [ ] Claude cert prep started (if TCS offers free)
 
 ---
 
-## WEEK 7 (Sep 7 — Sep 13): DP 1D + JVM Internals + Market Data Design
-### DSA: Dynamic Programming (1D)
+### WEEK 7 (Sep 14-20): DP 1D + JVM Internals + Observability
+**Theme:** DP is the hardest DSA topic. Start early. JVM = senior engineer differentiator.
 
-| # | Day | Date | DSA | Spring Boot | System Design | DevOps | Career | Done? |
-|---|-----|------|-----|-------------|---------------|-------|--------|-------|
-| 43 | Mon | Sep 7 | Climbing Stairs, Min Cost, House Robber | JVM memory model | Market Data Streaming (banking!) | OWASP Top 10 | Mock interview 5 | ⬜ |
-| 44 | Tue | Sep 8 | House Robber II, Longest Palindromic Substring | JVM Garbage Collection | Market Data (draw) | JWT deep dive + refresh tokens | Mock review | ⬜ |
-| 45 | Wed | Sep 9 | Word Break, Coin Change | JVM classloading | Market Data (explain) | OAuth2 login | Apply to 5 roles | ⬜ |
-| 46 | Thu | Sep 10 | Longest Increasing Subseq, Buy/Sell Cooldown | JVM memory leaks, heap dump | Time-series DBs | OWASP ZAP audit | Mock interview 6 (SD) | ⬜ |
-| 47 | Fri | Sep 11 | Longest Common Subseq, Decode Ways | JVM thread dump, jstack | Market Data final | Security review | Mock review | ⬜ |
-| 48 | Sat | Sep 12 | 5 DP problems re-solve | JVM cheat sheet | Review all designs | AI feature final review | Connect 5 recruiters | ⬜ |
-| 49 | Sun | Sep 13 | Weekly revision | Revision | — | — | Application tracker review | ⬜ |
+| # | Day | DSA | Spring Boot / DevOps | System Design | Career | Bar |
+|---|------|-----|---------------------|---------------|--------|-----|
+| 43 | Mon | Climbing Stairs, Min Cost, House Robber | JVM memory model (heap, stack, metaspace) | Market Data Streaming (BANKING!) | Mock 5 | ⬜ |
+| 44 | Tue | House Robber II, Longest Palindromic Substring | JVM GC (G1GC, ZGC, Serial) | Market Data (draw) | Mock review | ⬜ |
+| 45 | Wed | Word Break, Coin Change | JVM classloading | Market Data (explain) | Apply to 5 | ⬜ |
+| 46 | Thu | LIS, Buy/Sell Cooldown | JVM memory leaks, heap dump | Time-series DBs | Mock 6 (SD) | ⬜ |
+| 47 | Fri | LCS, Decode Ways | JVM thread dump, jstack | Market Data final | Mock review | ⬜ |
+| 48 | Sat | 5 DP problems re-solve | JVM cheat sheet | Review all designs | Connect 5 recruiters | ⬜ |
+| 49 | Sun | Revision | Revision | — | Application tracker | ⬜ |
 
 **Week 7 Deliverables:**
-- [ ] ~10 DSA problems (DP 1D)
+- [ ] 8 DSA problems (DP 1D)
 - [ ] JVM internals (memory, GC, classloading, diagnostics)
 - [ ] Market Data Streaming Platform design (banking domain!)
-- [ ] Security (OWASP, JWT, OAuth2, ZAP audit)
-- [ ] AI feature complete and documented
+- [ ] Security (OWASP, JWT, OAuth2)
 - [ ] 6 mock interviews done
 
 ---
 
-## WEEK 8 (Sep 14 — Sep 20): DP 2D + Microservices Patterns + Regulatory Reporting
-### DSA: Dynamic Programming (2D)
+### WEEK 8 (Sep 21-27): DP 2D + Microservices Patterns + Mid-Point Review
+**Theme:** Advanced DP + production patterns. Halfway checkpoint.
 
-| # | Day | Date | DSA | Spring Boot | System Design | DevOps | Career | Done? |
-|---|-----|------|-----|-------------|---------------|-------|--------|-------|
-| 50 | Mon | Sep 14 | Unique Paths, Triangle | CQRS pattern | Regulatory Reporting (banking!) | Multi-env CI/CD | Mock interview 7 | ⬜ |
-| 51 | Tue | Sep 15 | Longest Palindromic Subseq, Interleaving String | Saga pattern | Regulatory Reporting (draw) | CI/CD security scan (Trivy) | Mock review | ⬜ |
-| 52 | Wed | Sep 16 | Edit Distance, Distinct Subsequences | Outbox pattern | Regulatory Reporting (explain) | CI/CD DAST scan | Apply to 5 roles | ⬜ |
-| 53 | Thu | Sep 17 | Burst Balloons, Regex Matching | API composition, BFF | Data partitioning | Review CI/CD pipeline | Mock interview 8 (SD) | ⬜ |
-| 54 | Fri | Sep 18 | Stone Game, Minimum Path Sum | Microservices revision | Regulatory Reporting final | Final CI/CD review | Review all 8 mocks | ⬜ |
-| 55 | Sat | Sep 19 | 5 DP 2D re-solve | Microservices cheat sheet | Review all 8 designs | Project final review | Application tracker review | ⬜ |
-| 56 | Sun | Sep 20 | Weekly revision | Revision | — | — | Application tracker full review | ⬜ |
+| # | Day | DSA | Spring Boot | AI Integration | System Design | Career | Bar |
+|---|------|-----|-------------|----------------|---------------|--------|-----|
+| 50 | Mon | Unique Paths, Triangle | CQRS pattern | RAG caching (Spring Cache + Redis) | Regulatory Reporting (BANKING!) | Mock 7 | ⬜ |
+| 51 | Tue | Longest Palindromic Subseq, Interleaving String | Saga pattern | Streaming response (SSE) | Regulatory Reporting (draw) | Mock review | ⬜ |
+| 52 | Wed | Edit Distance, Distinct Subsequences | Outbox pattern | Input validation + rate limiting | Regulatory Reporting (explain) | Apply to 5 | ⬜ |
+| 53 | Thu | Burst Balloons, Regex Matching | API composition, BFF | — | Data partitioning | Mock 8 (SD) | ⬜ |
+| 54 | Fri | Stone Game, Minimum Path Sum | Microservices revision | RAG final polish | Regulatory Reporting final | Review all 8 mocks | ⬜ |
+| 55 | Sat | 5 DP 2D re-solve | Microservices cheat sheet | AI architecture README | Review all 8 designs | Application tracker | ⬜ |
+| 56 | Sun | Revision | Revision | — | — | Half-point review | ⬜ |
 
 **Week 8 Deliverables:**
-- [ ] ~10 DSA problems (DP 2D)
+- [ ] 8 DSA problems (DP 2D)
 - [ ] Microservices patterns (CQRS, Saga, Outbox, API composition)
 - [ ] Regulatory Reporting Pipeline design (your domain!)
-- [ ] Multi-env CI/CD with security scans
+- [ ] RAG endpoint with caching, streaming, validation, rate limiting
 - [ ] 8 mock interviews done
-- [ ] Claude Developer cert exam (if ready)
+- [ ] ~66 DSA total
 
 ---
 
-## WEEK 9 (Sep 21 — Sep 27): LeetCode Speed Run + Revision + Risk Limits
-### DSA: LeetCode Medium speed run (timed, 20 min each)
+## PHASE 3: SHARPENING (Weeks 9-12) — "Interview Ready"
 
-| # | Day | Date | DSA | Spring Boot | System Design | DevOps | Career | Done? |
-|---|-----|------|-----|-------------|---------------|-------|--------|-------|
-| 57 | Mon | Sep 21 | 5 mediums (20 min each) | Top 20 Spring Boot Q&A | Risk Limits Enforcement (banking!) | Final production deploy | Resume final polish | ⬜ |
-| 58 | Tue | Sep 22 | 5 mediums | Top 20 Java Q&A | Pick top 3 designs | Architecture documentation | Mock interview 9 | ⬜ |
-| 59 | Wed | Sep 23 | 5 mediums | HashMap, ConcurrentHashMap internals | Risk Limits (explain) | Document CI/CD pipeline | Mock review | ⬜ |
-| 60 | Thu | Sep 24 | 5 mediums | Concurrency interview Q&A | Real-time processing patterns | Project docs final | Mock interview 10 (SD) | ⬜ |
-| 61 | Fri | Sep 25 | 5 mediums | Spring Security interview Q&A | Risk Limits final | Project final review | Mock review | ⬜ |
-| 62 | Sat | Sep 26 | 10 re-solve (struggles) | Spring Boot cheat sheet | Review top 3 designs | — | Connect 5 recruiters | ⬜ |
-| 63 | Sun | Sep 27 | Weekly revision | Revision | — | — | Application tracker review | ⬜ |
+### WEEK 9 (Sep 28-Oct 4): LeetCode Speed Run + Security + Active Interviews
+**Theme:** DSA speed. Security hardening. Start active interviewing.
+
+| # | Day | DSA | Spring Boot | DevOps | Career | Bar |
+|---|------|-----|-------------|--------|--------|-----|
+| 57 | Mon | 5 mediums (20-min timed) | OWASP Top 10 | CI/CD multi-env (dev→staging→prod) | Resume final polish | ⬜ |
+| 58 | Tue | 5 mediums (timed) | JWT deep dive + refresh rotation | GitHub Actions CD (auto-deploy K8s) | Mock 9 (DSA speed) | ⬜ |
+| 59 | Wed | 5 mediums (timed) | OAuth2 (Google/GitHub login) | Test CD pipeline | **START ACTIVE INTERVIEWING** | ⬜ |
+| 60 | Thu | 5 mediums (timed) | Spring Security revision | — | Active interviews | ⬜ |
+| 61 | Fri | 5 mediums (timed) | — | — | Mock 10 (SD) | ⬜ |
+| 62 | Sat | 10 re-solve (no notes, timed) | Spring Boot + Java cheat sheets | — | Connect 5 recruiters | ⬜ |
+| 63 | Sun | Revision | Revision | — | Application tracker | ⬜ |
 
 **Week 9 Deliverables:**
 - [ ] 25+ LeetCode mediums under timed conditions
-- [ ] Spring Boot + Java interview cheat sheets
-- [ ] Risk Limits Enforcement Service design (your domain!)
-- [ ] Project fully deployed, documented, CI/CD, observability
+- [ ] **ALL Copilot-flagged problems re-solved unaided** (non-negotiable)
+- [ ] Security (OWASP, JWT, OAuth2)
+- [ ] Multi-env CI/CD pipeline
 - [ ] Resume final version
 - [ ] 10 mock interviews done
+- [ ] Active interviewing started
 
 ---
 
-## WEEK 10 (Sep 28 — Oct 4): LeetCode Hard + Core Java + START INTERVIEWING
-### DSA: LeetCode Hard selected
+### WEEK 10 (Oct 5-11): LeetCode Hard + System Design Mocks
+**Theme:** Hard problems. System design under pressure.
 
-| # | Day | Date | DSA | Spring Boot | System Design | Career | Done? |
-|---|-----|------|-----|-------------|---------------|--------|-------|
-| 64 | Mon | Sep 28 | Median Two Sorted Arrays, Regex Matching, Merge K Lists | Collections framework revision | Regulatory Reporting (depth) | **START INTERVIEWING** | ⬜ |
-| 65 | Tue | Sep 29 | Trapping Rain Water, Sliding Window Max, Word Ladder | Concurrency revision | Regulatory Reporting (explain) | Active interviews | ⬜ |
-| 66 | Wed | Sep 30 | Alien Dictionary, Word Search II, Reconstruct Itinerary | JVM revision | Event-driven architecture | Active interviews | ⬜ |
-| 67 | Thu | Oct 1 | Min Window Substring, Longest Valid Parens, Largest Rect Histogram | I/O (NIO, channels) | Review all designs | Active interviews | ⬜ |
-| 68 | Fri | Oct 2 | N-Queens, Sudoku Solver, Jump Game II | Exceptions deep dive | Mock system design (30 min) | Active interviews | ⬜ |
-| 69 | Sat | Oct 3 | 5 hard re-solve | Core Java cheat sheet | Mock system design (30 min) | Follow up interviews | ⬜ |
-| 70 | Sun | Oct 4 | Weekly revision | Revision | — | Application tracker review | ⬜ |
+| # | Day | DSA | System Design | Career | Bar |
+|---|------|-----|---------------|--------|-----|
+| 64 | Mon | Median Two Sorted Arrays, Trapping Rain Water | Risk Limits Enforcement (BANKING!) | Active interviews | ⬜ |
+| 65 | Tue | Largest Rect Histogram, Merge K Lists | Risk Limits (explain) | Active interviews | ⬜ |
+| 66 | Wed | Word Ladder, Basic Calculator | Regulatory Reporting Pipeline (BANKING!) | Active interviews | ⬜ |
+| 67 | Thu | Sliding Window Max, Longest Valid Parens | Regulatory Reporting (explain) | Active interviews | ⬜ |
+| 68 | Fri | N-Queens, Sudoku Solver, Jump Game II | Mock system design (random prompt) | Active interviews | ⬜ |
+| 69 | Sat | 5 hard re-solve | Mock system design (random prompt) | Follow up interviews | ⬜ |
+| 70 | Sun | Revision | Review all designs | Application tracker | ⬜ |
 
 **Week 10 Deliverables:**
 - [ ] 15+ LeetCode hards solved
-- [ ] Core Java fully revised
-- [ ] Active interviews started
+- [ ] 2 banking-domain system designs (Risk Limits, Regulatory Reporting)
+- [ ] Active interviews in progress
 - [ ] 12 mock interviews done
 
 ---
 
-## WEEK 11 (Oct 5 — Oct 11): Interview Simulation + System Design Mocks
+### WEEK 11 (Oct 12-18): Contest Simulation + Final Project Polish
+**Theme:** Contest-level DSA. Project documentation.
 
-| # | Day | Date | DSA | Spring Boot | System Design | Career | Done? |
-|---|-----|------|-----|-------------|---------------|--------|-------|
-| 71 | Mon | Oct 5 | LeetCode contest (4 problems, 90 min) | Explain auto-config aloud (record) | Mock: distributed cache (45 min) | Active interviews | ⬜ |
-| 72 | Tue | Oct 6 | LeetCode contest (4 problems, 90 min) | Explain JVM GC aloud (record) | Mock: distributed message queue | Active interviews | ⬜ |
-| 73 | Wed | Oct 7 | Contest problems re-solve | Explain ConcurrentHashMap aloud | Mock: transaction processing | Active interviews | ⬜ |
-| 74 | Thu | Oct 8 | 5 hards (25 min each) | Explain Spring Security JWT aloud | Mock: rate limiter | Active interviews | ⬜ |
-| 75 | Fri | Oct 9 | 5 hards (25 min each) | — | Mock: transaction processing | Active interviews | ⬜ |
-| 76 | Sat | Oct 10 | 10 re-solve (no notes) | — | Mock: market data streaming | Review interviews | ⬜ |
-| 77 | Sun | Oct 11 | Weekly revision | — | Review all mock designs | Application tracker review | ⬜ |
+| # | Day | DSA | Project | System Design | Career | Bar |
+|---|------|-----|---------|---------------|--------|-----|
+| 71 | Mon | LeetCode contest (4 problems, 90 min) | Final production deploy (2 services + Postgres + Gateway + Kafka + RAG) | Mock: distributed cache (45 min) | Active interviews | ⬜ |
+| 72 | Tue | LeetCode contest (4 problems, 90 min) | README: architecture diagram + data flow + security | Mock: distributed message queue | Active interviews | ⬜ |
+| 73 | Wed | Contest problems re-solve | Document AI feature (RAG architecture) | Mock: transaction processing | Active interviews | ⬜ |
+| 74 | Thu | 5 hards (25-min each) | Project demo prep (5 min) | Mock: rate limiter | Active interviews | ⬜ |
+| 75 | Fri | 5 hards (25-min each) | — | Mock: market data streaming | Active interviews | ⬜ |
+| 76 | Sat | 10 re-solve (no notes) | Final project review | Review all mock designs | Review interviews | ⬜ |
+| 77 | Sun | Revision | — | Review | Application tracker | ⬜ |
+
+**Week 11 Deliverables:**
+- [ ] 20+ LeetCode hards + contest simulation
+- [ ] System design mock practice (4+ full mocks)
+- [ ] Project fully deployed + documented
+- [ ] Active interviews in progress
+- [ ] Confidence in explaining Spring Boot, Java, system design aloud
 
 ---
 
-## WEEK 12 (Oct 12 — Oct 18): Final Revision + Interview Excellence
+### WEEK 12 (Oct 19-25): Final Revision + Offers + Negotiation
+**Theme:** Close the loop. Get the offer.
 
-| # | Day | Date | DSA | Spring Boot | System Design | Career | Done? |
-|---|-----|------|-----|-------------|---------------|--------|-------|
-| 78 | Mon | Oct 12 | 10 problems (timed, no notes) | Read through all cheat sheets | Strongest design (15 min, record) | Active interviews | ⬜ |
-| 79 | Tue | Oct 13 | 2 hrs on weakest pattern | Project demo prep (5 min) | 2nd strongest design (15 min) | Active interviews | ⬜ |
-| 80 | Wed | Oct 14 | 2 hrs on weakest pattern | Mock: project + Spring Q&A (30 min) | 3rd strongest design (15 min) | Active interviews + negotiation prep | ⬜ |
-| 81 | Thu | Oct 15 | 5 mixed problems (timed) | Final cheat sheet review | Random prompt (30 min) | Active interviews | ⬜ |
-| 82 | Fri | Oct 16 | 5 mixed problems (timed) | Final project review | Final cheat sheet review | Active interviews + negotiation | ⬜ |
-| 83 | Sat | Oct 17 | 10 problems (final practice) | Final project demo run | Final system design run | Offer negotiation practice | ⬜ |
-| 84 | Sun | Oct 18 | Light revision | Light revision | Light revision | Plan next steps + REST | ⬜ |
+| # | Day | DSA | Spring Boot | System Design | Career | Bar |
+|---|------|-----|-------------|---------------|--------|-----|
+| 78 | Mon | 10 problems (timed, no notes) | All cheat sheets review | Strongest design (15 min, record) | Active interviews | ⬜ |
+| 79 | Tue | 2 hrs weakest pattern | Project demo prep (5 min) | 2nd strongest (15 min) | Active interviews | ⬜ |
+| 80 | Wed | 2 hrs weakest pattern | Mock: project + Spring Q&A (30 min) | 3rd strongest (15 min) | Negotiation prep | ⬜ |
+| 81 | Thu | 5 mixed (timed) | Final cheat sheet review | Random prompt (30 min) | Active interviews | ⬜ |
+| 82 | Fri | 5 mixed (timed) | Final project review | Final cheat sheet review | Active interviews + negotiation | ⬜ |
+| 83 | Sat | 10 problems (final practice) | Final demo run-through | Final system design run | Offer negotiation practice | ⬜ |
+| 84 | Sun | Light revision | Light revision | Light revision | Plan next steps + REST | ⬜ |
+
+**Week 12 Deliverables:**
+- [ ] ~100 DSA problems solved, 60%+ unaided
+- [ ] Production Spring Boot + AI project on GitHub
+- [ ] 8 system designs practiced (3 banking-domain)
+- [ ] 12 mock interviews done
+- [ ] 50+ applications submitted
+- [ ] 1+ offer (or actively interviewing into November)
+- [ ] If offer received: RESIGN. Start the 90-day clock.
 
 ---
 
 ## 📝 Notes
-- System restructured Jul 30, 2026: completion-locked (Day N = Nth day worked), dual-bar (🟢 low / 🟡 high), dual-mode (🏠 laptop / 🏢 office)
+
+- V2 plan starts Monday, August 3, 2026
+- V1 ran Jul 27-30: 3 working days, 3 DSA problems (all Copilot), 0 Spring Boot code written
+- V2 changes: one primary focus per week (not 6 concurrent), ~100 DSA target (not 171), one incremental project, cloud/K8s deferred to Week 4+, AI as weekly 2hr block
+- Habit system is Week 1's REAL goal — without fixing reels/sleep, nothing else sticks
 - Day numbers = working days, NOT calendar dates. Missed days extend the arc, never reset.
-- Grid "Done?" column: ⬜ = not started | 🟢 = low bar hit | 🟡 = high bar hit | ✅ = all tasks done
-- Evening Close-Out cron syncs ALL tracker files atomically when Ramish replies to 9:30 PM check-in.
+- Evening Close-Out cron syncs ALL tracker files when Ramish replies to check-in.

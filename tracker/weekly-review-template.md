@@ -1,17 +1,17 @@
-# 📋 Weekly Review Template — Ramish
+# 📋 Weekly Review Template — Ramish V2
 
-> Copy this template each Friday. Fill it in honestly. No shame — just data.
-> ADHD tip: set a 15-minute timer. If it's not done in 15 min, do the top 3 sections only.
+> Copy this template each Friday. Fill it honestly. No shame — just data.
+> ADHD tip: set a 15-minute timer. If not done in 15 min, do the top 3 sections only.
 
 ---
 
 ## Week ___ (___ to ___)
 
-### 📊 Auto-Scoreboard (Hermes fills this from tracker data)
+### 📊 Scoreboard
 
 | Metric | This Week | Target | % |
 |--------|-----------|--------|---|
-| DSA solved | __ | 15-18 | __% |
+| DSA solved | __ | 8 | __% |
 | DSA unaided % | __% | rising | — |
 | Spring Boot sessions | __ | per plan | __% |
 | Career actions | __ | per plan | __% |
@@ -21,16 +21,21 @@
 | Weakest pattern | __ | — | — |
 | Strongest pattern | __ | — | — |
 
-### 🎯 What I Planned vs What I Did
+### 📿 Habit Scorecard
 
-| Category | Planned | Completed | % |
-|----------|---------|-----------|---|
-| DSA Problems | __ | __ | __% |
-| Spring Boot/Java | __ tasks | __ tasks | __% |
-| DevOps/Cloud | __ tasks | __ tasks | __% |
-| System Design | __ | __ | __% |
-| Career (resume/applications) | __ | __ | __% |
-| Mock Interviews | __ | __ | __% |
+| Habit | This Week | Target |
+|-------|-----------|--------|
+| Sleep by 22:30 | __/7 | 7 |
+| Fajr on time | __/7 | 7 |
+| Tahajjud | __/7 | build up |
+| 5-Min Rule (home→wudu→pray) | __/7 | 7 |
+| Phone out of bedroom | __/7 | 7 |
+| Greyscale ON | __/7 | 7 |
+| Reels < 30 min/day | __/7 | 7 |
+| MMA done | __/7 | 7 |
+| Post-workout meal | __/7 | 7 |
+| Journal filled | __/7 | 7 |
+| Qailulah done | __/7 | most days |
 
 ### 🏆 Wins This Week
 1. 
@@ -41,41 +46,29 @@
 1. 
 2. 
 
-### 📊 DSA Stats
-- Problems solved this week: ___
-- Total solved: ___
-- Current streak: ___ days 🔥
-- Weakest pattern this week: 
-- Strongest pattern this week: 
-
-### 🔧 One Adjustment for Next Week
+### 🔧 ONE Adjustment for Next Week
 > Pick ONE thing to change. Not five. One.
-> Examples: "Start DSA at 10 AM instead of 3 PM", "Do project work before DSA", "Lower target to 2 problems/day"
 
 **My one adjustment:** 
-
 
 ---
 
 ## 🤲 Spiritual Check-in
 
-### Prayer Consistency (1-10)
-- Fajr: __/10
-- Dhuhr: __/10
-- Asr: __/10
-- Maghrib: __/10
-- Isha: __/10
-
-### Tahajjud this week? ___ times
+### Prayer Consistency (___/7 days each)
+- Fajr: __/7
+- Dhuhr: __/7
+- Asr: __/7
+- Maghrib: __/7
+- Isha: __/7
+- Tahajjud: __/7
 
 ### One sunnah to focus on next week:
-> Examples: "Pray on time", "Tahajjud once a week", "Dhikr after prayers", "Read Quran daily"
 
 **My focus:** 
 
 ### Reflection (1-2 sentences):
 > How did I do spiritually this week? What's pulling me away from prayer?
-
 
 ---
 
@@ -87,8 +80,6 @@
 ---
 
 ## 📌 Notes / Blockers / Ideas
-> Anything else worth noting? Ideas for project, interviews, study approach?
-
 
 ---
 

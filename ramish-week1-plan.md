@@ -1,4 +1,12 @@
-# Ramish — Week 1 Plan (Starting Monday, July 27)
+# ⚠️ DEPRECATED — Replaced by ramish-12-week-plan-v2.md (Week 1 section)
+
+> This is the V1 Week 1 plan (July 27 start, 15-18 DSA/week, cloud+K8s+AI in Week 1).
+> Replaced by ramish-12-week-plan-v2.md Week 1 (Aug 3 start, 8 DSA, no cloud until Week 4).
+> Kept for reference only.
+
+---
+
+# V1 Week 1 Plan (ARCHIVED) (Starting Monday, July 27)
 
 ## Cloud & AI Infrastructure
 - **DigitalOcean** — App deployment (Droplet or App Platform). Primary compute.

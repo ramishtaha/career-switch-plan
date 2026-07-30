@@ -1,4 +1,13 @@
-# Ramish — 12-Week Career Switch Plan
+# ⚠️ DEPRECATED — Replaced by ramish-12-week-plan-v2.md
+
+> This is the V1 12-week plan (July 27 start, 171 DSA target, 6 concurrent focuses).
+> It has been replaced by ramish-12-week-plan-v2.md (Aug 3 start, ~100 DSA, one primary focus per week).
+> Kept for reference only. Do NOT follow this plan.
+> See: ramish-12-week-plan-v2.md for the current plan.
+
+---
+
+# V1 12-Week Plan (ARCHIVED)
 ## From TCS 8.29 LPA → BFSI GCC / Product Co 16-22 LPA
 ### Start: Monday, July 27, 2026 | Target Interview: October 2026
 
