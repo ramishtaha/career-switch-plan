@@ -7,17 +7,14 @@
 
 ## Overall Stats
 
+> **Counts live in `session-state.md` — this file is the GRID only.**
+> If counts disagree, `session-state.md` wins. See `tracker/state-machine.md`.
+
 - **Plan Version:** V2 (starts Aug 3, 2026)
-- **Active Days Worked:** 0 / 84
-- **DSA Problems Solved:** 3 (V1 carryover: Contains Duplicate, Two Sum, Valid Anagram)
-- **DSA Unaided:** 0/3 (0% — re-solve ALL Copilot-flagged before Oct)
-- **System Designs Practiced:** 0 / 8 (3 banking-domain)
-- **Mock Interviews:** 0 / 12
-- **Applications Sent:** 0 / 50+
-- **Current Streak:** 0 (V2 reset)
-- **Longest Streak:** 0
-- **Career Path:** Plan A (Java+Spring→BFSI GCC) primary, Plan B (AI/GenAI) fallback at Week 6, Plan C (delay to Q1 2027) safety net
-- **Missed Days:** 0 (V1 had 1 missed day — Jul 28 — old data, not counted in V2)
+- **Active Days Worked:** 0 / 84 *(see session-state.md for current)*
+- **DSA / Designs / Mocks / Apps:** *(see session-state.md — single source of truth)*
+- **Career Path:** Plan A (Java+Spring→BFSI GCC) primary, B (AI) fallback Wk6, C (delay) safety net
+- **System Phase:** `pre-launch` (Day 1 = first worked day on/after Aug 3)
 
 ---
 

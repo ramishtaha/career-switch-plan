@@ -65,9 +65,10 @@ career-switch-plan/
 ├── ramish-week1-plan.md        ← DEPRECATED (V1 week 1)
 │
 ├── tracker/
-│   ├── progress.md              ← 84-day grid (V2 aligned)
-│   ├── dsa-tracker.md           ← DSA problem log
+│   ├── progress.md              ← 84-day grid (V2 aligned, no duplicate counts)
+│   ├── dsa-tracker.md           ← DSA problem log (per-problem, not aggregate)
 │   ├── habit-tracker.md         ← Bullet journal system (prayers, sleep, reels, habits)
+│   ├── state-machine.md         ← 🧠 System rules: edge cases, bar calc, scenarios
 │   ├── weekly-review-template.md ← Friday review questions
 │   └── job-application-tracker.md ← Applications, referrals, interviews
 │

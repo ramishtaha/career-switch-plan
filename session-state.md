@@ -1,6 +1,14 @@
 # Session State — Ramish Mentor System
 
+> **SINGLE SOURCE OF TRUTH for all aggregate counts.**
 > Auto-updated by Hermes via Evening Close-Out. Read at start of every session.
+> Rules: `tracker/state-machine.md` — Hermes follows it, no improvising.
+
+---
+
+## System Phase
+- **Current Phase**: `pre-launch` (Day 1 starts Aug 3 — pre-launch work = carryover, doesn't increment Day count)
+- **Phase Transition**: `pre-launch` → `active` on first worked day ON OR AFTER Aug 3
 
 ---
 
@@ -36,10 +44,11 @@
 - **Plan C (Safety Net)**: Stay TCS, build portfolio, switch Q1 2027
 
 ## Daily Bar System
-- **🟢 Low Bar**: 1 DSA + 30-min Spring Boot + 1 career action
+- **🟢 Low Bar**: 1 DSA + 30-min Spring Boot + 1 career action (all three)
 - **🟡 High Bar**: 4 DSA + full Spring Boot + full career block
-- **Banked Days**: 3 high-bar days in one day = bank 2 credit days
-- **Rest Day**: zero guilt, arc continues
+- **Banked Days**: 0 / 5 max (expire after 14 days)
+- **Rest Day**: zero guilt, arc continues, streak preserved (pause not break)
+- **Rules**: See `tracker/state-machine.md` for all edge cases, bar calculation, scenarios
 
 ## Daily Blueprint
 - **Golden Block**: 04:30-05:15 (DSA, barakah hours, laptop not phone)
