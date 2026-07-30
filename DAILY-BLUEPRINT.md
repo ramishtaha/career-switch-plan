@@ -118,12 +118,13 @@
 
 ---
 
-## 📅 SUNDAY (rest + prep)
+## 📅 SUNDAY (rest + prep — NO MMA)
 
 ```
 04:15  Tahajjud → Fajr
-07:00  MMA (optional — listen to body)
-08:00  Meal → shower → nap
+       → back to sleep (no MMA, no alarm pressure — this is your recovery day)
+08:00  Wake naturally → 🍳 breakfast
+09:00  😴 Qailulah if needed
 
 10:00  🍳 BATCH COOK (2-2.5 hrs):
        □ 2 proteins (chicken + dal OR beef + eggs)
@@ -132,13 +133,15 @@
        □ Label: day + meal
        □ Fridge: 4 days. Freezer: rest.
 
-13:00  Dhuhr + lunch (today's fresh batch)
+13:00  🕌 Dhuhr + lunch (today's fresh batch)
 13:30  😴 FULL REST — family, friends, hobby. Recovery IS training.
+       Your body needs this after Saturday sparring + 5 days of training.
 
-19:30  Maghrib → dinner → Isha
+17:30  🕌 Asr
+19:30  🕌 Maghrib → dinner → Isha
 20:45  📋 WEEKLY PREP:
        □ Monday clothes laid out
-       □ Gym bag packed
+       □ Gym bag packed (MMA returns Monday)
        □ DSA queue ready (problems picked)
        □ Charger OUT of bedroom
        □ Greyscale ON
