@@ -34,7 +34,7 @@
 07:00  🥊 MMA
 08:00  🍽️ POST-WORKOUT MEAL (protein + carbs) ← the real breakfast
 08:30  🚿 Shower + office prep
-       08:30-10:30 = YOUR TIME (rest / light reading / house task / bonus DSA)
+       08:30-10:30 = YOUR TIME (rest / light reading / boil eggs for today / house task)
 10:30  🎒 Leave for office (15-min commute)
 10:45  🏢 Desk
 
@@ -127,11 +127,12 @@
 09:00  😴 Qailulah if needed
 
 10:00  🍳 BATCH COOK (2-2.5 hrs):
-       □ 2 proteins (chicken + dal OR beef + eggs)
-       □ 1 carb (rice OR roti dough)
-       □ Portion INTO CONTAINERS at cook time
+       □ 2 proteins (chicken + basa OR beef keema + chicken)
+       □ 1 carb (roti dough — make fresh daily, don't batch)
+       □ Portion proteins INTO CONTAINERS at cook time
        □ Label: day + meal
        □ Fridge: 4 days. Freezer: rest.
+       (Eggs = boil fresh daily, NOT part of batch cook)
 
 13:00  🕌 Dhuhr + lunch (today's fresh batch)
 13:30  😴 FULL REST — family, friends, hobby. Recovery IS training.

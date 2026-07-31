@@ -50,7 +50,7 @@
 |------|--------|------|---------|
 | Batch protein (chicken/beef) | 150-200g cooked | 350-450 | 35-45g |
 | 2 rotis | 2 | 160 | 6g |
-| 2 boiled eggs | 2 | 140 | 12g |
+| 2 boiled eggs (boil fresh daily — 15-20 min unattended) | 2 | 140 | 12g |
 | Curd/dahi | 1 bowl | 80 | 4g |
 | Seasonal fruit | 1 | 80-100 | 1g |
 | **Breakfast total** | | **~810-930** | **~58-68g** |
@@ -110,9 +110,9 @@
 ---
 
 ## 📅 WEEKLY BATCH COOK (Sunday)
+## 📅 WEEKLY BATCH COOK (Sunday)
 
-> Cook 2 anchor proteins + boiled eggs + bone broth. No dal, no rice to batch.
-> Simpler cook — just proteins and broth. Rotis made fresh (quick) or buy atta dough.
+> Cook 2 anchor proteins + bone broth. Eggs boiled fresh daily (15-20 min unattended, no batch needed).
 
 ### 3-WEEK ROTATION
 
@@ -121,7 +121,6 @@
 |-----------|----------|-------|---------|
 | Chicken curry OR bhuna (thigh) | 1 kg raw → ~700g cooked | 4 portions | Fridge 4 days |
 | Basa fish curry OR pan-fried | 500g raw → 350g cooked | 2 portions | Fridge 2 days |
-| Boiled eggs | 12 eggs | 12 snacks | Fridge 7 days |
 | Bone broth | 1 pot | 5 cups | Fridge 5 days |
 
 **Week B (Beef Keema + Chicken):**
@@ -129,7 +128,6 @@
 |-----------|----------|-------|---------|
 | Beef keema masala | 750g raw → ~500g cooked | 4 portions | Fridge 4 days |
 | Chicken tikka OR tandoori (oven) | 500g raw → 350g cooked | 3 portions | Fridge 3 days |
-| Boiled eggs | 12 eggs | 12 snacks | Fridge 7 days |
 | Bone broth | 1 pot | 5 cups | Fridge 5 days |
 
 **Week C (Liver + Chicken + Basa):**
@@ -138,11 +136,11 @@
 | Chicken curry | 1 kg | 4 portions | Fridge 4 days |
 | Basa fish (pan-fried or curry) | 500g | 2 portions | Fridge 2 days |
 | Liver (kaleji) — cook FRESH, don't batch | 200g | 1 portion | Eat same day (Sunday lunch) |
-| Boiled eggs | 12 | 12 snacks | Fridge 7 days |
 | Bone broth | 1 pot | 5 cups | Fridge 5 days |
 
 > **Rotate:** Week A → Week B → Week C → repeat.
-> **Midweek top-up (Wednesday):** Boil 6 more eggs. 10 min. No rice to cook.
+> **Eggs:** Boil FRESH daily — 15-20 min unattended (walk away, timer, done). No batching needed.
+> **Midweek top-up (Wednesday):** Pull 2-3 protein portions freezer → fridge. That's it.
 > **Prawns:** Occasional treat. Buy fresh, eat same day.
 > **Rotis:** Make fresh (5 min for 4 rotis) OR buy ready atta dough. Don't batch — fresh is better.
 
@@ -154,7 +152,7 @@
 - [ ] Chicken thigh/breast — 1 kg
 - [ ] Beef keema/mince — 750g (Week B)
 - [ ] Basa fillets (low-bone) — 500g (Week A/C)
-- [ ] Eggs — 2 dozen (24 eggs: 12 boiled + 12 cooking/eating)
+- [ ] Eggs — 2 dozen/week (boil fresh daily — 4-6 eggs/day. Do NOT batch-boil)
 - [ ] Liver/kaleji — 200g (Week C only, eat same day)
 - [ ] Prawns — occasional, buy fresh same day
 - [ ] Whey protein — 1 tub (lasts ~1 month, gap-filler)
@@ -240,12 +238,13 @@
 2. **Dinner = LOW CARB.** No roti, no rice. Protein + veg + curd. The cut's secret weapon.
 3. **Pre-workout is LIGHT.** Broth + dates = 160 kcal, fast energy.
 4. **Post-workout meal is IMMEDIATE.** Within 30 min. Protein synthesis peaks.
-5. **If batch runs out:** Fallback = boiled eggs + curd + fruit. Zero guilt.
+5. **If batch runs out:** Fallback = boiled eggs (boil fresh, 15 min unattended) + curd + fruit. Zero guilt.
 6. **Eating out:** Gauge protein. If mostly carbs, add 3-4 boiled eggs after.
 7. **Whey is built into post-workout.** 2 scoops + 500ml 6-7% milk = 67-70g protein. This is the backbone of your protein intake. Don't skip the shake.
-8. **Water:** 3-4 litres/day. MMA + cut + study = dehydration kills focus.
-9. **Coffee/tea:** Fine. No sugar. Black coffee pre-MMA is OK.
-10. **Cheat meal:** 1 per week, Saturday post-sparring. One meal, not a full day.
+8. **Eggs = boil fresh daily.** 15-20 min, unattended (put on stove, set timer, walk away). Do NOT batch-boil eggs on Sunday. Fresh eggs taste better and you don't need to store them for a week.
+9. **Water:** 3-4 litres/day. MMA + cut + study = dehydration kills focus.
+10. **Coffee/tea:** Fine. No sugar. Black coffee pre-MMA is OK.
+11. **Cheat meal:** 1 per week, Saturday post-sparring. One meal, not a full day.
 
 ---
 
