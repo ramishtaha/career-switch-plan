@@ -35,39 +35,51 @@
 
 ### MEAL 2 — POST-WORKOUT / BREAKFAST (08:00 AM)
 > Largest meal. Most carbs here. Earned by training.
+> Carries major protein load since lunch is often skipped.
 
 | Item | Amount | kcal | Protein |
 |------|--------|------|---------|
-| Batch protein (chicken/beef/eggs) | 150-180g cooked | 350-400 | 35-45g |
+| Batch protein (chicken/beef/eggs) | 180-200g cooked | 400-450 | 40-50g |
 | Rice | 1 cup cooked | 200 | 4g |
-| Dal | ½ cup | 100 | 6g |
+| Dal | 1 cup | 200 | 12g |
+| 2 boiled eggs | 2 | 140 | 12g |
 | Curd/dahi | 1 small bowl | 80 | 4g |
-| **Total** | | **~730-780** | **~49-59g** |
+| **Total** | | **~1020-1070** | **~72-82g** |
 
 ---
 
-### MEAL 3 — OFFICE LUNCH (13:00, during Dhuhr break)
-> Batch-cooked, heated. Moderate carb.
+### MEAL 3 — OFFICE (13:00, during Dhuhr break)
+> Ramish SKIPS lunch most days. Doesn't carry food. Eats only if hungry.
+> When he eats: boiled eggs + cheese sandwich (office cafeteria, limited protein).
 
+**Option A — Skip (most days):**
+- Just water + maybe tea. Fasting window until dinner.
+- Protein gets loaded at breakfast + dinner instead.
+
+**Option B — Light cafeteria snack (some days):**
 | Item | Amount | kcal | Protein |
 |------|--------|------|---------|
-| Batch protein (chicken/beef/fish) | 150-200g | 350-450 | 35-50g |
-| Rice | ½ cup OR 1 roti | 100-150 | 2-3g |
-| Dal (if available) | ½ cup | 100 | 6g |
-| **Total** | | **~550-700** | **~43-59g** |
+| Double boiled egg cheese sandwich | 1 | 350 | 18g |
+| 2-3 extra boiled eggs (if available) | 2-3 | 140-210 | 12-18g |
+| **Total** | | **~350-560** | **~18-36g** |
+
+> **KEY:** Office lunch is NOT a reliable protein source. Breakfast + dinner carry the load.
+> If skipping lunch → eat slightly more at breakfast (add 1 egg or extra dal).
 
 ---
 
 ### MEAL 4 — DINNER (19:45, after Maghrib)
 > LOW CARB. No rice, no roti. Protein + dal + veg only.
+> This is the BIG protein meal — carries the load since lunch is skipped.
 
 | Item | Amount | kcal | Protein |
 |------|--------|------|---------|
-| Batch protein OR 4 boiled eggs | 150g OR 4 eggs | 250-350 | 25-30g |
-| Dal | ½ cup | 100 | 6g |
+| Batch protein OR 5-6 boiled eggs | 200g OR 5-6 eggs | 350-450 | 35-50g |
+| Dal | 1 cup | 200 | 12g |
 | Saag/spinach OR sabzi | 1 bowl | 60 | 3g |
+| Curd/dahi | 1 bowl | 80 | 4g |
 | Haldi doodh (pre-sleep, 22:00) | 1 cup | 120 | 5g |
-| **Total** | | **~530-630** | **~39-44g** |
+| **Total** | | **~810-910** | **~59-74g** |
 
 ---
 
@@ -81,6 +93,8 @@
 | Fat | ~70g | ~65-75g |
 
 > **Protein gap:** If you're short on protein (under 150g), add 2-3 boiled eggs as a snack or 1 scoop whey in water. Whey is the last 5% — food first.
+>
+> **Fish note:** Basa is the daily fish — lean, cheap, low bones, batch-friendly. Salmon is mostly unavailable/expensive here — skip it. Prawns = occasional treat (taste, not protein strategy). Rawas/surmai if available and reasonable.
 
 ---
 
@@ -90,11 +104,11 @@
 
 ### SUNDAY BATCH COOK MENU (rotates weekly)
 
-**Week A (Chicken + Fish):**
+**Week A (Chicken + Basa):**
 | Batch Item | Quantity | Yield | Storage |
 |-----------|----------|-------|---------|
 | Chicken curry OR bhuna (thigh) | 1 kg raw → ~700g cooked | 4 portions | Fridge 4 days |
-| Rawas/surmai curry OR grilled | 500g raw → 350g cooked | 2 portions | Fridge 2 days |
+| Basa fish curry OR pan-fried | 500g raw → 350g cooked | 2 portions | Fridge 2 days |
 | Dal (masoor/moong) | 1 pot | 4 portions | Fridge 4 days |
 | Rice (cook fresh or batch) | 2 cups dry → 6 cups cooked | 6 portions | Fridge 3 days |
 | Boiled eggs | 12 eggs | 12 snacks | Fridge 7 days |
@@ -110,11 +124,11 @@
 | Boiled eggs | 12 eggs | 12 snacks | Fridge 7 days |
 | Bone broth | 1 pot | 5 cups | Fridge 5 days |
 
-**Week C (Liver + Chicken + Fish):**
+**Week C (Liver + Chicken + Basa):**
 | Batch Item | Quantity | Yield | Storage |
 |-----------|----------|-------|---------|
 | Chicken curry | 1 kg | 4 portions | Fridge 4 days |
-| Fish (rawas/surmai) | 500g | 2 portions | Fridge 2 days |
+| Basa fish (pan-fried or curry) | 500g | 2 portions | Fridge 2 days |
 | Liver (kaleji) — cook FRESH, don't batch | 200g | 1 portion | Eat same day (Sunday lunch) |
 | Dal | 1 pot | 4 portions | Fridge 4 days |
 | Rice | 2 cups | 6 portions | Fridge 3 days |
@@ -123,6 +137,7 @@
 
 > **Rotate:** Week A → Week B → Week C → repeat. Keeps variety without thinking.
 > **Midweek top-up (Wednesday):** Cook fresh rice (2 cups), boil 6 more eggs. 15 min.
+> **Prawns:** Occasional treat — not a batch protein. Buy fresh, eat same day.
 
 ---
 
@@ -130,10 +145,11 @@
 
 ### Proteins
 - [ ] Chicken thigh/breast — 1 kg
-- [ ] Beef keema/mince — 750g (Week B) OR fish 500g (Week A/C)
-- [ ] Fish (rawas/surmai) — 500g (Week A/C)
+- [ ] Beef keema/mince — 750g (Week B) OR basa 500g (Week A/C)
+- [ ] Basa fish (low-bone, lean, cheap) — 500g (Week A/C)
 - [ ] Eggs — 2 dozen (24 eggs: 12 boiled + 12 cooking)
 - [ ] Liver/kaleji — 200g (Week C only, eat same day)
+- [ ] Prawns — occasional, buy fresh same day (not weekly)
 
 ### Carbs
 - [ ] Rice — 2 kg bag (lasts 3-4 weeks)
@@ -194,19 +210,22 @@
 
 ---
 
-## 🍽️ SAMPLE WEEK (Week A — Chicken + Fish)
+## 🍽️ SAMPLE WEEK (Week A — Chicken + Basa)
 
-| Day | Pre-workout (05:45) | Post-workout (08:00) | Office lunch (13:00) | Dinner (19:45) |
-|-----|---------------------|---------------------|----------------------|----------------|
-| Mon* | Bone broth + 2 dates | 3 eggs + 1 cup rice + dal | Chicken curry + ½ rice + curd | 4 boiled eggs + saag + haldi doodh |
-| Tue | Bone broth + 2 dates | Chicken bhuna + 1 cup rice + dal | Chicken bhuna + 1 roti + dal | Fish curry + saag + haldi doodh |
-| Wed* | Bone broth + 2 dates | 3 eggs + 1 cup rice + dal | Fish curry + ½ rice + curd | Chicken bhuna + dal + haldi doodh |
-| Thu | Bone broth + 2 dates | Chicken curry + 1 cup rice + dal | Chicken curry + ½ rice + curd | 4 boiled eggs + saag + haldi doodh |
-| Fri | Bone broth + 2 dates | 3 eggs + 1 cup rice + dal | Chicken curry + 1 roti + dal | Chicken bhuna + dal + haldi doodh |
-| Sat | Bone broth + 2 dates | Big breakfast (fresh cook after sparring) | Post-sparring meal (protein + rice) | Fish + saag + haldi doodh |
+| Day | Pre-workout (05:45) | Post-workout (08:00) | Office (13:00) | Dinner (19:45) |
+|-----|---------------------|---------------------|-----------------|----------------|
+| Mon* | Bone broth + 2 dates | Chicken curry + 1 cup rice + dal + 2 eggs | Skip OR egg sandwich | Chicken curry (large) + dal + saag + haldi doodh |
+| Tue | Bone broth + 2 dates | Chicken bhuna + 1 cup rice + dal + 2 eggs | Skip | Basa curry (large) + dal + saag + haldi doodh |
+| Wed* | Bone broth + 2 dates | 4 eggs + 1 cup rice + dal | Skip OR egg sandwich | Chicken bhuna (large) + dal + saag + haldi doodh |
+| Thu | Bone broth + 2 dates | Chicken curry + 1 cup rice + dal + 2 eggs | Skip | 6 boiled eggs + dal + saag + haldi doodh |
+| Fri | Bone broth + 2 dates | Basa pan-fry + 1 cup rice + dal + 2 eggs | Skip OR egg sandwich | Chicken curry (large) + dal + haldi doodh |
+| Sat | Bone broth + 2 dates | Big breakfast (fresh cook post-sparring) | Post-sparring meal (protein + rice) | Basa + saag + haldi doodh |
 | Sun | Bone broth + 2 dates | Fresh cook (liver if Week C) + rice | Fresh meal (enjoy) | Batch cook tasting + haldi doodh |
 
 *Mon/Thu = fasting days. Suhoor replaces pre-workout. Iftar replaces dinner.
+
+> **Note:** Office column shows reality — most days skip, sometimes egg sandwich.
+> Protein is loaded at breakfast (72-82g) and dinner (59-74g). Office is bonus, not relied on.
 
 ---
 
