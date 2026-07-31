@@ -40,9 +40,9 @@
 **Step 1 — Shake IMMEDIATELY post-workout (within 10 min):**
 | Item | Amount | kcal | Protein |
 |------|--------|------|---------|
-| 6-7% fat milk | 500ml | 250-300 | 17-20g |
+| Mother Dairy Ultra milk (7% fat) | 500ml | 475-500 | ~16g |
 | Whey protein | 2 scoops | 200 | 50g |
-| **Shake total** | | **~450-500** | **~67-70g** |
+| **Shake total** | | **~675-700** | **~66-70g** |
 
 **Step 2 — Breakfast (15-20 min later):**
 | Item | Amount | kcal | Protein |
@@ -53,7 +53,7 @@
 | Seasonal fruit | 1 | 80-100 | 1g |
 | **Breakfast total** | | **~820-890** | **~68-78g** |
 
-> **Combined post-workout:** ~1270-1390 kcal, ~135-148g protein
+> **Combined post-workout:** ~1490-1610 kcal, ~134-148g protein
 
 ---
 
@@ -80,8 +80,10 @@
 | Batch protein OR 6 boiled eggs | 200g OR 6 eggs | 350-450 | 35-50g |
 | Sabzi (spinach/bhindi/seasonal veg) | 1 bowl | 80 | 3g |
 | Curd/dahi | 1 bowl | 80 | 4g |
-| Haldi doodh (pre-sleep, 22:00) | 1 cup | 120 | 5g |
-| **Total** | | **~630-730** | **~47-62g** |
+| Haldi doodh — Toned milk (3% fat) (pre-sleep, 22:00) | 250ml | ~150 | 8g |
+| **Total** | | **~600-700** | **~47-62g** |
+
+> **Haldi doodh uses toned milk (3% fat), NOT Ultra.** Same haldi + black pepper benefit, ~10g less fat/day. Ultra is for the post-workout shake only — taste + fat where you actually notice it.
 
 ---
 
@@ -89,10 +91,10 @@
 
 | Metric | Target | Typical Day |
 |--------|--------|-------------|
-| Calories | ~2050 | ~1860-2120 (skip lunch) / ~2210-2680 (with office snack) |
-| Protein | 170g | ~182-217g (shake + breakfast + dinner) |
+| Calories | ~2050 | ~1970-2230 (skip lunch) / ~2320-2790 (with office snack) |
+| Protein | 170g | ~181-216g (shake + breakfast + dinner) |
 | Carbs | ~50-60g | ~40-55g (dates + fruit + milk lactose only) |
-| Fat | ~100g | ~90-110g (milk, meat, ghee, curd, eggs) |
+| Fat | ~100g | ~85-105g (Ultra milk, toned milk, meat, ghee, curd, eggs) |
 
 > **Near-keto.** No rice, no dal, no roti. Your body runs on protein + fat.
 > Protein EXCEEDS target — excellent for muscle preservation on a cut.
@@ -164,7 +166,8 @@
 - [ ] Green chillies, coriander leaves
 
 ### Dairy + Fats
-- [ ] Milk (6-7% fat) — ~7 litres/week (post-workout shake + haldi doodh)
+- [ ] Mother Dairy Ultra milk (7% fat) — ~3.5 litres/week (post-workout shake ONLY, 500ml/day)
+- [ ] Mother Dairy Toned milk (3% fat) — ~1.75 litres/week (haldi doodh ONLY, 250ml/night)
 - [ ] Curd/dahi — 500g
 - [ ] Cheese (for office sandwich) — 1 pack
 - [ ] Ghee — small jar (lasts weeks)
@@ -200,7 +203,7 @@
 |------|-------|
 | 4-5 boiled eggs OR leftover protein | Protein floor |
 | Sabzi | 1 bowl |
-| Haldi doodh | 1 cup |
+| Haldi doodh (toned milk) | 1 cup | ~150 | ~8g |
 
 > **Fasting day total:** ~1800-1950 kcal. Don't overeat at iftar.
 
@@ -233,13 +236,14 @@
 4. **Post-workout shake is IMMEDIATE.** Within 10 min. 67-70g protein. Don't skip.
 5. **If batch runs out:** Fallback = boiled eggs (fresh) + curd + fruit. Zero guilt.
 6. **Eating out:** Gauge protein. If mostly carbs, add 3-4 boiled eggs after.
-7. **Whey is the post-workout backbone.** 2 scoops + 500ml 6-7% milk. Non-negotiable.
+7. **Whey is the post-workout backbone.** 2 scoops + 500ml Ultra milk (7%). Non-negotiable.
 8. **Eggs = boil fresh daily.** 15-20 min, unattended. Do NOT batch-boil.
 9. **Organ meat 2x/week, cook fresh.** Liver Sunday, kidney/brain Wednesday. Never batch. Never eat liver twice in a week (vitamin A cap).
 10. **No rice, no dal, no roti.** Near-keto. Body runs on protein + fat. Carbs only from dates, fruit, and milk.
 11. **Water:** 3-4 litres/day.
 12. **Coffee/tea:** Fine. No sugar.
 13. **Cheat meal:** 1 per week, Saturday post-sparring. One meal, not a full day.
+14. **Milk split (locked):** Ultra 7% = post-workout shake ONLY (500ml/day). Toned 3% = haldi doodh ONLY (250ml/night). Never swap. This keeps taste where it matters and trims ~90 kcal + 10g fat/day (~0.5kg faster loss over 12 weeks).
 
 ---
 
