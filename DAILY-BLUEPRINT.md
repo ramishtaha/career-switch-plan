@@ -127,12 +127,14 @@
 09:00  😴 Qailulah if needed
 
 10:00  🍳 BATCH COOK (2-2.5 hrs):
-       □ 2 proteins (chicken + basa OR beef keema + chicken)
-       □ 1 carb (roti dough — make fresh daily, don't batch)
+       □ Chicken curry/bhuna (1 kg) + Beef keema (750g) + Basa (500g)
+       □ Organ meat for Sunday lunch (liver — cook fresh, eat now)
+       □ No carb prep needed (no rice, no dal, no roti — near-keto diet)
        □ Portion proteins INTO CONTAINERS at cook time
        □ Label: day + meal
        □ Fridge: 4 days. Freezer: rest.
        (Eggs = boil fresh daily, NOT part of batch cook)
+       (Wednesday: cook kidney/brain fresh for dinner)
 
 13:00  🕌 Dhuhr + lunch (today's fresh batch)
 13:30  😴 FULL REST — family, friends, hobby. Recovery IS training.
