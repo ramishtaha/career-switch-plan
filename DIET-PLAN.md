@@ -164,14 +164,15 @@
 - [ ] Garlic — 1 bulb
 - [ ] Spinach (saag) OR bhindi OR seasonal veg — 2 bunches
 - [ ] Green chillies, coriander leaves
+### Dairy + Fats (DAILY purchase — Ramish buys fresh daily, no stockpiling)
+- [ ] **Daily:** 1× Mother Dairy Ultra milk (7%) 500ml pouch — post-workout shake ONLY
+- [ ] **Daily:** 1× Mother Dairy Toned milk (3%) 500ml pouch — haldi doodh ONLY (250ml/night, rest for tea/cooking)
+- [ ] **Weekly:** Curd/dahi — 500g
+- [ ] **Weekly:** Cheese (for office sandwich) — 1 pack
+- [ ] **Weekly:** Ghee — small jar (lasts weeks)
+- [ ] **Weekly:** Mustard oil — 1 bottle (lasts months)
 
-### Dairy + Fats
-- [ ] Mother Dairy Ultra milk (7% fat) — ~3.5 litres/week (post-workout shake ONLY, 500ml/day)
-- [ ] Mother Dairy Toned milk (3% fat) — ~1.75 litres/week (haldi doodh ONLY, 250ml/night)
-- [ ] Curd/dahi — 500g
-- [ ] Cheese (for office sandwich) — 1 pack
-- [ ] Ghee — small jar (lasts weeks)
-- [ ] Mustard oil — 1 bottle (lasts months)
+> **Rule:** Never let one packet do both jobs. If toned runs out at night, use water + haldi — don't break the split.
 
 ### Standing staples
 - [ ] Bone broth (frozen batch in freezer)
@@ -244,6 +245,7 @@
 12. **Coffee/tea:** Fine. No sugar.
 13. **Cheat meal:** 1 per week, Saturday post-sparring. One meal, not a full day.
 14. **Milk split (locked):** Ultra 7% = post-workout shake ONLY (500ml/day). Toned 3% = haldi doodh ONLY (250ml/night). Never swap. This keeps taste where it matters and trims ~90 kcal + 10g fat/day (~0.5kg faster loss over 12 weeks).
+15. **Milk bought DAILY.** Morning = 1× Ultra 500ml. Evening = 1× Toned 500ml. Never stockpile (48hr shelf life). If toned runs out at night → water + haldi, NOT Ultra.
 
 ---
 

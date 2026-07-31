@@ -75,8 +75,8 @@
 - **Template**: in tracker/habit-tracker.md
 
 ## Weekly Review
-- **Last Review**: Jul 26 (Week 0 pre-launch)
-- **Next Review**: Friday, Aug 7 (end of V2 Week 1)
+- **Last Review**: Jul 31 (Week 0 pre-launch — final pre-launch Friday check-in, Jumu'ah)
+- **Next Review**: Friday, Aug 7 (end of V2 Week 1 — first real scoreboard)
 
 ## Claude Certification
 - **Status**: not started
