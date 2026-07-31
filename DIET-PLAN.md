@@ -38,14 +38,25 @@
 > Largest meal. Most carbs here. Earned by training.
 > Carries major protein load since lunch is often skipped.
 
+**Step 1 — Immediately post-workout (within 10 min):**
 | Item | Amount | kcal | Protein |
 |------|--------|------|---------|
-| Batch protein (chicken/beef/eggs) | 200g cooked | 450-500 | 45-55g |
+| 6-7% fat milk | 500ml | 250-300 | 17-20g |
+| Whey protein | 2 scoops | 200 | 50g |
+| **Post-workout shake total** | | **~450-500** | **~67-70g** |
+
+**Step 2 — Proper breakfast (15-20 min later):**
+| Item | Amount | kcal | Protein |
+|------|--------|------|---------|
+| Batch protein (chicken/beef) | 150-200g cooked | 350-450 | 35-45g |
 | 2 rotis | 2 | 160 | 6g |
-| 3 boiled eggs | 3 | 210 | 18g |
+| 2 boiled eggs | 2 | 140 | 12g |
 | Curd/dahi | 1 bowl | 80 | 4g |
-| Seasonal fruit | 1 (banana/mango/seasonal) | 80-100 | 1g |
-| **Total** | | **~980-1050** | **~74-84g** |
+| Seasonal fruit | 1 | 80-100 | 1g |
+| **Breakfast total** | | **~810-930** | **~58-68g** |
+
+> **Post-workout + breakfast combined:** ~1260-1430 kcal, ~125-138g protein
+> **The shake hits FIRST** (fastest protein delivery to muscles), then real food 15 min later.
 
 ---
 
@@ -87,12 +98,14 @@
 
 | Metric | Target | Typical Day |
 |--------|--------|-------------|
-| Calories | ~2050 | ~1770-1940 (skip lunch) / ~2120-2500 (eat office snack) |
-| Protein | 170g | ~128-153g (2 meals) / ~146-189g (with office snack) |
-| Carbs | ~120g | ~100-120g (roti + dates + fruit) |
-| Fat | ~80g | ~75-85g |
+| Calories | ~2050 | ~2020-2330 (shake + breakfast + dinner, skip lunch) |
+| Protein | 170g | ~192-230g (shake 67g + breakfast 58-68g + dinner 47-62g + office 0-36g) |
+| Carbs | ~120g | ~100-120g (roti + dates + fruit + milk lactose) |
+| Fat | ~80g | ~75-90g (milk fat + ghee + meat fat + curd) |
 
-> **Protein gap:** If under 150g (likely on skip-lunch days), add 1 scoop whey in water post-workout OR 2-3 extra boiled eggs as evening snack. Whey is the gap-filler now — with no dal, you've lost 12g protein per serving.
+> **Protein is now EXCEEDING target** thanks to the post-workout shake (2 scoops + 500ml milk = 67-70g alone).
+> This is excellent for the cut — high protein preserves muscle and keeps you full.
+> No need for extra whey snacks later in the day unless you skip the shake.
 
 ---
 
@@ -160,8 +173,8 @@
 - [ ] Green chillies, coriander leaves
 
 ### Dairy + Fats
+- [ ] Milk (6-7% fat) — 3 litres/day (post-workout shake + haldi doodh) → ~7 litres/week
 - [ ] Curd/dahi — 500g
-- [ ] Milk — 1 litre (haldi doodh)
 - [ ] Cheese (for office sandwich) — 1 pack
 - [ ] Ghee — small jar (lasts weeks)
 - [ ] Mustard oil — 1 bottle (lasts months)
@@ -205,18 +218,19 @@
 
 ## 🍽️ SAMPLE WEEK (Week A — Chicken + Basa)
 
-| Day | Pre-workout (05:45) | Post-workout (08:00) | Office (13:00) | Dinner (19:45) |
-|-----|---------------------|---------------------|-----------------|----------------|
-| Mon* | Suhoor: dates+broth+2 eggs | Chicken curry + 2 rotis + 3 eggs + curd | Skip | Chicken (large) + sabzi + curd + haldi doodh |
-| Tue | Bone broth + 2 dates | Chicken bhuna + 2 rotis + 3 eggs + fruit | Skip | Basa (large) + sabzi + haldi doodh |
-| Wed* | Suhoor: dates+broth+2 eggs | 5 eggs + 2 rotis + curd + fruit | Skip OR egg sandwich | Chicken bhuna (large) + sabzi + haldi doodh |
-| Thu | Bone broth + 2 dates | Chicken curry + 2 rotis + 3 eggs + curd | Skip | 6 boiled eggs + sabzi + haldi doodh |
-| Fri | Bone broth + 2 dates | Basa pan-fry + 2 rotis + 3 eggs + fruit | Skip OR egg sandwich | Chicken (large) + sabzi + haldi doodh |
-| Sat | Bone broth + 2 dates | Big breakfast (fresh cook post-sparring) | Post-sparring meal (protein + roti) | Basa + sabzi + haldi doodh |
-| Sun | Bone broth + 2 dates | Fresh cook (liver if Week C) + 2 rotis | Fresh meal (enjoy) | Batch cook tasting + haldi doodh |
+> Every day: post-workout shake (500ml 6-7% milk + 2 scoops whey) IMMEDIATELY after MMA.
 
-*Mon/Thu = fasting days. Suhoor replaces pre-workout. Iftar replaces dinner.
-> Office = skip most days. Protein loaded at breakfast + dinner.
+| Day | Pre-workout (05:45) | Post-workout shake (08:00) | Breakfast (08:15) | Office (13:00) | Dinner (19:45) |
+|-----|---------------------|---------------------------|-------------------|-----------------|----------------|
+| Mon* | Suhoor: dates+broth+2 eggs | Milk + 2 scoops whey | Chicken curry + 2 rotis + 2 eggs + curd | Skip | Chicken (large) + sabzi + curd + haldi doodh |
+| Tue | Bone broth + 2 dates | Milk + 2 scoops whey | Chicken bhuna + 2 rotis + 2 eggs + fruit | Skip | Basa (large) + sabzi + haldi doodh |
+| Wed* | Suhoor: dates+broth+2 eggs | Milk + 2 scoops whey | 4 eggs + 2 rotis + curd + fruit | Skip OR sandwich | Chicken bhuna (large) + sabzi + haldi doodh |
+| Thu | Bone broth + 2 dates | Milk + 2 scoops whey | Chicken curry + 2 rotis + 2 eggs + curd | Skip | 6 boiled eggs + sabzi + haldi doodh |
+| Fri | Bone broth + 2 dates | Milk + 2 scoops whey | Basa pan-fry + 2 rotis + 2 eggs + fruit | Skip OR sandwich | Chicken (large) + sabzi + haldi doodh |
+| Sat | Bone broth + 2 dates | Milk + 2 scoops whey | Big breakfast (fresh cook post-sparring) | Post-sparring meal (protein + roti) | Basa + sabzi + haldi doodh |
+| Sun | Bone broth + 2 dates | Milk + 2 scoops whey | Fresh cook (liver if Week C) + 2 rotis | Fresh meal (enjoy) | Batch cook tasting + haldi doodh |
+
+*Mon/Thu = fasting days. Suhoor replaces pre-workout. Iftar replaces dinner. Shake still happens post-workout (fasted training = protein delivery critical).
 
 ---
 
@@ -228,7 +242,7 @@
 4. **Post-workout meal is IMMEDIATE.** Within 30 min. Protein synthesis peaks.
 5. **If batch runs out:** Fallback = boiled eggs + curd + fruit. Zero guilt.
 6. **Eating out:** Gauge protein. If mostly carbs, add 3-4 boiled eggs after.
-7. **Whey is gap-filler.** 1 scoop in water if under 150g protein. With no dal, you may need this more often.
+7. **Whey is built into post-workout.** 2 scoops + 500ml 6-7% milk = 67-70g protein. This is the backbone of your protein intake. Don't skip the shake.
 8. **Water:** 3-4 litres/day. MMA + cut + study = dehydration kills focus.
 9. **Coffee/tea:** Fine. No sugar. Black coffee pre-MMA is OK.
 10. **Cheat meal:** 1 per week, Saturday post-sparring. One meal, not a full day.
