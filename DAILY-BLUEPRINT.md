@@ -17,7 +17,7 @@
 | ~17:15 | **Asr** (office musalla) |
 | 19:30 | **Maghrib** (home) |
 | 20:30 | **Isha** |
-| 22:30 | **Sleep** |
+| 22:00 | **Sleep** (target — reality 22:30) |
 
 ---
 
@@ -25,12 +25,13 @@
 
 ```
 04:15  ⏰ Tahajjud (15 min)
-04:30  💻 GOLDEN BLOCK: DSA (45 min) ← hardest problem of the day
+04:30  💻 GOLDEN BLOCK: DSA — Revision 20 min + 1 new problem (25 min)
        Rule: LAPTOP, not phone. Phone outside bedroom.
+       Recall works on low sleep. New hard learning doesn't.
 05:15  📿 Fajr + adhkar
-05:45  🥊 Pre-workout: bone broth + 2 dates
-06:00  📖 Review yesterday's notes (20 min) + get ready
-06:45  🎒 Leave for MMA
+05:30  🥊 Pre-workout: bone broth + 2 dates
+05:45  💻 BLOCK 2: Spring Boot theory (45 min) ← pairs with evening coding
+06:30  🎒 Get ready + leave for MMA
 07:00  🥊 MMA
 08:00  🍽️ POST-WORKOUT MEAL (protein + carbs) ← the real breakfast
 08:30  🚿 Shower + office prep
@@ -52,16 +53,17 @@
 
 19:30  🕌 Maghrib
 19:45  🍽️ Dinner (heat + eat)
-20:15  📱 15 min guilt-free scroll (ONE timer)
+20:15  🫖 Non-screen reward: haldi doodh prep + 10 min stretch/music
 20:30  🕌 Isha
-20:45  💻 EVENING BLOCK: Spring Boot (90 min)
-22:15  📋 Reset: clothes, gym bag, 3 targets on paper, journal fill
-22:30  📵 Charger OUT of bedroom. Greyscale ON.
-22:35  😴 Sleep
+20:45  💻 EVENING BLOCK: Spring Boot (70 min) → git commit
+21:55  📋 Reset: clothes, gym bag, 3 targets on paper, journal fill
+22:00  📵 Charger OUT of bedroom. Greyscale ON. Melatonin (if cycling)
+22:05  😴 Sleep (target 22:00, reality 22:30)
 ```
 
-**Sleep math:** 22:35→04:15 = 5h40m + qailulah 25m ≈ 6h
-**Study total:** ~2.5-3 hrs (morning DSA + office bonus + evening Spring Boot)
+**Sleep math:** 22:05→04:15 = 6h10m + qailulah 25m ≈ 6h35m
+**Circadian fix (Wk 1-2):** Consistent wake time + bright light on waking + melatonin 0.3-1mg ~2h before target sleep. Clear dosage with physician. Phase out once rhythm stabilizes.
+**Study total:** ~3-3.5 hrs (morning DSA + morning theory + office bonus + evening Spring Boot)
 
 ---
 
@@ -81,11 +83,11 @@
 20:45  📝 Career block 1hr + Weekly Review 30 min:
        1. What clicked? What didn't?
        2. DSA count? Help-flag trend?
-       3. Sleep by 22:30 — how many nights?
+       3. Sleep by 22:00 — how many nights?
        4. Fajr — how many days? Tahajjud?
        5. Reels stole any evenings? How many?
        6. ONE adjustment for next week.
-22:30  Sleep
+22:00  Sleep
 ```
 
 ---
@@ -107,7 +109,7 @@
 18:00  🕌 Asr (late, at home) → walk / errands / people
 19:30  🕌 Maghrib → dinner → Isha
 20:45  📚 Light: system design reading OR AI block (1 hr)
-22:00  📵 Phone away → 22:30 sleep
+21:45  📵 Phone away → 22:00 sleep
 ```
 
 **Saturday differences from weekday:**
@@ -150,7 +152,7 @@
        □ Greyscale ON
        □ 3 targets for Monday on paper
        □ Journal: fill today's page
-22:30  Sleep
+22:00  Sleep
 ```
 
 ---
@@ -162,6 +164,24 @@
 | 1 | **The 5-Min Rule** — home → wudu → prayer → then anything | First 5 min decide the entire evening |
 | 2 | **Charger out of bedroom** | Tahajjud dies at 2 AM scrolling, not at the 4:15 alarm |
 | 3 | **Qailulah timer = 25 min** | Longer = groggy = evening block dies |
+
+---
+
+## 🔄 LATE WAKE PROTOCOL (when the chain breaks)
+
+> The routine is a chain. One domino falls, the rest cascade. This saves the day.
+
+| Wake Time | What Survives | What's Sacrificed |
+|-----------|--------------|-------------------|
+| By 06:00 | MMA + Fajr + office free time | Golden Block + Block 2 (Fajr immediately) |
+| 06:00-08:00 | Fajr + office free time + **evening block** | Golden Block + Block 2 + MMA |
+| After 08:00 | Fajr + **evening block (SACRED)** | Everything else |
+
+**Rules:**
+- **Never let a late wake kill the evening block.** That's the last line of defense.
+- **Fajr is ALWAYS first** — regardless of wake time.
+- Late wake = **low bar day** (1 DSA + 30 min Spring Boot + 1 career action).
+- Zero guilt. Recalibrate forward. Resume.
 
 ---
 

@@ -80,20 +80,19 @@
 | ~17:15 | **Asr** (office musalla / quiet corner) |
 | 19:30 | **Maghrib** (home) |
 | 20:30 | **Isha** |
-| 22:30 | **Sleep** |
+| 22:00 | **Sleep** (target — reality 22:30) |
 
 ## WEEKDAY (Mon-Thu)
 
 ```
 04:15  ⏰ Tahajjud (15 min)
-04:30  💻 GOLDEN BLOCK: DSA (45 min)
-       Silence + barakah + zero distractions
-       Hardest problem of the day goes HERE
+04:30  💻 GOLDEN BLOCK: DSA — Revision 20 min + 1 new problem (25 min)
+       Recall works on low sleep. New hard learning doesn't.
        Rule: laptop, NOT phone. Phone stays outside bedroom.
 05:15  📿 Fajr + adhkar
-05:45  🥊 Pre-workout: bone broth + 2 dates
-06:00  📖 Light: review yesterday's DSA notes (20 min) + get ready
-06:45  🎒 Leave for MMA
+05:30  🥊 Pre-workout: bone broth + 2 dates
+05:45  💻 BLOCK 2: Spring Boot theory (45 min) ← pairs with evening coding
+06:30  🎒 Get ready + leave for MMA
 07:00  🥊 MMA
 08:00  🍽️ POST-WORKOUT MEAL (real breakfast — protein + carbs)
 08:30  🚿 Shower → office prep
@@ -116,16 +115,17 @@
 
 19:30  🕌 Maghrib
 19:45  🍽️ Dinner (heat + eat)
-20:15  📱 15 min guilt-free scroll (ONE timer)
+20:15  🫖 Non-screen reward: haldi doodh prep + 10 min stretch/music
 20:30  🕌 Isha
-20:45  💻 EVENING BLOCK: Spring Boot (90 min)
-22:15  📋 Reset: clothes, gym bag, 3 targets on paper, journal fill
-22:30  📵 Charger OUT of bedroom. Greyscale ON.
-22:35  😴 Sleep
+20:45  💻 EVENING BLOCK: Spring Boot (70 min) → git commit
+21:55  📋 Reset: clothes, gym bag, 3 targets on paper, journal fill
+22:00  📵 Charger OUT of bedroom. Greyscale ON. Melatonin (if cycling)
+22:05  😴 Sleep (target 22:00, reality 22:30)
 ```
 
-**Sleep math:** 22:35→04:15 = 5h40m + qailulah 25m ≈ 6h. Tight but functional.
-**Study total:** ~2.5-3 hrs/day (morning DSA + office bonus + evening Spring Boot)
+**Sleep math:** 22:05→04:15 = 6h10m + qailulah 25m ≈ 6h35m
+**Circadian fix (Wk 1-2):** consistent wake + bright light + melatonin 0.3-1mg ~2h before sleep. Clear with physician. Phase out once stable.
+**Study total:** ~3-3.5 hrs/day (morning DSA + morning theory + office bonus + evening Spring Boot)
 
 ## FRIDAY (light day)
 
@@ -148,7 +148,7 @@
 17:30  Asr → walk / errands / people
 19:30  Maghrib → dinner → Isha
 20:45  📚 Light: system design reading OR AI block (1 hr)
-22:00  Phone away → 22:30 sleep
+22:00  Phone away → 22:00 sleep
 ```
 
 ## SUNDAY (rest + prep)
@@ -163,7 +163,7 @@ Same morning (Tahajjud, Fajr, MMA, meal, nap)
 19:30  Maghrib → dinner → Isha
 20:45  📋 Weekly prep: Mon clothes, gym bag, DSA queue,
        charger OUT, greyscale ON, 3 targets on paper
-22:30  Sleep
+22:00  Sleep
 ```
 
 ---
@@ -186,7 +186,7 @@ Same morning (Tahajjud, Fajr, MMA, meal, nap)
 ## 🕌 The Sunnah Routine (build in layers, not Day 1)
 
 **Week 1-2: Sleep + Fajr only**
-- Sleep 22:30. Phone out of bedroom.
+- Sleep 22:00 target. Phone out of bedroom.
 - Fajr on time. No tahajjud pressure yet.
 - After Fajr: STAY UP. This is your barakah study window.
 
@@ -222,7 +222,7 @@ Paper is the only thing an ADHD brain can't swipe away. Journal lives on desk, N
 1. What clicked this week?
 2. What didn't?
 3. DSA count? Help-flag trend (🟢/🟡/🟠)?
-4. Sleep by 22:30 — how many nights?
+4. Sleep by 22:00 — how many nights?
 5. Fajr — how many days?
 6. Reels stole any evenings? How many?
 7. ONE adjustment for next week.
@@ -238,7 +238,7 @@ Date: ___          Day: ___ of 84
 Fajr ☐  Dhuhr ☐  Asr ☐  Maghrib ☐  Isha ☐  Tahajjud ☐
 
 💪 BODY
-MMA ☐  Post-workout meal ☐  Sleep by 22:30 ☐
+MMA ☐  Post-workout meal ☐  Sleep by 22:00 ☐
 
 📚 LEARNING
 DSA (unaided) ☐  Spring Boot ☐  Career action ☐
@@ -343,7 +343,7 @@ Day X of 84.
 💻 X DSA problems (unaided: X)
 🥊 MMA ✅
 📚 Spring Boot: X hrs
-😴 Sleep: 22:30
+😴 Sleep: 22:00
 
 TCS → BFSI GCC. Banking domain + Java + AI.
 The 2-year switch is real. Watch me do it in 12 weeks.
@@ -474,7 +474,7 @@ Only list what you can defend in an interview.
 - [ ] Batch cook done for Mon-Thu
 - [ ] Gym bag packed, Monday clothes laid out
 - [ ] 3 targets for Monday written on paper
-- [ ] Sleep by 22:30 Sunday night
+- [ ] Sleep by 22:00 Sunday night
 
 ---
 

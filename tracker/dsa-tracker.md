@@ -13,7 +13,7 @@
 |---|---------|---------|------------|----------|--------|------|
 | 1 | Contains Duplicate | Arrays & Hashing | Easy | 217 | ⬜ UNAID re-solve | — |
 | 2 | Valid Anagram | Arrays & Hashing | Easy | 242 | ⬜ UNAID re-solve | — |
-| 3 | Two Sum | Arrays & Hashing | Easy | 1 | ⬜ UNAID re-solve | — |
+| 3 | Two Sum | Arrays & Hashing | Easy | 1 | ✅ Re-solved w/ ref | 🟡 Hint |
 
 **Rules for UNAID re-solve:**
 - ❌ No Copilot, no notes, no Google, no AI
@@ -28,8 +28,8 @@
 | # | Problem | Pattern | Difficulty | Date | Time | Help? | Notes |
 |---|---------|---------|------------|------|------|-------|-------|
 | 1 | Contains Duplicate | Arrays & Hashing | Easy | 2026-07-27 | — | 🟠 Copilot | HashSet O(n), Sort O(n log n) |
-| 2 | Two Sum | Arrays & Hashing | Easy | 2026-07-27 | — | 🟠 Copilot | HashMap one-pass O(n) |
-| 3 | Valid Anagram | Arrays & Hashing | Easy | 2026-07-30 | — | 🟠 Copilot | LeetCode 242 |
+| 2 | Two Sum | Arrays & Hashing | Easy | 2026-07-27 | — | 🔁 Re-solve Aug 3 (🟡) | HashMap one-pass O(n). Re-solved w/ code ref, not unaided. Next: Aug 6 unaided |
+| 3 | Valid Anagram | Arrays & Hashing | Easy | 2026-07-30 | — | 🟠 Copilot | LeetCode 242. Re-attempted Aug 4 aided (syntax gap — Arrays.sort, toCharArray forgot). Aided week strategy adopted. |
 
 ---
 
@@ -41,13 +41,13 @@
 | Help Level | Meaning | Count | % |
 |------------|---------|-------|---|
 | 🟢 Alone | Solved without any help | 0 | 0% |
-| 🟡 Hint | Got a hint/nudge from Hermes | 0 | 0% |
-| 🟠 Copilot ⚠️ | Used GitHub Copilot | 3 | 100% |
+| 🟡 Hint | Got a hint/nudge, or re-solved w/ reference | 1 | 25% |
+| 🟠 Copilot ⚠️ | Used GitHub Copilot | 3 | 75% |
 
 **Unaided Re-solve Queue (priority — due before Oct interviews):**
-1. ⬜ Contains Duplicate (was Copilot)
-2. ⬜ Two Sum (was Copilot)
-3. ⬜ Valid Anagram (was Copilot)
+1. ⬜ Contains Duplicate (was Copilot) — next revision
+2. ⬜ Two Sum (re-solved Aug 3 w/ ref 🟡 — next: Aug 6 unaided)
+3. ⬜ Valid Anagram (was Copilot) — next revision
 
 ---
 
@@ -60,7 +60,7 @@
 | Problem | Solved Date | Revision Due | Revised? | Score (1-5) | Status |
 |---------|-------------|-------------|-----------|-------------|--------|
 | Contains Duplicate | Jul 27 | Jul 28 | ⬜ | — | 🔴 OVERDUE |
-| Two Sum | Jul 27 | Jul 28 | ⬜ | — | 🔴 OVERDUE |
+| Two Sum | Jul 27 | Aug 6 | ⬜ | — | 📅 Scheduled (re-solved Aug 3 w/ ref, 🟡) |
 | Valid Anagram | Jul 29 | Jul 30 | ⬜ | — | 🔴 OVERDUE |
 
 > Note: V2 Day 1 (Aug 3) = UNAID re-solve of all 3. This clears the overdue queue.

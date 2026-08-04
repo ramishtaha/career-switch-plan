@@ -88,13 +88,14 @@ career-switch-plan/
 
 | Block | When | Focus |
 |-------|------|-------|
-| **Golden Block** | 04:30-05:15 | DSA (hardest problem of the day, barakah hours) |
+| **Golden Block** | 04:30-05:15 | DSA — revision 20 min + 1 new problem (recall first) |
+| **Block 2** | 05:45-06:30 | Spring Boot theory (45 min, pairs with evening coding) |
 | **Office free time** | 13:30-14:30 | LeetCode / theory / Claude cert (bonus, counts toward bar) |
-| **Evening Block** | 20:45-22:15 | Spring Boot (90 min) |
-| **Revision** | 22:15-22:30 | Reset + journal fill |
-| **Sleep** | 22:30 | Phone OUT of bedroom, greyscale ON |
+| **Evening Block** | 20:45-21:55 | Spring Boot (70 min) → git commit |
+| **Sleep** | 22:00 target | Phone OUT of bedroom, greyscale ON, melatonin if cycling |
 
-**Daily total: ~2.5-3 hrs (weekday) / 5-6 hrs (Saturday)**
+**Daily total: ~3-3.5 hrs (weekday) / 5-6 hrs (Saturday)**
+**Late Wake Protocol:** never let a late wake kill the evening block. Fajr always first.
 
 ---
 
@@ -110,7 +111,7 @@ career-switch-plan/
 
 1. What clicked? What didn't?
 2. DSA count? Help-flag trend (🟢/🟡/🟠)?
-3. Sleep by 22:30 — how many nights?
+3. Sleep by 22:00 — how many nights?
 4. Fajr — how many days? Tahajjud?
 5. Reels stole any evenings? How many?
 6. ONE adjustment for next week.
@@ -140,7 +141,7 @@ career-switch-plan/
 - [ ] Batch cook done for Mon-Thu
 - [ ] Gym bag packed, Monday clothes laid out
 - [ ] 3 targets for Monday written on paper
-- [ ] Sleep by 22:30 Sunday night
+- [ ] Sleep by 22:00 Sunday night
 
 ---
 

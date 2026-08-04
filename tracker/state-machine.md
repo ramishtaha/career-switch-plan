@@ -153,7 +153,7 @@ Every problem gets ONE row. Fields:
 
 ### Weekly (not aggregate — resets every Monday)
 - Prayers: count per day, not aggregate. Friday review shows "X/7 days each prayer"
-- Sleep: count nights where in bed by 22:30
+- Sleep: count nights where in bed by 22:00
 - Reels: count minutes per day (estimate is fine)
 - 5-Min Rule: count days where home → wudu → pray → THEN rest
 - Phone out of bedroom: count nights

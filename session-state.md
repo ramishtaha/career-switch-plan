@@ -7,8 +7,8 @@
 ---
 
 ## System Phase
-- **Current Phase**: `pre-launch` (Day 1 starts Aug 3 — pre-launch work = carryover, doesn't increment Day count)
-- **Phase Transition**: `pre-launch` → `active` on first worked day ON OR AFTER Aug 3
+- **System Phase**: `active` (Day 1 = Aug 3, 2026)
+- **Phase Transition**: `pre-launch` → `active` on first worked day ON OR AFTER Aug 3 ✅
 
 ---
 
@@ -28,11 +28,12 @@
 ## 12-Week Plan State (V2 — COMPLETION-LOCKED)
 - **Plan Version**: V2 (optimized, starts Aug 3, 2026)
 - **Start Date**: Monday, August 3, 2026
-- **Active Day Count**: 0 of 84 (V1 carryover: 3 DSA problems, 0 Spring Boot code)
-- **Current Week**: 0 (pre-launch)
+- **Active Day Count**: 1 of 84 (V1 carryover: 3 DSA problems, 0 Spring Boot code)
+- **Current Week**: 1 (V2 Day 1 = Aug 3, 2026)
 - **DSA Problems Solved**: 3 (Contains Duplicate, Two Sum, Valid Anagram — all Copilot)
-- **DSA Unaided**: 0/3 (0% — V2 Day 1 = unaided re-solve of all 3)
-- **Current Streak**: 0 (V2 reset)
+- **DSA Re-solves**: Two Sum re-solved Aug 3 w/ reference (🟡 Hint) — next unaided attempt Aug 6
+- **DSA Unaided**: 0/3 (0% — Two Sum upgraded from 🟠→🟡, still not 🟢)
+- **Current Streak**: 1 (V2 Day 1)
 - **System Designs Practiced**: 0 / 8
 - **Mock Interviews**: 0 / 12
 - **Applications Sent**: 0
@@ -51,11 +52,15 @@
 - **Rules**: See `tracker/state-machine.md` for all edge cases, bar calculation, scenarios
 
 ## Daily Blueprint
-- **Golden Block**: 04:30-05:15 (DSA, barakah hours, laptop not phone)
+- **Golden Block**: 04:30-05:15 — Revision 20 min + 1 new DSA problem (recall first, new learning second)
+- **Block 2**: 05:45-06:30 — Spring Boot theory (45 min, pairs with evening coding)
 - **Office free time**: 13:30-14:30 (LeetCode/theory/Claude cert — counts toward bar)
-- **Evening Block**: 20:45-22:15 (Spring Boot 90 min)
-- **Sleep**: 22:30 (charger OUT of bedroom, greyscale ON)
+- **Evening Block**: 20:45-21:55 (Spring Boot 70 min → git commit)
+- **Sleep**: 22:00 target (reality 22:30) — charger OUT of bedroom, greyscale ON, melatonin if cycling
+- **Circadian fix (Wk 1-2)**: consistent wake + bright light on waking + melatonin 0.3-1mg ~2h before sleep. Clear with physician. Phase out once stable.
 - **5-Min Rule**: home → wudu → pray → THEN anything (keystone habit)
+- **Late Wake Protocol**: never let late wake kill evening block. Fajr always first. Late wake = low bar day.
+- **No more 20:15 phone scroll** — replaced with non-screen reward (haldi doodh + stretch/music)
 
 ## Habit System Status
 - **Reels Addiction**: ACTIVE PROBLEM — evening trigger after office
@@ -84,7 +89,7 @@
 
 ## Notes
 - V1 ran Jul 27-30: 3 working days, 3 DSA problems, 0 Spring Boot code written
-- V2 launches Aug 3: one primary focus per week, ~100 DSA target, incremental project
+- V2 Day 1 (Aug 3): 🟠 Partial — Two Sum re-solved w/ reference (🟡), 0 career, 0 Spring Boot. Prayers: Fajr(late), Maghrib(late), Isha. Friend+family dinner took evening block.
 - Habit system is Week 1's REAL goal
 - Reference files:
   - MASTER-BLUEPRINT.md = everything in one doc
