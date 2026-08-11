@@ -114,31 +114,33 @@
 
 ---
 
-## 📅 SATURDAY (deep work — 5-6 hrs)
+## 📅 SATURDAY (sparring at Mulund + deep work)
 
 ```
-04:15  Tahajjud → Fajr → back to sleep OR light reading
-07:00  😴 Sleep in (no MMA — sparring at 12:00)
+04:45  Tahajjud → Fajr → back to sleep OR light reading
+07:00  😴 Sleep in (no morning MMA — sparring at 12:00)
        OR light stretching / mobility work
 09:00  🍳 Big fresh breakfast
 09:30  💻 BLOCK 1: DSA ×3-4 problems (2 hrs)
 11:15  🍽️ Light pre-sparring meal (easily digestible)
-11:30  🎒 Leave for Mulund (30 min)
+11:30  🎒 Leave for Mulund (30 min commute)
 12:00  🥊 SPARRING (Mulund branch)
-13:30  🍽️ Post-sparring meal (protein + carbs) → drive home
+13:00  🍽️ Post-sparring meal (protein) → drive home (30 min)
 14:00  🚿 Shower → 😴 REST (earned — sparring is intense)
 15:30  💻 BLOCK 2: Spring Boot project (2.5 hrs) → git commit
-18:00  🕌 Asr (late, at home) → walk / errands / people
-19:30  🕌 Maghrib → dinner → Isha
+~17:13 🕌 Asr (late, at home) → walk / errands / people
+~19:09 🕌 Maghrib → dinner
+~20:26 🕌 Isha
 20:45  📚 Light: system design reading OR AI block (1 hr)
-21:45  📵 Phone away → 22:00 sleep
+22:00  📵 Phone away → 22:30 sleep
 ```
 
 **Saturday differences from weekday:**
-- No 7 AM MMA — sparring is 12:00-1:30 PM at Mulund
+- Sparring at Mulund branch (30 min commute), not Manpada (10 min)
 - Morning starts later (you earned it — sparring is hard)
 - DSA block moves to 09:30-11:30 (pre-sparring)
 - Spring Boot block moves to 15:30-18:00 (post-sparring + rest)
+- No 8 PM MMA — sparring was your session
 
 ---
 

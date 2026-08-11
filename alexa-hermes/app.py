@@ -723,7 +723,7 @@ def _mentor_mma_schedule():
         return "Sunday. Rest day. No MMA. Recovery is training. Your body needs this after 6 days."
     
     if today == 'Saturday':
-        return "Saturday. BRUTE morning only. 8:30 AM: Jiu Jitsu on Mat 1 or HIIT on Mat 2. No evening classes. Train, then rest of day is yours."
+        return "Saturday. Sparring at Mulund branch, 12 to 1 PM. 30 minute commute each way — leave by 11:15. No Manpada morning classes today. Sleep in slightly, then head to Mulund."
     
     # Mon-Fri
     fasting = today in ['Monday', 'Thursday']

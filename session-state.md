@@ -61,12 +61,12 @@
 - **MMA Training (BRUTE, Thane)**:
   - **Primary**: 8:00–9:00 PM daily (Mon–Fri). Pick 1 martial art per slot (Mat 1 or Mat 2, not both).
   - **Doubles**: 2–3x/week — add 7:00–8:00 AM session on Tue/Wed/Fri (non-fasting days only).
-  - **Saturday**: 8:30 AM — Jiu Jitsu (Mat 1). No evening classes.
+  - **Saturday**: 12:00–13:00 SPARRING at Mulund branch (30 min commute each way). No Manpada morning classes.
   - **Sunday**: Rest. Recovery is training.
   - **Fasting days (Mon/Thu)**: Single 8 PM session only. No doubles. Iftar at Maghrib, eat light, train at 8.
-  - **8 PM rotation**: Mon=Wrestling(Mat1), Tue=Muay Thai(Mat1), Wed=Boxing(Mat1), Thu=MMA(Mat1), Fri=Jiu Jitsu(Mat1)
-  - **7 AM doubles**: Tue=Muay Thai, Wed=Wrestling(Mat1), Fri=Strength(Mat2)
-  - **Weekly volume**: 9 sessions (5 evening + 3 morning + 1 Saturday)
+  - **8 PM rotation (Manpada branch, 10 min commute)**: Mon=Wrestling(Mat1), Tue=Muay Thai(Mat1), Wed=Boxing(Mat1), Thu=MMA(Mat1), Fri=Jiu Jitsu(Mat1)
+  - **7 AM doubles (Manpada, non-fasting)**: Tue=Muay Thai, Wed=Wrestling(Mat1), Fri=Strength(Mat2)
+  - **Weekly volume**: 9 sessions (5 evening + 3 morning + 1 Saturday sparring)
   - **Never 9:15 PM slot** — kills sleep + Tahajjud
   - Schedule ref: alexa-hermes/BRUTE-MMA-SCHEDULE.md
 - **Office**: 10:45–18:00 (use 13:30–14:30 for LeetCode/Claude cert)
