@@ -7,19 +7,23 @@
 
 ## Today's Queue
 
-> Date: 2026-08-03 (V2 Day 1) | Target: 2 problems (UNAID re-solve from V1) + 1 new
+> Date: 2026-08-10 (V2 Day 3) | Target: 2 aided re-solves + 1 new (Two Pointers start)
+> Note: Aided week (Week 1) — logic yours, syntax can be looked up. No Copilot.
+> Aug 6-9 MISSED (4-day gap). Zero guilt. Recalibrate forward. Arc continues.
 
 | # | Problem | Pattern | Difficulty | LeetCode | Status | Help |
 |---|---------|---------|------------|----------|--------|------|
-| 1 | Contains Duplicate | Arrays & Hashing | Easy | 217 | ⬜ UNAID re-solve | — |
-| 2 | Valid Anagram | Arrays & Hashing | Easy | 242 | ⬜ UNAID re-solve | — |
-| 3 | Two Sum | Arrays & Hashing | Easy | 1 | ✅ Re-solved w/ ref | 🟡 Hint |
+| 1 | Contains Duplicate | Arrays & Hashing | Easy | 217 | ⬜ aided re-solve | — |
+| 2 | Valid Anagram | Arrays & Hashing | Easy | 242 | ⬜ aided re-solve | — |
+| 3 | Two Sum II - Input Array Sorted | Two Pointers | Easy | 167 | ⬜ NEW | — |
 
-**Rules for UNAID re-solve:**
-- ❌ No Copilot, no notes, no Google, no AI
+**Rules for aided re-solve (Week 1 — aided week):**
+- ✅ Logic is YOURS — think through the approach yourself
+- ✅ Syntax OK to look up (Arrays.sort, toCharArray, etc.)
+- ❌ No Copilot, no copy-paste from LeetCode discussions, no full AI solutions
 - ⏱️ 20-min timer per problem
-- ✅ Stuck at 20 min? STOP. Write where you're stuck. That's data, not failure.
-- ✅ Brute force from YOUR brain beats optimal from Copilot. Every time.
+- ✅ Stuck at 20 min? Write where you're stuck. That's data, not failure.
+- 📝 Next week: unaided re-solve of all three
 
 ---
 
@@ -60,10 +64,11 @@
 | Problem | Solved Date | Revision Due | Revised? | Score (1-5) | Status |
 |---------|-------------|-------------|-----------|-------------|--------|
 | Contains Duplicate | Jul 27 | Jul 28 | ⬜ | — | 🔴 OVERDUE |
-| Two Sum | Jul 27 | Aug 6 | ⬜ | — | 📅 Scheduled (re-solved Aug 3 w/ ref, 🟡) |
+| Two Sum | Jul 27 | Aug 6 | ⬜ | — | 🔴 OVERDUE |
 | Valid Anagram | Jul 29 | Jul 30 | ⬜ | — | 🔴 OVERDUE |
 
-> Note: V2 Day 1 (Aug 3) = UNAID re-solve of all 3. This clears the overdue queue.
+> Note: Aug 4 — Valid Anagram re-attempted aided (syntax gap). Aided week adopted. 
+> Contains Duplicate + Valid Anagram still need aided re-solve (Week 1).
 
 ---
 
