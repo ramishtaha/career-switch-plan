@@ -364,57 +364,61 @@ def _mentor_routine_today():
     isha = pt['isha']
     
     if now < tahajjud:
-        return f"It's {_fmt(now)}. Sleep. Tahajjud at {_fmt(tahajjud)}, Fajr at {_fmt(fajr)}. You need the sleep. Don't wake up at 2 AM — that's not realistic. Wake at {_fmt(tahajjud)} instead."
+        return f"It's {_fmt(now)}. Sleep. Tahajjud at {_fmt(tahajjud)}, Fajr at {_fmt(fajr)}. Wake at {_fmt(tahajjud)} — just 15 min before Fajr."
     elif tahajjud <= now < fajr:
-        return f"It's {_fmt(now)}. Tahajjud time. Two nafl and istighfar. Quick — Fajr at {_fmt(fajr)}. Then Golden Block. Day {day} of {total}. Bismillah."
+        return f"It's {_fmt(now)}. Tahajjud time. Two nafl and istighfar. Fajr at {_fmt(fajr)}. Then Golden Block. Day {day} of {total}. Bismillah."
     elif fajr <= now < sunrise:
         return f"It's {_fmt(now)}. Pray Fajr. Then Golden Block — DSA revision and one new problem. No AI. Sunrise at {_fmt(sunrise)}. Day {day} of {total}."
-    elif sunrise <= now < (sunrise + timedelta(hours=1)):
-        return f"It's {_fmt(now)}. Spring Boot theory block. 45 minutes. Then pre-workout fuel before MMA at 7. Day {day} of {total}."
-    elif (sunrise + timedelta(hours=1)) <= now < datetime.now(IST).replace(hour=9, minute=0):
-        return f"It's {_fmt(now)}. Pre-workout fuel. Dates and water. MMA at 7. Day {day} of {total}."
-    elif now.hour < 12:
-        return f"It's {_fmt(now)}. Post-MMA. Shower, meal, get ready for office. Dhuhr at {_fmt(pt['dhuhr'])}. Day {day} of {total}."
+    elif sunrise <= now < (sunrise + timedelta(hours=1, minutes=30)):
+        return f"It's {_fmt(now)}. Spring Boot theory block. 45 minutes. Morning is your prime study time now — MMA moved to 8 PM. Day {day} of {total}."
+    elif (sunrise + timedelta(hours=1, minutes=30)) <= now < datetime.now(IST).replace(hour=10, minute=30):
+        return f"It's {_fmt(now)}. Morning free time. DSA revision, LeetCode, or Claude cert. MMA is at 8 PM now — your mornings are for study. Office at 10:45. Day {day} of {total}."
+    elif datetime.now(IST).replace(hour=10, minute=30) <= now < pt['dhuhr']:
+        return f"It's {_fmt(now)}. Office. Dhuhr at {_fmt(pt['dhuhr'])}. Day {day} of {total}."
     elif pt['dhuhr'] <= now < pt['asr']:
-        return f"It's {_fmt(now)}. Office hours. Pray Dhuhr. Use free time for LeetCode or Claude cert. Asr at {_fmt(pt['asr'])}. Day {day} of {total}."
+        return f"It's {_fmt(now)}. Office hours. Pray Dhuhr. Use free time 1:30 to 2:30 for LeetCode or Claude cert. Asr at {_fmt(pt['asr'])}. Day {day} of {total}."
     elif pt['asr'] <= now < pt['maghrib']:
-        return f"It's {_fmt(now)}. Office hours. Pray Asr. Keep working. Maghrib at {_fmt(pt['maghrib'])}. Day {day} of {total}."
-    elif pt['maghrib'] <= now < pt['isha']:
-        return f"It's {_fmt(now)}. You're home. Pray Maghrib. Evening block at 8:45 — Spring Boot coding. Isha at {_fmt(pt['isha'])}. Day {day} of {total}."
-    elif pt['isha'] <= now < (pt['isha'] + timedelta(hours=2)):
-        return f"It's {_fmt(now)}. Pray Isha. Evening block — Spring Boot coding. 70 minutes, then git commit. Phone greyscale. No reels. Day {day} of {total}."
+        return f"It's {_fmt(now)}. Office hours. Pray Asr. Keep working. Maghrib at {_fmt(pt['maghrib'])}. MMA at 8 PM. Day {day} of {total}."
+    elif pt['maghrib'] <= now < datetime.now(IST).replace(hour=19, minute=45):
+        return f"It's {_fmt(now)}. Home. Pray Maghrib. Eat light. MMA at 8 PM. Isha at {_fmt(pt['isha'])}. Day {day} of {total}."
+    elif datetime.now(IST).replace(hour=19, minute=45) <= now < datetime.now(IST).replace(hour=21, minute=0):
+        return f"It's {_fmt(now)}. MMA time. Get to BRUTE. Train hard. Day {day} of {total}."
+    elif datetime.now(IST).replace(hour=21, minute=0) <= now < datetime.now(IST).replace(hour=21, minute=15):
+        return f"It's {_fmt(now)}. Post-MMA. Shower. Quick protein. Then Spring Boot block at 9:15. Day {day} of {total}."
+    elif datetime.now(IST).replace(hour=21, minute=15) <= now < datetime.now(IST).replace(hour=22, minute=30):
+        return f"It's {_fmt(now)}. Evening block — Spring Boot coding. 60 minutes, then git commit. Phone greyscale. No reels. Day {day} of {total}."
     else:
-        return f"It's {_fmt(now)}. Sleep time. Phone in kitchen. Charger out of bedroom. Tahajjud at {_fmt(tahajjud)} — just 15 minutes before Fajr. You don't need to wake at 2 AM. Day {day} of {total}."
+        return f"It's {_fmt(now)}. Sleep time. Phone in kitchen. Charger out of bedroom. Tahajjud at {_fmt(tahajjud)}. Day {day} of {total}."
 
 
 def _mentor_what_next():
-    """What should I do next? — prayer-anchored."""
+    """What should I do next? — prayer-anchored, MMA at 8 PM."""
     now = datetime.now(IST)
     pt = _get_prayer_times()
     tahajjud = _tahajjud_time()
     
     if now < tahajjud:
-        return f"Sleep. Tahajjud at {_fmt(tahajjud)}. You can't code well without sleep."
+        return f"Sleep. Tahajjud at {_fmt(tahajjud)}. Fajr at {_fmt(pt['fajr'])}."
     elif tahajjud <= now < pt['fajr']:
         return "Tahajjud now. Two nafl, istighfar. Then Fajr at " + _fmt(pt['fajr']) + "."
     elif pt['fajr'] <= now < pt['sunrise']:
         return "Golden Block. DSA. One problem from memory. No AI, no notes. 15 minutes. Sunrise at " + _fmt(pt['sunrise']) + "."
-    elif pt['sunrise'] <= now < datetime.now(IST).replace(hour=7, minute=0):
-        return "Spring Boot theory. 45 minutes. Then pre-workout fuel. MMA at 7."
-    elif now.hour < 8:
-        return "MMA. Get to the gym. Sweat it out."
-    elif now.hour < 12:
-        return "Post-MMA. Shower and meal. Get ready for office. Dhuhr at " + _fmt(pt['dhuhr']) + "."
+    elif pt['sunrise'] <= now < datetime.now(IST).replace(hour=10, minute=30):
+        return "Morning study time. Spring Boot theory or DSA revision. MMA is at 8 PM now — mornings are for study. Office at 10:45."
+    elif now.hour < 12 or (now.hour == 12 and now.minute < 44):
+        return "Office. Dhuhr at " + _fmt(pt['dhuhr']) + "."
     elif pt['dhuhr'] <= now < pt['asr']:
         return "Office free time. Open LeetCode. One problem. Or study Claude cert. Asr at " + _fmt(pt['asr']) + "."
     elif pt['asr'] <= now < pt['maghrib']:
-        return "Office hours. Pray Asr. Keep working. Maghrib at " + _fmt(pt['maghrib']) + "."
-    elif pt['maghrib'] <= now < pt['isha']:
-        return "Pray Maghrib. Then 20 minute house blitz if needed. Evening block at 8:45. Isha at " + _fmt(pt['isha']) + "."
-    elif pt['isha'] <= now < (pt['isha'] + timedelta(hours=2)):
-        return "Spring Boot coding. Open IntelliJ. One feature, one commit. No reels."
+        return "Office hours. Pray Asr. Keep working. Maghrib at " + _fmt(pt['maghrib']) + ". Then MMA at 8 PM."
+    elif pt['maghrib'] <= now < datetime.now(IST).replace(hour=19, minute=45):
+        return "Home. Pray Maghrib. Eat light. MMA at 8 PM."
+    elif datetime.now(IST).replace(hour=19, minute=45) <= now < datetime.now(IST).replace(hour=21, minute=0):
+        return "MMA time. Get to BRUTE. Train hard."
+    elif now.hour < 22 or (now.hour == 22 and now.minute < 30):
+        return "Post-MMA. Shower, quick protein. Then Spring Boot block — 60 min, git commit."
     else:
-        return "Sleep. Phone in kitchen. Tahajjud at " + _fmt(tahajjud) + ". Tomorrow the arc continues."
+        return "Sleep. Phone in kitchen. Tahajjud at " + _fmt(tahajjud) + "."
 
 
 def _mentor_full_schedule():
@@ -426,13 +430,14 @@ def _mentor_full_schedule():
         f"Fajr at {_fmt(pt['fajr'])}. "
         f"Golden Block after Fajr — DSA revision and one new problem. No AI. "
         f"Sunrise at {_fmt(pt['sunrise'])} — Spring Boot theory, 45 minutes. "
-        f"7 AM — MMA training. "
+        f"Morning free time — DSA revision, LeetCode, or Claude cert. MMA is at 8 PM now. "
+        f"Office at 10:45. "
         f"Dhuhr at {_fmt(pt['dhuhr'])} — pray, then office free time for LeetCode. "
         f"Asr at {_fmt(pt['asr'])}. "
-        f"Maghrib at {_fmt(pt['maghrib'])} — home, pray, house reset. "
-        f"8:45 PM — Evening block, Spring Boot coding, git commit. "
-        f"Isha at {_fmt(pt['isha'])}. "
-        f"Sleep by 10 PM. Phone in kitchen. Charger out of bedroom. "
+        f"Maghrib at {_fmt(pt['maghrib'])} — home, pray, eat light. "
+        f"8 PM — MMA at BRUTE. "
+        f"9:15 PM — Evening block, Spring Boot coding, 60 min, git commit. "
+        f"Sleep by 10:30. Phone in kitchen. "
         f"Low bar daily: one DSA, 30 min Spring Boot, one career action. All three."
     )
 
@@ -460,14 +465,14 @@ def _mentor_sleep_time():
     pt = _get_prayer_times()
     tahajjud = _tahajjud_time()
     
-    if now >= (pt['isha'] + timedelta(hours=2)) or now < tahajjud:
-        return f"Sleep NOW. Phone in kitchen. Charger out of bedroom. Tahajjud at {_fmt(tahajjud)}. You need to be up for the last third of the night. The Golden Block depends on sleep. Go."
-    elif now >= (pt['isha'] + timedelta(hours=1)):
-        return f"It's {_fmt(now)}. Wind down now. Haldi doodh. No screens. Phone greyscale. Sleep by 10. Tahajjud at {_fmt(tahajjud)}."
-    elif now >= pt['isha']:
-        return f"It's {_fmt(now)}. Finish your evening coding block. Then wind down. Isha at {_fmt(pt['isha'])}. Sleep by 10. Tahajjud at {_fmt(tahajjud)}."
+    if now.hour >= 23 or now.hour < tahajjud.hour:
+        return f"Sleep NOW. Phone in kitchen. Charger out of bedroom. Tahajjud at {_fmt(tahajjud)}. Fajr at {_fmt(pt['fajr'])}. Go."
+    elif now.hour >= 22 or (now.hour == 22 and now.minute >= 30):
+        return f"It's {_fmt(now)}. Past sleep time. Stop everything. Haldi doodh. Phone in kitchen. Tahajjud at {_fmt(tahajjud)}."
+    elif now.hour >= 21 or (now.hour == 21 and now.minute >= 15):
+        return f"It's {_fmt(now)}. Finish Spring Boot block. Then wind down. Sleep by 10:30. Tahajjud at {_fmt(tahajjud)}."
     else:
-        return f"It's {_fmt(now)}. Sleep target is 10 PM. Finish your blocks first. No late scrolling tonight. Tahajjud at {_fmt(tahajjud)}."
+        return f"It's {_fmt(now)}. MMA at 8, Spring Boot at 9:15, sleep by 10:30. Tahajjud at {_fmt(tahajjud)}."
 
 
 def _mentor_late_wake():
@@ -697,15 +702,43 @@ def _mentor_weight_goal():
 
 def _mentor_mma_schedule():
     now = datetime.now(IST)
-    pt = _get_prayer_times()
-    if now.hour < 7 and now >= pt['sunrise']:
-        return "MMA is at 7 AM. Pre-workout fuel now: 2 dates and water, or a small shake. Get moving."
-    elif 7 <= now.hour < 8:
-        return "MMA is RIGHT NOW. You should be at the gym. Go."
-    elif now.hour < 12:
-        return "MMA was at 7 AM. If you missed it, do a home workout. Push-ups, shadow boxing, burpees. 20 minutes."
+    today = now.strftime('%A')
+    
+    # 8 PM rotation (pick 1 art per slot)
+    evening = {
+        'Monday': 'Wrestling on Mat 1, or Strength on Mat 2',
+        'Tuesday': 'Muay Thai on Mat 1, or HIIT on Mat 2',
+        'Wednesday': 'Boxing on Mat 1, or Strength on Mat 2',
+        'Thursday': 'MMA on Mat 1, or Muay Thai on Mat 2',
+        'Friday': 'Jiu Jitsu on Mat 1, or Strength on Mat 2',
+    }
+    # 7 AM doubles (Tue/Wed/Fri only, non-fasting)
+    morning = {
+        'Tuesday': 'Muay Thai on Mat 2',
+        'Wednesday': 'Wrestling on Mat 1, or Strength on Mat 2',
+        'Friday': 'Strength on Mat 2',
+    }
+    
+    if today == 'Sunday':
+        return "Sunday. Rest day. No MMA. Recovery is training. Your body needs this after 6 days."
+    
+    if today == 'Saturday':
+        return "Saturday. BRUTE morning only. 8:30 AM: Jiu Jitsu on Mat 1 or HIIT on Mat 2. No evening classes. Train, then rest of day is yours."
+    
+    # Mon-Fri
+    fasting = today in ['Monday', 'Thursday']
+    msg = f"Today is {today}. "
+    if fasting:
+        msg += "Fasting day — single session only. "
+    
+    if today in morning and not fasting:
+        msg += f"Double day. 7 AM: {morning[today]}. Then 8 PM: {evening[today]}. Two sessions. Eat well between."
     else:
-        return "MMA is Monday to Friday at 7 AM. Saturday is sparring. Sunday is rest. Tomorrow: get to the gym at 7."
+        msg += f"Primary session at 8 PM: {evening[today]}. "
+        if not fasting:
+            msg += "Mornings are for study. "
+    
+    return msg
 
 
 def _mentor_what_eat():
@@ -742,11 +775,25 @@ def _mentor_what_eat():
 
 
 def _mentor_pre_workout():
-    return "Pre-workout fuel: 2 dates and water. Or a half shake — 250 ml Ultra 7 percent, 1 scoop whey. Light. 15 minutes before MMA. Don't train fasted, you'll crash."
+    """Pre-workout for 8 PM MMA session."""
+    now = datetime.now(IST)
+    if _is_fasting_day() and now.hour < 17:
+        return "Fasting day. Your MMA session is at 8 PM — after Iftar. Eat at Maghrib, then train. No pre-workout needed during the day."
+    if now.hour < 19:
+        return "Pre-MMA fuel: eat a light meal around 7 PM. Chicken or eggs with vegetables. Not heavy — you'll be training at 8. Water."
+    elif now.hour < 20:
+        return "Almost MMA time. Light snack 30 min before: banana or dates. Water. Get to BRUTE."
+    return "You should be at BRUTE training. Pre-workout window is over."
 
 
 def _mentor_post_workout():
-    return "Post-workout meal within 15 minutes. Full shake: 500 ml Ultra 7 percent milk, 2 scoops whey. 66 grams protein, 700 calories. Or 4 fresh eggs. This window is non-negotiable. Miss it and you lose the muscle."
+    """Post-workout for 9 PM (after 8 PM MMA)."""
+    now = datetime.now(IST)
+    if _is_fasting_day():
+        return "Fasting day post-MMA: You already had Iftar before training. After MMA: full shake — 500 ml Ultra 7 percent, 2 scoops whey. Or 4 eggs. Protein within 15 minutes. Then Spring Boot block at 9:15."
+    if 21 <= now.hour < 22:
+        return "Post-MMA. Shower. Quick protein: shake or 4 eggs. Then Spring Boot block at 9:15. You have 15 minutes to eat and shower."
+    return "Post-workout meal: shake — 500 ml Ultra 7 percent, 2 scoops whey. Or 4 eggs. Protein within 15 minutes of finishing."
 
 
 # ─── 6. DEEN & PRAYER ──────────────────────────────────────────────
@@ -951,10 +998,12 @@ def _mentor_evening_close():
     day = state.get('day', '?')
     total = state.get('total_days', '84')
     
-    if now >= pt['maghrib']:
-        return f"Evening close-out. It's {_fmt(now)}. Did you hit the low bar? One DSA, 30 min Spring Boot, one career action? If yes, the day counts. If no, no guilt — tomorrow continues the arc. Isha at {_fmt(pt['isha'])}. Phone in kitchen. Sleep by 10. Tahajjud at {_fmt(tahajjud)}. Day {day} of {total}."
+    if now.hour >= 21:
+        return f"Evening close-out. It's {_fmt(now)}. Did you hit the low bar? One DSA, 30 min Spring Boot, one career action? If yes, the day counts. Did you train at MMA? Phone in kitchen. Sleep by 10:30. Tahajjud at {_fmt(tahajjud)}. Day {day} of {total}."
+    elif now.hour >= 20:
+        return f"It's {_fmt(now)}. You should be at MMA. Evening block at 9:15 after. Maghrib was at {_fmt(pt['maghrib'])}. Day {day} of {total}."
     else:
-        return f"It's {_fmt(now)}. Evening block coming up. Spring Boot coding, 70 min, then git commit. Maghrib at {_fmt(pt['maghrib'])}. Tell me after: what did you do today? Day {day} of {total}."
+        return f"It's {_fmt(now)}. MMA at 8 PM. Evening block at 9:15 — Spring Boot, 60 min, git commit. Maghrib at {_fmt(pt['maghrib'])}. Day {day} of {total}."
 
 
 def _mentor_completed_task(slots):
