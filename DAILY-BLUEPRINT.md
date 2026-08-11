@@ -12,7 +12,7 @@
 
 | Time | Block |
 |------|-------|
-| ~02:10 | **Tahajjud** (last third of night — 2 nafl + istighfar) |
+| ~04:45 | **Tahajjud** (15 min before Fajr — 2 nafl + istighfar) |
 | ~05:00 | **Fajr** + adhkar |
 | 07:00-08:00 | **MMA** (leave 06:45) |
 | 10:45-18:00 | **Office** (leave 10:30) |

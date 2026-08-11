@@ -55,7 +55,7 @@
 ## Daily Blueprint (Prayer-Anchored — Auto-Shifts with Seasons)
 > **SOURCE OF TRUTH**: Alexa app + Hermes cron both read this section.
 > Prayer times calculated locally (adhanpy, Karachi method, Hanafi madhab) for Thane (19.2183°N, 72.9747°E).
-- **Tahajjud**: Last third of night (calc: Isha + 2/3 × (Fajr−Isha)) — two nafl + istighfar
+- **Tahajjud**: 15 min before Fajr — two nafl + istighfar (practical, consistent > ambitious)
 - **Golden Block**: Fajr → Sunrise — DSA revision 20 min + 1 new problem (no AI, recall first)
 - **Spring Boot Theory**: Sunrise + 15min → 45 min block
 - **MMA Training**: 07:00–08:00 (Mon–Fri, Sat sparring, Sun rest)

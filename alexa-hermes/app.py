@@ -114,16 +114,12 @@ def _fmt(dt):
     return dt.strftime('%I:%M %p').lstrip('0')
 
 def _tahajjud_time():
-    """Tahajjud: last third of the night = midnight to Fajr, split in thirds."""
+    """Tahajjud: 15 min before Fajr (practical, consistent > ambitious).
+    Any time after Isha until Fajr adhan is valid for Tahajjud.
+    10 min before Fajr = 2 nafl + istighfar, then straight into Fajr prep.
+    """
     pt = _get_prayer_times()
-    isha = pt['isha']
-    fajr = pt['fajr']
-    # Night = Isha to Fajr (next day). Last third starts at: isha + 2/3*(night duration)
-    if fajr < isha:
-        fajr = fajr + timedelta(days=1)
-    night_duration = fajr - isha
-    last_third_start = isha + night_duration * 2 / 3
-    return last_third_start
+    return pt['fajr'] - timedelta(minutes=15)
 
 # ─── Session State Parser ─────────────────────────────────────────
 
@@ -368,27 +364,27 @@ def _mentor_routine_today():
     isha = pt['isha']
     
     if now < tahajjud:
-        return f"It's {_fmt(now)}. Before Tahajjud. Sleep now. You need to be up at {_fmt(tahajjud)} for the last third of the night."
+        return f"It's {_fmt(now)}. Sleep. Tahajjud at {_fmt(tahajjud)}, Fajr at {_fmt(fajr)}. You need the sleep. Don't wake up at 2 AM — that's not realistic. Wake at {_fmt(tahajjud)} instead."
     elif tahajjud <= now < fajr:
-        return f"It's {_fmt(now)}. Tahajjud time. Two nafl and istighfar. This is the most powerful time. Fajr at {_fmt(fajr)}. Then Golden Block. You're on Day {day} of {total}. Bismillah."
+        return f"It's {_fmt(now)}. Tahajjud time. Two nafl and istighfar. Quick — Fajr at {_fmt(fajr)}. Then Golden Block. Day {day} of {total}. Bismillah."
     elif fajr <= now < sunrise:
-        return f"It's {_fmt(now)}. Pray Fajr. Then Golden Block — DSA revision and one new problem. No AI. Sunrise at {_fmt(sunrise)}. You're on Day {day} of {total}."
+        return f"It's {_fmt(now)}. Pray Fajr. Then Golden Block — DSA revision and one new problem. No AI. Sunrise at {_fmt(sunrise)}. Day {day} of {total}."
     elif sunrise <= now < (sunrise + timedelta(hours=1)):
-        return f"It's {_fmt(now)}. Spring Boot theory block. 45 minutes. Then pre-workout fuel before MMA at 7. You're on Day {day} of {total}."
+        return f"It's {_fmt(now)}. Spring Boot theory block. 45 minutes. Then pre-workout fuel before MMA at 7. Day {day} of {total}."
     elif (sunrise + timedelta(hours=1)) <= now < datetime.now(IST).replace(hour=9, minute=0):
-        return f"It's {_fmt(now)}. Pre-workout fuel. Dates and water. MMA at 7. You're on Day {day} of {total}."
+        return f"It's {_fmt(now)}. Pre-workout fuel. Dates and water. MMA at 7. Day {day} of {total}."
     elif now.hour < 12:
-        return f"It's {_fmt(now)}. Post-MMA. Shower, meal, get ready for office. Dhuhr at {_fmt(pt['dhuhr'])}. You're on Day {day} of {total}."
+        return f"It's {_fmt(now)}. Post-MMA. Shower, meal, get ready for office. Dhuhr at {_fmt(pt['dhuhr'])}. Day {day} of {total}."
     elif pt['dhuhr'] <= now < pt['asr']:
-        return f"It's {_fmt(now)}. Office hours. Pray Dhuhr. Use free time for LeetCode or Claude cert. Asr at {_fmt(pt['asr'])}. You're on Day {day} of {total}."
+        return f"It's {_fmt(now)}. Office hours. Pray Dhuhr. Use free time for LeetCode or Claude cert. Asr at {_fmt(pt['asr'])}. Day {day} of {total}."
     elif pt['asr'] <= now < pt['maghrib']:
-        return f"It's {_fmt(now)}. Office hours. Pray Asr. Keep working. Maghrib at {_fmt(pt['maghrib'])}. You're on Day {day} of {total}."
+        return f"It's {_fmt(now)}. Office hours. Pray Asr. Keep working. Maghrib at {_fmt(pt['maghrib'])}. Day {day} of {total}."
     elif pt['maghrib'] <= now < pt['isha']:
-        return f"It's {_fmt(now)}. You're home. Pray Maghrib. Evening block at 8:45 — Spring Boot coding. Isha at {_fmt(pt['isha'])}. You're on Day {day} of {total}."
+        return f"It's {_fmt(now)}. You're home. Pray Maghrib. Evening block at 8:45 — Spring Boot coding. Isha at {_fmt(pt['isha'])}. Day {day} of {total}."
     elif pt['isha'] <= now < (pt['isha'] + timedelta(hours=2)):
-        return f"It's {_fmt(now)}. Pray Isha. Evening block — Spring Boot coding. 70 minutes, then git commit. Phone greyscale. No reels. You're on Day {day} of {total}."
+        return f"It's {_fmt(now)}. Pray Isha. Evening block — Spring Boot coding. 70 minutes, then git commit. Phone greyscale. No reels. Day {day} of {total}."
     else:
-        return f"It's {_fmt(now)}. Sleep time. Phone in kitchen. Charger out of bedroom. Tahajjud at {_fmt(tahajjud)}. Tomorrow is a new day. Day {day} of {total} continues."
+        return f"It's {_fmt(now)}. Sleep time. Phone in kitchen. Charger out of bedroom. Tahajjud at {_fmt(tahajjud)} — just 15 minutes before Fajr. You don't need to wake at 2 AM. Day {day} of {total}."
 
 
 def _mentor_what_next():
@@ -801,11 +797,11 @@ def _mentor_tahajjud():
     tahajjud = _tahajjud_time()
     
     if now >= tahajjud and now < pt['fajr']:
-        return f"It's Tahajjud time RIGHT NOW. {_fmt(now)}. Stop everything. Two nafl. Istighfar. This is your secret weapon. Fajr at {_fmt(pt['fajr'])}."
+        return f"It's Tahajjud time RIGHT NOW. {_fmt(now)}. Two nafl, istighfar. Quick — Fajr at {_fmt(pt['fajr'])}. Then Golden Block."
     elif now < tahajjud:
-        return f"Tahajjud at {_fmt(tahajjud)} tonight. Sleep by 10. Phone in kitchen. You need to be up before Fajr at {_fmt(pt['fajr'])}."
+        return f"Tahajjud at {_fmt(tahajjud)} — just 15 minutes before Fajr at {_fmt(pt['fajr'])}. You don't need to wake up at 2 AM. Sleep by 10, wake 15 min before Fajr, pray 2 nafl, then Fajr. Simple and consistent."
     else:
-        return f"Tahajjud is at {_fmt(tahajjud)} — last third of the night. Sleep by 10 tonight. Phone in kitchen. The Prophet said: The closest a servant is to his Lord is in the last third of the night."
+        return f"Tahajjud is at {_fmt(tahajjud)} — 15 minutes before Fajr at {_fmt(pt['fajr'])}. Two nafl and istighfar. The Prophet said the most beloved deeds are the most consistent, even if small. Sleep by 10. Phone in kitchen."
 
 
 # ─── 7. MENTAL HEALTH & RELAPSE ───────────────────────────────────
