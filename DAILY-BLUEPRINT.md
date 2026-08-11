@@ -7,17 +7,36 @@
 
 ## 📿 NON-NEGOTIABLES (hard blocks)
 
+> **Prayer times auto-calculate** (adhanpy, Karachi method, Hanafi, Thane 19.2183°N 72.9747°E)
+> Times below are approximate for Aug 2026 — they shift with seasons.
+
 | Time | Block |
 |------|-------|
-| 04:15 | **Tahajjud** (15 min — 2-4 rakats + dua) |
-| 05:15 | **Fajr** + adhkar |
+| ~02:10 | **Tahajjud** (last third of night — 2 nafl + istighfar) |
+| ~05:00 | **Fajr** + adhkar |
 | 07:00-08:00 | **MMA** (leave 06:45) |
 | 10:45-18:00 | **Office** (leave 10:30) |
-| 12:40 | **Dhuhr** (office, 12:30-14:30 break) |
-| ~17:15 | **Asr** (office musalla) |
-| 19:30 | **Maghrib** (home) |
-| 20:30 | **Isha** |
+| ~12:44 | **Dhuhr** (office, 12:30-14:30 break) |
+| ~17:13 | **Asr** (office musalla) |
+| ~19:09 | **Maghrib** (home) |
+| ~20:26 | **Isha** |
 | 22:00 | **Sleep** (target — reality 22:30) |
+
+---
+
+## 🕌 FASTING (Sunnah — Monday & Thursday)
+
+> The Prophet ﷺ fasted on Mondays and Thursdays. These are your fasting days.
+
+**On fasting days (Mon & Thu):**
+- **Suhur** (pre-dawn meal): Eat before Fajr adhan. Protein shake + dates + water + 2 eggs. Stop ~10 min before Fajr.
+- **During the day**: No food, no water. Use mental clarity for DSA and deep work.
+- **Iftar** (breaking fast): At Maghrib adhan. Dates + water first, then full meal with protein (chicken/fish/eggs).
+- **Hydration**: 2-3 liters of water between Maghrib and sleep.
+- **MMA on fasting days**: Train at 7 AM as usual. You've had Suhur protein. If you feel weak, lighten the session — don't skip.
+- **Post-workout on fast days**: No shake until Maghrib. Just water.
+
+**Non-fasting days**: Normal diet (shake post-workout, low carb dinner, haldi doodh at night).
 
 ---
 

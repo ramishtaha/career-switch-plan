@@ -1,0 +1,8 @@
+hermes.ramishtaha.com {
+    reverse_proxy 127.0.0.1:8443
+    
+    # Log to file
+    log {
+        output file /var/log/caddy/hermes-alexa.log
+    }
+}

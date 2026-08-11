@@ -28,12 +28,13 @@
 ## 12-Week Plan State (V2 — COMPLETION-LOCKED)
 - **Plan Version**: V2 (optimized, starts Aug 3, 2026)
 - **Start Date**: Monday, August 3, 2026
-- **Active Day Count**: 1 of 84 (V1 carryover: 3 DSA problems, 0 Spring Boot code)
-- **Current Week**: 1 (V2 Day 1 = Aug 3, 2026)
-- **DSA Problems Solved**: 3 (Contains Duplicate, Two Sum, Valid Anagram — all Copilot)
-- **DSA Re-solves**: Two Sum re-solved Aug 3 w/ reference (🟡 Hint) — next unaided attempt Aug 6
-- **DSA Unaided**: 0/3 (0% — Two Sum upgraded from 🟠→🟡, still not 🟢)
-- **Current Streak**: 1 (V2 Day 1)
+- **Active Day Count**: 2 of 84 (V1 carryover: 3 DSA problems, 0 Spring Boot code)
+- **Current Week**: 1 (V2 Day 1 = Aug 3, Day 2 = Aug 5; Aug 6-9 MISSED)
+- **DSA Problems Solved**: 3 (Contains Duplicate, Two Sum, Valid Anagram — all Copilot from V1)
+- **DSA Re-solves**: Two Sum re-solved Aug 3 w/ reference (🟡 Hint) — next unaided attempt Aug 6. Valid Anagram re-attempted Aug 5 aided (syntax gap, 🟠 Aided).
+- **DSA Unaided**: 0/3 (0% — all still aided or copilot level)
+- **Current Streak**: 0 (broken — Aug 6-9 missed, 4-day gap)
+- **Missed Days**: Aug 6, 7, 8, 9 (4 days — arc extended, streak reset)
 - **System Designs Practiced**: 0 / 8
 - **Mock Interviews**: 0 / 12
 - **Applications Sent**: 0
@@ -51,16 +52,29 @@
 - **Rest Day**: zero guilt, arc continues, streak preserved (pause not break)
 - **Rules**: See `tracker/state-machine.md` for all edge cases, bar calculation, scenarios
 
-## Daily Blueprint
-- **Golden Block**: 04:30-05:15 — Revision 20 min + 1 new DSA problem (recall first, new learning second)
-- **Block 2**: 05:45-06:30 — Spring Boot theory (45 min, pairs with evening coding)
-- **Office free time**: 13:30-14:30 (LeetCode/theory/Claude cert — counts toward bar)
-- **Evening Block**: 20:45-21:55 (Spring Boot 70 min → git commit)
-- **Sleep**: 22:00 target (reality 22:30) — charger OUT of bedroom, greyscale ON, melatonin if cycling
-- **Circadian fix (Wk 1-2)**: consistent wake + bright light on waking + melatonin 0.3-1mg ~2h before sleep. Clear with physician. Phase out once stable.
+## Daily Blueprint (Prayer-Anchored — Auto-Shifts with Seasons)
+> **SOURCE OF TRUTH**: Alexa app + Hermes cron both read this section.
+> Prayer times calculated locally (adhanpy, Karachi method, Hanafi madhab) for Thane (19.2183°N, 72.9747°E).
+- **Tahajjud**: Last third of night (calc: Isha + 2/3 × (Fajr−Isha)) — two nafl + istighfar
+- **Golden Block**: Fajr → Sunrise — DSA revision 20 min + 1 new problem (no AI, recall first)
+- **Spring Boot Theory**: Sunrise + 15min → 45 min block
+- **MMA Training**: 07:00–08:00 (Mon–Fri, Sat sparring, Sun rest)
+- **Office**: 10:45–18:00 (use 13:30–14:30 for LeetCode/Claude cert)
+- **Evening Block**: 20:45–21:55 (Spring Boot 70 min → git commit)
+- **Sleep**: 22:00 target — charger OUT of bedroom, greyscale ON, melatonin if cycling
+- **Circadian fix (Wk 1-2)**: consistent wake + bright light on waking + melatonin 0.3-1mg ~2h before sleep
 - **5-Min Rule**: home → wudu → pray → THEN anything (keystone habit)
 - **Late Wake Protocol**: never let late wake kill evening block. Fajr always first. Late wake = low bar day.
 - **No more 20:15 phone scroll** — replaced with non-screen reward (haldi doodh + stretch/music)
+
+## Fasting (Sunnah — Mon & Thu)
+- **Days**: Monday and Thursday weekly
+- **Method**: Niyyah at sehri (Suhur) → fast from Fajr to Maghrib → Iftar at Maghrib time
+- **Suhur**: Eat before Fajr (before adhan). Protein shake + dates + water. Target end ~10 min before Fajr.
+- **Iftar**: Break fast immediately at Maghrib adhan. Dates + water first, then full meal.
+- **Fasting day diet**: No shake during the day (before Maghrib). Protein at Suhur: eggs + shake. Protein at Iftar: full meal with chicken/fish/eggs. Hydrate: 2-3L water between Maghrib and sleep.
+- **Non-fasting days**: Normal diet (shake post-workout, low carb dinner, haldi doodh at night).
+- **Alexa awareness**: On Mon/Thu, diet and what-eat responses shift to fasting mode automatically.
 
 ## Habit System Status
 - **Reels Addiction**: ACTIVE PROBLEM — evening trigger after office
@@ -80,8 +94,8 @@
 - **Template**: in tracker/habit-tracker.md
 
 ## Weekly Review
-- **Last Review**: Jul 31 (Week 0 pre-launch — final pre-launch Friday check-in, Jumu'ah)
-- **Next Review**: Friday, Aug 7 (end of V2 Week 1 — first real scoreboard)
+- **Last Review**: Aug 7 (V2 Week 1 Friday — first real scoreboard posted, awaiting Ramish's reflection)
+- **Next Review**: Friday, Aug 14 (end of V2 Week 2)
 
 ## Claude Certification
 - **Status**: not started
