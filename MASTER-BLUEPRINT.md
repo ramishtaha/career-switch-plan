@@ -1,7 +1,8 @@
 # 🎯 RAMISH MASTER BLUEPRINT
 ## Career Switch + Deen + Discipline — One Document, Everything
 
-> **Start: Monday, August 3, 2026 | Day 1 of 84**
+> **Restart: Monday, August 17, 2026 | Day 1 of 84**
+> Prep Days: Aug 12-16 (cleaning, sleep fix, meal prep — NOT counted toward 84)
 > TCS 8.29 LPA → BFSI GCC / Product Co 14-18+ LPA
 > This duniya is temporary. Akhirah is permanent. Both get your best.
 
@@ -128,7 +129,6 @@
 **Sleep math:** 22:30→04:45 = 6h15m + qailulah 25m ≈ 6h40m
 **Study total:** ~3.5 hrs (morning DSA + morning theory + office bonus + evening Spring Boot)
 **Circadian fix (Wk 1-2):** consistent wake + bright light + melatonin 0.3-1mg ~2h before sleep. Clear with physician. Phase out once stable.
-**Study total:** ~3-3.5 hrs/day (morning DSA + morning theory + office bonus + evening Spring Boot)
 
 ## FRIDAY (light day)
 
@@ -152,8 +152,10 @@
 ~19:09 Maghrib → dinner
 ~20:26 Isha
 20:45  📚 Light: system design reading OR AI block (1 hr)
-22:00  📵 Phone away → 22:30 sleep
+22:00  📵 Phone away → 22:30 Sleep
 ```
+
+---
 
 ## SUNDAY (rest + prep)
 
@@ -171,7 +173,7 @@
 19:30  Maghrib → dinner → Isha
 20:45  📋 Weekly prep: Mon clothes, gym bag, DSA queue,
        charger OUT, greyscale ON, 3 targets on paper
-22:00  Sleep
+22:30  Sleep
 ```
 
 ---
@@ -181,7 +183,7 @@
 ## ⚡ The 3 Make-or-Break Rules
 
 1. **The 5-Min Rule** — home → wudu → prayer → *then* anything. The keystone. Everything else survives a bad day except this.
-2. **Charger out of bedroom** — tahajjud dies at 2 AM scrolling, not at the 4:15 alarm.
+2. **Charger out of bedroom** — tahajjud dies at 2 AM scrolling, not at the 04:45 alarm.
 3. **Qailulah timer = 25 min** — longer = groggy = evening block dies.
 
 ## 📱 The Reels Fix (environmental design, not willpower)
@@ -194,7 +196,7 @@
 ## 🕌 The Sunnah Routine (build in layers, not Day 1)
 
 **Week 1-2: Sleep + Fajr only**
-- Sleep 22:00 target. Phone out of bedroom.
+- Sleep 22:30 target. Phone out of bedroom.
 - Fajr on time. No tahajjud pressure yet.
 - After Fajr: STAY UP. This is your barakah study window.
 
@@ -206,7 +208,7 @@
 
 ## 🤝 The "Friend Asks for Help" Protocol (savior complex shield)
 
-**Standing rule:** *"I study 6-9:30 PM. I'm unavailable. We can talk on the weekend."*
+**Standing rule:** *"I study 9:15-10:30 PM (after MMA). I'm unavailable. We can talk on the weekend."*
 
 - NOT selfish. The Prophet ﷺ said: *"There should be neither harming nor reciprocating harm."* Abandoning critical prep for someone who can wait IS self-harm.
 - Genuine emergency? Handle it. "Can you talk?" → it waits.
@@ -215,7 +217,7 @@
 
 - Max 2x/week. Never Monday, never Friday.
 - Career work ONLY (resume, LinkedIn, applications) — not DSA/Spring Boot.
-- Skip qailulah → sleep by 22:00 that night. Non-negotiable.
+- Skip qailulah → sleep by 22:30 that night. Non-negotiable.
 
 ---
 
@@ -230,7 +232,7 @@ Paper is the only thing an ADHD brain can't swipe away. Journal lives on desk, N
 1. What clicked this week?
 2. What didn't?
 3. DSA count? Help-flag trend (🟢/🟡/🟠)?
-4. Sleep by 22:00 — how many nights?
+4. Sleep by 22:30 — how many nights?
 5. Fajr — how many days?
 6. Reels stole any evenings? How many?
 7. ONE adjustment for next week.
@@ -246,7 +248,7 @@ Date: ___          Day: ___ of 84
 Fajr ☐  Dhuhr ☐  Asr ☐  Maghrib ☐  Isha ☐  Tahajjud ☐
 
 💪 BODY
-MMA ☐  Post-workout meal ☐  Sleep by 22:00 ☐
+MMA ☐  Post-workout meal ☐  Sleep by 22:30 ☐
 
 📚 LEARNING
 DSA (unaided) ☐  Spring Boot ☐  Career action ☐
@@ -302,7 +304,7 @@ One thing to fix: ___
 
 | Time | Clip | Content |
 |------|------|---------|
-| 0-3s | **Hook** | Alarm at 04:15. Text: "Day X of 84." |
+| 0-3s | **Hook** | Alarm at 04:45. Text: "Day X of 84." |
 | 3-8s | **Tahajjud** | Wudu area, light on, laptop open (NOT praying) |
 | 8-15s | **Deep work** | LeetCode screen, timer, code compiling |
 | 15-22s | **MMA** | Bag work, sweat, post-workout meal |
@@ -321,18 +323,18 @@ One thing to fix: ___
 
 ## Hooks (first 3s decide everything)
 
-✅ "Day 7 of 84. 04:15. Tahajjud. Then LeetCode."
+✅ "Day 7 of 84. 04:45. Tahajjud. Then LeetCode."
 ✅ "I wasted 2 hours on reels yesterday. Today I woke at 4."
 ✅ "TCS by day. Spring Boot by night. Day 23."
 ❌ "Good morning everyone!" / "Today I'm going to show you..."
 
-**Your hook IS the alarm. 04:15 on screen. Done.**
+**Your hook IS the alarm. 04:45 on screen. Done.**
 
 ## Filming Setups (documentary style — no selfie, no talking to camera)
 
 | Clip | Setup |
 |------|-------|
-| Alarm 04:15 | Phone propped on table, screen facing camera, hand swipes it off |
+| Alarm 04:45 | Phone propped on table, screen facing camera, hand swipes it off |
 | Face wash | Phone on sink ledge, wide, 5s |
 | DSA study | Phone behind laptop, screen + timer visible |
 | MMA | Phone against gym bag, 10s bag work |
@@ -351,7 +353,7 @@ One thing to fix: ___
 ```
 21:45  Edit (10 min max)
 21:55  Post
-22:00  Device away. Personal phone stays outside bedroom.
+22:30  Device away. Personal phone stays outside bedroom.
 ```
 
 ## Caption Template (same daily)
@@ -363,7 +365,7 @@ Day X of 84.
 💻 X DSA problems (unaided: X)
 🥊 MMA ✅
 📚 Spring Boot: X hrs
-😴 Sleep: 22:00
+😴 Sleep: 22:30
 
 TCS → BFSI GCC. Banking domain + Java + AI.
 The 2-year switch is real. Watch me do it in 12 weeks.
@@ -482,7 +484,7 @@ Only list what you can defend in an interview.
 
 ---
 
-# PART 10: PRE-LAUNCH CHECKLIST (Sunday Aug 2)
+# PART 10: PREP DAYS CHECKLIST (Aug 12-16 — NOT counted toward 84)
 
 - [ ] Bullet journal bought + 3 pages drawn (tracker, weekly review, daily template)
 - [ ] Instagram app blocked (One Sec / StayFree)
@@ -494,7 +496,7 @@ Only list what you can defend in an interview.
 - [ ] Batch cook done for Mon-Thu
 - [ ] Gym bag packed, Monday clothes laid out
 - [ ] 3 targets for Monday written on paper
-- [ ] Sleep by 22:00 Sunday night
+- [ ] Sleep by 22:30 Sunday night (Aug 16)
 
 ---
 

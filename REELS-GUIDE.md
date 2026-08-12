@@ -152,7 +152,7 @@ Each clip = 5-10 seconds. Phone out, shoot, phone away. Total phone time/day: **
 |---|------|---------|-------------|
 | 20 | 08:00 | Post-workout shake (500ml Ultra + 2 whey) | "700 kcal · 66g protein" |
 | 21 | 12:30 | Batch-cooked lunch at desk | "Meal prep Sunday" |
-| 22 | 22:00 | Haldi doodh (toned 3%) | "Wind down" |
+| 22 | 22:30 | Haldi doodh (toned 3%) | "Wind down" |
 
 > **Fasting days (Mon/Thu):** Clip 20 = Suhur. Replace shake clip with Iftar clip at Maghrib.
 

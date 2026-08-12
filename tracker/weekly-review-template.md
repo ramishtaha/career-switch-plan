@@ -25,7 +25,7 @@
 
 | Habit | This Week | Target |
 |-------|-----------|--------|
-| Sleep by 22:00 | __/7 | 7 |
+| Sleep by 22:30 | __/7 | 7 |
 | Fajr on time | __/7 | 7 |
 | Tahajjud | __/7 | build up |
 | 5-Min Rule (home→wudu→pray) | __/7 | 7 |

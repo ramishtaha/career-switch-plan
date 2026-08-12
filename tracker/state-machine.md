@@ -126,7 +126,7 @@ Every problem gets ONE row. Fields:
 - `session-state.md` phase = `pre-launch`
 - Pre-launch DSA problems count as **carryover** — they appear in total but don't trigger Day 1
 - Day 1 = first worked day ON OR AFTER the start date (Aug 3)
-- If Ramish does 3 DSA problems on Aug 2 → those are carryover. Aug 3 = Day 1 (if he works)
+- If Ramish does 3 DSA problems on Aug 16 → those are carryover. Aug 17 = Day 1 (if he works)
 - **Pre-launch work is a bonus, not a substitute.** It doesn't reduce the 84-day count.
 
 ---
@@ -153,7 +153,7 @@ Every problem gets ONE row. Fields:
 
 ### Weekly (not aggregate — resets every Monday)
 - Prayers: count per day, not aggregate. Friday review shows "X/7 days each prayer"
-- Sleep: count nights where in bed by 22:00
+- Sleep: count nights where in bed by 22:30
 - Reels: count minutes per day (estimate is fine)
 - 5-Min Rule: count days where home → wudu → pray → THEN rest
 - Phone out of bedroom: count nights

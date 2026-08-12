@@ -33,20 +33,20 @@
 
 ## PHASE 1: FOUNDATION (Weeks 1-4) — "Build the Machine"
 
-### WEEK 1 (Aug 3-9): DSA Basics + Spring Boot Skeleton + Habit System
+### WEEK 1 (Aug 17-23): DSA Basics + Spring Boot Skeleton + Habit System
 **Theme:** Get the machine running. NO cloud. NO Kubernetes. NO AI. Just basics.
 **Primary Focus:** Arrays & Hashing (DSA) + Spring Boot Project Setup
 **Week 1 REAL Goal:** Habit system locked in (phone out of bedroom, greyscale, evening anchor)
 
 | # | Day | Date | DSA | Spring Boot | Habit System | Bar |
 |---|-----|------|-----|-------------|-------------|-----|
-| 1 | Mon | Aug 3 | Contains Duplicate, Two Sum (UNAIDED re-solve) | Setup JDK 17, IntelliJ, Maven, start.spring.io, push to GitHub | Charger OUT, greyscale ON, app blocker | ⬜ |
-| 2 | Tue | Aug 4 | Valid Anagram, Group Anagrams (UNAIDED) | Product entity + Repository, H2 DB, GET/POST endpoints | Sleep 22:30, Fajr on time | ⬜ |
-| 3 | Wed | Aug 5 | Top K Frequent, Encode/Decode Strings | ProductService layer, @ControllerAdvice exception handling | 5-Min Rule (home→wudu→pray) | ⬜ |
-| 4 | Thu | Aug 6 | Products of Array Except Self | Category entity (One-to-Many), validation | Qailulah 25-min timer | ⬜ |
-| 5 | Fri | Aug 7 | Revision: re-solve 2 without notes | Clean code, comments, 2 unit tests | Weekly Review | ⬜ |
-| 6 | Sat | Aug 8 | Valid Palindrome, Two Sum II | Validation (@Valid), Postman testing | Batch cook Sunday | ⬜ |
-| 7 | Sun | Aug 9 | Revision + REST | REST | Journal: weekly prep for Monday | ⬜ |
+| 1 | Mon | Aug 17 | Contains Duplicate, Two Sum (UNAIDED re-solve) | Setup JDK 17, IntelliJ, Maven, start.spring.io, push to GitHub | Charger OUT, greyscale ON, app blocker | ⬜ |
+| 2 | Tue | Aug 18 | Valid Anagram, Group Anagrams (UNAIDED) | Product entity + Repository, H2 DB, GET/POST endpoints | Sleep 22:30, Fajr on time | ⬜ |
+| 3 | Wed | Aug 19 | Top K Frequent, Encode/Decode Strings | ProductService layer, @ControllerAdvice exception handling | 5-Min Rule (home→wudu→pray) | ⬜ |
+| 4 | Thu | Aug 20 | Products of Array Except Self | Category entity (One-to-Many), validation | Qailulah 25-min timer | ⬜ |
+| 5 | Fri | Aug 21 | Revision: re-solve 2 without notes | Clean code, comments, 2 unit tests | Weekly Review | ⬜ |
+| 6 | Sat | Aug 22 | Valid Palindrome, Two Sum II | Validation (@Valid), Postman testing | Batch cook Sunday | ⬜ |
+| 7 | Sun | Aug 23 | Revision + REST | REST | Journal: weekly prep for Monday | ⬜ |
 
 **Week 1 Deliverables:**
 - [ ] 8 DSA problems (Arrays, Hashing, Two Pointers start)
@@ -57,7 +57,7 @@
 
 ---
 
-### WEEK 2 (Aug 10-16): Sliding Window + Docker + Resume v1
+### WEEK 2 (Aug 24-30): Sliding Window + Docker + Resume v1
 **Theme:** DSA patterns deepen. Containerize. Start resume.
 **Primary Focus:** DSA patterns + Docker + Resume
 
@@ -79,7 +79,7 @@
 
 ---
 
-### WEEK 3 (Aug 17-23): Trees + First System Design + Start Applications
+### WEEK 3 (Aug 31-Sep 6): Trees + First System Design + Start Applications
 **Theme:** Add distributed systems thinking. Start the referral engine.
 **Primary Focus:** Trees (DSA) + System Design intro + Microservices
 
@@ -103,7 +103,7 @@
 
 ---
 
-### WEEK 4 (Aug 24-30): Heaps + Kafka + Cloud Deploy
+### WEEK 4 (Sep 7-13): Heaps + Kafka + Cloud Deploy
 **Theme:** Add the missing distributed systems skill. Deploy to cloud.
 **Primary Focus:** Heaps (DSA) + Kafka integration
 
@@ -130,7 +130,7 @@
 
 ## PHASE 2: DEPTH (Weeks 5-8) — "Interview-Grade Engineer"
 
-### WEEK 5 (Aug 31-Sep 6): Graphs + Spring Internals + AI Integration
+### WEEK 5 (Sep 14-20): Graphs + Spring Internals + AI Integration
 **Theme:** Spring Boot under the hood. Add the AI differentiator.
 
 | # | Day | DSA | Spring Boot | AI Integration | Career | Bar |
@@ -152,7 +152,7 @@
 
 ---
 
-### WEEK 6 (Sep 7-13): Tries + Concurrency + RAG + ⚠️ DECISION POINT
+### WEEK 6 (Sep 21-27): Tries + Concurrency + RAG + ⚠️ DECISION POINT
 **Theme:** Java concurrency is a core interview topic. Master it.
 **⚠️ END OF WEEK 6 — PLAN A/B/C DECISION:**
 - Spring Boot clicking → continue Plan A
@@ -179,7 +179,7 @@
 
 ---
 
-### WEEK 7 (Sep 14-20): DP 1D + JVM Internals + Observability
+### WEEK 7 (Sep 28-Oct 4): DP 1D + JVM Internals + Observability
 **Theme:** DP is the hardest DSA topic. Start early. JVM = senior engineer differentiator.
 
 | # | Day | DSA | Spring Boot / DevOps | System Design | Career | Bar |
@@ -201,7 +201,7 @@
 
 ---
 
-### WEEK 8 (Sep 21-27): DP 2D + Microservices Patterns + Mid-Point Review
+### WEEK 8 (Oct 5-11): DP 2D + Microservices Patterns + Mid-Point Review
 **Theme:** Advanced DP + production patterns. Halfway checkpoint.
 
 | # | Day | DSA | Spring Boot | AI Integration | System Design | Career | Bar |
@@ -226,7 +226,7 @@
 
 ## PHASE 3: SHARPENING (Weeks 9-12) — "Interview Ready"
 
-### WEEK 9 (Sep 28-Oct 4): LeetCode Speed Run + Security + Active Interviews
+### WEEK 9 (Oct 12-18): LeetCode Speed Run + Security + Active Interviews
 **Theme:** DSA speed. Security hardening. Start active interviewing.
 
 | # | Day | DSA | Spring Boot | DevOps | Career | Bar |
@@ -250,7 +250,7 @@
 
 ---
 
-### WEEK 10 (Oct 5-11): LeetCode Hard + System Design Mocks
+### WEEK 10 (Oct 19-25): LeetCode Hard + System Design Mocks
 **Theme:** Hard problems. System design under pressure.
 
 | # | Day | DSA | System Design | Career | Bar |
@@ -271,7 +271,7 @@
 
 ---
 
-### WEEK 11 (Oct 12-18): Contest Simulation + Final Project Polish
+### WEEK 11 (Oct 26-Nov 1): Contest Simulation + Final Project Polish
 **Theme:** Contest-level DSA. Project documentation.
 
 | # | Day | DSA | Project | System Design | Career | Bar |
@@ -293,7 +293,7 @@
 
 ---
 
-### WEEK 12 (Oct 19-25): Final Revision + Offers + Negotiation
+### WEEK 12 (Nov 2-8): Final Revision + Offers + Negotiation
 **Theme:** Close the loop. Get the offer.
 
 | # | Day | DSA | Spring Boot | System Design | Career | Bar |

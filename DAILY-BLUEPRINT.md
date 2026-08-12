@@ -92,7 +92,7 @@
 ## 📅 FRIDAY (light day — Jumu'ah + reset)
 
 ```
-04:15  Tahajjud → 05:15 Fajr
+04:45  Tahajjud → 05:00 Fajr
 05:30  DSA: 1 revision problem only
 07:00  MMA
 08:00  Post-workout meal → shower → office
@@ -105,11 +105,11 @@
 20:45  📝 Career block 1hr + Weekly Review 30 min:
        1. What clicked? What didn't?
        2. DSA count? Help-flag trend?
-       3. Sleep by 22:00 — how many nights?
+       3. Sleep by 22:30 — how many nights?
        4. Fajr — how many days? Tahajjud?
        5. Reels stole any evenings? How many?
        6. ONE adjustment for next week.
-22:00  Sleep
+22:30  Sleep
 ```
 
 ---
@@ -132,7 +132,7 @@
 ~19:09 🕌 Maghrib → dinner
 ~20:26 🕌 Isha
 20:45  📚 Light: system design reading OR AI block (1 hr)
-22:00  📵 Phone away → 22:30 sleep
+22:00  📵 Phone away → 22:30 Sleep
 ```
 
 **Saturday differences from weekday:**
@@ -147,10 +147,10 @@
 ## 📅 SUNDAY (rest + prep — NO MMA)
 
 ```
-04:15  Tahajjud → Fajr
+04:45  Tahajjud → Fajr
        → back to sleep (no MMA, no alarm pressure — this is your recovery day)
 08:00  Wake naturally → 🍳 breakfast
-09:00  😴 Qailulah if needed
+09:00  Qailulah if needed
 
 10:00  🍳 BATCH COOK (2-2.5 hrs):
        □ Chicken curry/bhuna (1 kg) + Beef keema (750g) + Basa (500g)
@@ -176,7 +176,7 @@
        □ Greyscale ON
        □ 3 targets for Monday on paper
        □ Journal: fill today's page
-22:00  Sleep
+22:30  Sleep
 ```
 
 ---
@@ -220,7 +220,7 @@
 
 ## 🤝 THE "FRIEND ASKS" PROTOCOL
 
-> *"I study 6-9:30 PM. I'm unavailable. We can talk on the weekend."*
+> *"I study 9:15-10:30 PM (after MMA). I'm unavailable. We can talk on the weekend."*
 
 NOT selfish. Abandoning critical prep for someone who can wait IS self-harm.
 Genuine emergency? Handle it. "Can you talk?" → it waits.
@@ -231,7 +231,7 @@ Genuine emergency? Handle it. "Can you talk?" → it waits.
 
 - Max 2x/week. Never Monday, never Friday.
 - Career work ONLY (resume/LinkedIn/apps), not DSA/Spring Boot.
-- Skip qailulah → sleep by 22:00 that night. Non-negotiable.
+- Skip qailulah → sleep by 22:30 that night. Non-negotiable.
 
 ---
 

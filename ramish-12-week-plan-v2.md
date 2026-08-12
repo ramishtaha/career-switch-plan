@@ -93,7 +93,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 1 (Aug 3-9): DSA Basics + Spring Boot Skeleton + Kill the Reels
+### WEEK 1 (Aug 17-23): DSA Basics + Spring Boot Skeleton + Kill the Reels
 **Theme:** Get the machine running. NO cloud. NO Kubernetes. NO AI. Just basics.
 
 **Primary Focus:** Arrays & Hashing (DSA) + Spring Boot Project Setup
@@ -121,18 +121,18 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 - Phone greyscale mode ON (Settings → Accessibility → Colour filters)
 - Install app blocker: One Sec or StayFree on Instagram + YouTube
 - Evening rule: Come home → WUDU → MAGHRIB → THEN sit down. No phone before Maghrib.
-- Sleep target: 10:30 PM (fix this BEFORE trying tahajjud)
+- Sleep target: 22:30 (fix this BEFORE trying tahajjud)
 
 **End of Week 1 — You Should Have:**
 - [ ] 10 DSA problems solved (Arrays, Hashing, Two Pointers start)
 - [ ] Spring Boot CRUD app running locally with H2
 - [ ] Project on GitHub with 5+ commits
 - [ ] Phone out of bedroom for 7 consecutive nights
-- [ ] Sleep before 10:30 PM at least 5 nights
+- [ ] Sleep before 22:30 at least 5 nights
 
 ---
 
-### WEEK 2 (Aug 10-16): Sliding Window + Docker + Resume v1
+### WEEK 2 (Aug 24-30): Sliding Window + Docker + Resume v1
 **Theme:** DSA patterns deepen. Containerize the app. Start resume.
 
 **Primary Focus:** DSA patterns + Docker + Resume
@@ -166,7 +166,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 3 (Aug 17-23): Trees + First System Design + Start Applications
+### WEEK 3 (Aug 31-Sep 6): Trees + First System Design + Start Applications
 **Theme:** Add distributed systems thinking. Start the referral engine.
 
 **Primary Focus:** Trees (DSA) + System Design intro
@@ -205,7 +205,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 4 (Aug 24-30): Heaps + Kafka + Cloud Deploy
+### WEEK 4 (Sep 7-13): Heaps + Kafka + Cloud Deploy
 **Theme:** Add the missing distributed systems skill. Deploy to cloud.
 
 **Primary Focus:** Heaps (DSA) + Kafka integration
@@ -250,7 +250,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 5 (Aug 31-Sep 6): Graphs + Spring Internals + AI Integration
+### WEEK 5 (Sep 14-20): Graphs + Spring Internals + AI Integration
 **Theme:** Spring Boot under the hood. Add the AI differentiator.
 
 **DSA (target: 8):**
@@ -276,7 +276,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 6 (Sep 7-13): Tries + Concurrency + RAG + Mock Interview
+### WEEK 6 (Sep 21-27): Tries + Concurrency + RAG + Mock Interview
 **Theme:** Java concurrency is a core interview topic. Master it. First system design mock.
 
 **DSA (target: 8):**
@@ -309,7 +309,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 7 (Sep 14-20): DP 1D + JVM Internals + Observability
+### WEEK 7 (Sep 28-Oct 4): DP 1D + JVM Internals + Observability
 **Theme:** DP is the hardest DSA topic. Start early. JVM = senior engineer differentiator.
 
 **DSA (target: 8):**
@@ -335,7 +335,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 8 (Sep 21-27): DP 2D + Microservices Patterns + Mid-Point Review
+### WEEK 8 (Oct 5-11): DP 2D + Microservices Patterns + Mid-Point Review
 **Theme:** Advanced DP + production patterns. Halfway checkpoint.
 
 **DSA (target: 8):**
@@ -376,7 +376,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 9 (Sep 28-Oct 4): LeetCode Speed Run + Security + Active Interviews
+### WEEK 9 (Oct 12-18): LeetCode Speed Run + Security + Active Interviews
 **Theme:** DSA speed. Security hardening. Start active interviewing.
 
 **DSA (target: 10):**
@@ -400,7 +400,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 10 (Oct 5-11): LeetCode Hard + System Design Mocks
+### WEEK 10 (Oct 19-25): LeetCode Hard + System Design Mocks
 **Theme:** Hard problems. System design under pressure.
 
 **DSA (target: 8):**
@@ -418,7 +418,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 11 (Oct 12-18): Contest Simulation + Final Project Polish
+### WEEK 11 (Oct 26-Nov 1): Contest Simulation + Final Project Polish
 **Theme:** Contest-level DSA. Project documentation.
 
 **DSA (target: 10):**
@@ -436,7 +436,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 12 (Oct 19-25): Final Revision + Offers + Negotiation
+### WEEK 12 (Nov 2-8): Final Revision + Offers + Negotiation
 **Theme:** Close the loop. Get the offer.
 
 **DSA:**
@@ -483,18 +483,18 @@ The cycle: Come home → sit on couch → open phone → reels → 2 hours gone 
 
 This is NOT a willpower problem. It's a DOPAMINE TRAP. ADHD brains run out of willpower fast. The fix is ENVIRONMENTAL DESIGN, not willpower.
 
-### The Fix (Do This Sunday Aug 2, Before Week 1 Starts)
+### The Fix (Do This Sunday Aug 16, Before Week 1 Starts)
 
 1. **Phone charger OUT of bedroom** — move it to the living room or kitchen. Physical barrier.
 2. **Phone greyscale ON** — Settings → Accessibility → Colour filters → Grayscale. Reels are BORING in greyscale. This is proven to reduce usage by 30%+.
 3. **App blocker** — install "One Sec" or "StayFree" on Instagram + YouTube Shorts. Add a 10-second breathing delay before the app opens. ADHD brains hate waiting. 10 seconds is enough friction.
 4. **Evening anchor** — Come home from office → DO NOT SIT DOWN → go straight to bathroom → WUDU → MAGHRIB → THEN you can rest. The first 5 minutes after coming home determine the entire evening.
-5. **Sleep by 10:30 PM** — fix this BEFORE trying tahajjud. You can't wake for tahajjud if you sleep at 2 AM.
+5. **Sleep by 22:30** — fix this BEFORE trying tahajjud. You can't wake for tahajjud if you sleep at 2 AM.
 
 ### The Sunnah Routine (Build This Over 12 Weeks, Not Day 1)
 
 **Week 1-2: Fix Sleep + Fajr**
-- Sleep by 10:30 PM. Phone out of bedroom.
+- Sleep by 22:30. Phone out of bedroom.
 - Wake for Fajr. Don't try tahajjud yet. Just Fajr on time.
 - After Fajr: stay up. Don't go back to sleep. This is your study window.
 
@@ -523,12 +523,12 @@ Come home from office
   → Isha prayer
   → Evening reset: tomorrow's clothes, gym bag, charger OUT of bedroom
   → Phone greyscale ON
-  → Sleep by 10:30 PM
+  → Sleep by 22:30
 ```
 
 ### The "Friend Asks for Help" Protocol (Savior Complex Fix)
 When someone asks for help during study hours:
-- **Standing rule:** "I study 6-9:30 PM. I'm unavailable. We can talk on the weekend."
+- **Standing rule:** "I study 9:15-10:30 PM (after MMA). I'm unavailable. We can talk on the weekend."
 - This is NOT selfish. It's protecting your deen and dunya.
 - The Prophet ﷺ said: "There should be neither harming nor reciprocating harm." Abandoning your own critical prep to help someone who can wait IS self-harm.
 - If it's a genuine emergency: handle it. If it's "can you talk?" — it can wait.
@@ -540,7 +540,7 @@ When someone asks for help during study hours:
 1. What clicked this week?
 2. What didn't?
 3. How many DSA problems? Help flag trend?
-4. Did I sleep by 10:30 PM? How many nights?
+4. Did I sleep by 22:30? How many nights?
 5. Did I wake for Fajr? How many days?
 6. Did reels steal any evenings? How many?
 7. What's the ONE adjustment for next week?
