@@ -81,7 +81,7 @@
   - **Doubles**: 2–3x/week — add 7:00–8:00 AM session on Tue/Wed/Fri (non-fasting days only).
   - **Saturday**: 12:00–13:00 SPARRING at Mulund branch (30 min commute each way). No Manpada morning classes.
   - **Sunday**: Rest. Recovery is training.
-  - **Fasting days (Mon/Thu)**: Single 8 PM session only. No doubles. Iftar at Maghrib, eat light, train at 8.
+  - **Fasting days (Mon/Thu)**: Default 8 PM after Iftar. 7 AM fasted session optional if feeling strong. Listen to body.
   - **8 PM rotation (Manpada branch, 10 min commute)**: Mon=Wrestling(Mat1), Tue=Muay Thai(Mat1), Wed=Boxing(Mat1), Thu=MMA(Mat1), Fri=Jiu Jitsu(Mat1)
   - **7 AM doubles (Manpada, non-fasting)**: Tue=Muay Thai, Wed=Wrestling(Mat1), Fri=Strength(Mat2)
   - **Weekly volume**: 9 sessions (5 evening + 3 morning + 1 Saturday sparring)

@@ -33,7 +33,7 @@
 - **During the day**: No food, no water. Use mental clarity for DSA and deep work.
 - **Iftar** (breaking fast): At Maghrib adhan. Dates + water first, then full meal with protein (chicken/fish/eggs).
 - **Hydration**: 2-3 liters of water between Maghrib and sleep.
-- **MMA on fasting days**: Single 8 PM session ONLY. No 7 AM doubles. Iftar at Maghrib → eat light → train at 8 PM. If you feel weak, lighten the session — don't skip.
+- **MMA on fasting days**: Default = 8 PM after Iftar. If feeling strong, 7 AM fasted session is optional. Listen to your body — don't push if weak.
 - **Post-workout on fast days**: No shake until Maghrib. Just water.
 
 **Non-fasting days**: Normal diet (shake post-workout, low carb dinner, haldi doodh at night).

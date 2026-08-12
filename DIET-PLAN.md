@@ -183,7 +183,7 @@
 
 ## 🕌 FASTING DAYS (Mon/Thu Sunnah)
 
-> Training at 8 PM (after Iftar). Shake happens post-workout.
+> Training: 8 PM after Iftar (default). 7 AM fasted session optional if feeling strong. Shake post-workout either way.
 
 ### Suhoor (pre-Fajr, ~04:30)
 | Item | Notes |
