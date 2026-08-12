@@ -133,8 +133,10 @@
 ## FRIDAY (light day)
 
 - DSA: 1 revision problem only
+- 07:00 [DOUBLE] Strength (Mat2) — if non-fasting Friday
 - 12:30 Jumu'ah (masjid)
-- 20:45 Career block 1hr + **Weekly Review** (30 min)
+- 20:00 MMA — Jiu Jitsu(Mat1) at BRUTE
+- 21:15 Career block 1hr + **Weekly Review** (30 min)
 
 ## 📅 SATURDAY (deep work, 5-6 hrs)
 

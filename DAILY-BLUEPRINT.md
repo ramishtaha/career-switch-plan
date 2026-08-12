@@ -33,7 +33,7 @@
 - **During the day**: No food, no water. Use mental clarity for DSA and deep work.
 - **Iftar** (breaking fast): At Maghrib adhan. Dates + water first, then full meal with protein (chicken/fish/eggs).
 - **Hydration**: 2-3 liters of water between Maghrib and sleep.
-- **MMA on fasting days**: Train at 7 AM as usual. You've had Suhur protein. If you feel weak, lighten the session — don't skip.
+- **MMA on fasting days**: Single 8 PM session ONLY. No 7 AM doubles. Iftar at Maghrib → eat light → train at 8 PM. If you feel weak, lighten the session — don't skip.
 - **Post-workout on fast days**: No shake until Maghrib. Just water.
 
 **Non-fasting days**: Normal diet (shake post-workout, low carb dinner, haldi doodh at night).
@@ -94,15 +94,18 @@
 ```
 04:45  Tahajjud → 05:00 Fajr
 05:30  DSA: 1 revision problem only
-07:00  MMA
+07:00  🥊 [DOUBLE] Strength (Mat2) — if non-fasting Friday
 08:00  Post-workout meal → shower → office
 
 12:30  🕌 Jumu'ah (masjid — full 2-hr break is yours)
 14:30  Light TCS work
 
 18:15  Home → 5-MIN RULE (wudu → pray → then rest)
-19:30  Maghrib → dinner → Isha
-20:45  📝 Career block 1hr + Weekly Review 30 min:
+~19:09 Maghrib → dinner → Isha
+19:45  🎒 Leave for BRUTE (if not too tired from morning double)
+20:00  🥊 MMA at BRUTE — Fri=Jiu Jitsu(Mat1)
+21:00  🏠 Home → shower
+21:15  📝 Career block 1hr + Weekly Review 30 min:
        1. What clicked? What didn't?
        2. DSA count? Help-flag trend?
        3. Sleep by 22:30 — how many nights?

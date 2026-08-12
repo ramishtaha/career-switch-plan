@@ -183,12 +183,12 @@
 
 ## 🕌 FASTING DAYS (Mon/Thu Sunnah)
 
-> Training is fasted. Shake still happens post-workout.
+> Training at 8 PM (after Iftar). Shake happens post-workout.
 
 ### Suhoor (pre-Fajr, ~04:30)
 | Item | Notes |
 |------|-------|
-| 2-3 dates + water | Quick energy for fasted MMA |
+| 2-3 dates + water | Quick energy before the day's fast |
 | 1 cup bone broth | If time permits |
 | 2 boiled eggs | Protein floor before fast |
 
