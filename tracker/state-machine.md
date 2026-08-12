@@ -62,7 +62,7 @@
 
 - **Streak increments** on any Day Worked (🟢 or 🟡 or 🟠)
 - **Streak resets to 0** on Missed Day (not declared rest)
-- **Rest Day** does NOT break streak — it pauses it. Next worked day continues streak.
+- **Rest Day** does NOT break streak — it **PRESERVES** it (pause, not break). Next worked day continues streak.
   - Example: 5-day streak → rest day → work day = 6-day streak (not reset)
 - **7+ consecutive missed days** → phase becomes `paused`, streak resets to 0
 - Backfill within 48 hours: "I did X yesterday" → day counts, streak continues if gap < 48 hrs
@@ -199,7 +199,7 @@ Every problem gets ONE row. Fields:
 IF day_worked = false AND rest_day_declared = true:
     bar = "rest"
     day_count += 0
-    streak preserved
+    streak PRESERVED (not reset — rest is pause, not break)
 
 ELIF dsa_count >= 4 AND spring_boot_minutes >= 90 AND career_actions >= 1:
     bar = "high" 🟡
@@ -228,6 +228,20 @@ ELSE:
 
 ## 🛡️ ADAPTABILITY SCENARIOS
 
+### Scenario 0: Rest Day (NON-NEGOTIABLE RULE)
+- Ramish says "rest day" → bar = 😴 REST
+- Day count does NOT increment
+- **Streak is PRESERVED** (paused, NOT broken). Next worked day continues streak.
+- Zero guilt. Recovery IS training.
+- Max 1 rest day per week (Saturday or Sunday usually)
+
+| Source | Old rule | NEW rule (ALL files aligned) |
+|--------|---------|-----|
+| state-machine.md | "does NOT break streak" | ✅ PRESERVED (pause, not break) |
+| session-state.md | "streak preserved" | ✅ PRESERVED |
+| system-state.md | "streak resets to 0" | ❌ DELETED — file removed |
+| ramish-mentor skill | "streak resets to 0" | ✅ PATCHED → PRESERVED |
+
 ### Scenario 1: Boss yells → 10 DSA problems
 - Day counts as 1 (not 10)
 - Bar = 🟡 high (massively exceeded)
@@ -245,7 +259,7 @@ ELSE:
 ### Scenario 3: Sick day → can't study
 - Ramish says "sick day" → treated as rest day
 - Day count does NOT increment
-- Streak preserved (rest = pause, not break)
+- Streak PRESERVED (rest = pause, not break)
 - Recovery is part of the process
 
 ### Scenario 4: Hyperfocus → finishes entire Spring Boot week in one Saturday

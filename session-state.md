@@ -1,20 +1,23 @@
 # Session State — Ramish Mentor System
 
-> **SINGLE SOURCE OF TRUTH for all aggregate counts.**
+> **SINGLE SOURCE OF TRUTH for all aggregate counts.** No other file holds counts.
 > Auto-updated by Hermes via Evening Close-Out. Read at start of every session.
 > Rules: `tracker/state-machine.md` — Hermes follows it, no improvising.
 
 ---
 
 ## System Phase
-- **System Phase**: `active` (Day 1 = Aug 3, 2026)
-- **Phase Transition**: `pre-launch` → `active` on first worked day ON OR AFTER Aug 3 ✅
+- **System Phase**: `pre-launch` (restart Monday Aug 17, 2026)
+- **Start Date**: Monday, August 17, 2026 (V2 RESTART — fresh start)
+- **Previous Attempt**: Aug 3 start, 2 days worked, 4+ missed — arc complete, fresh start
+- **Prep Days**: Aug 12-16 (cleaning, sleep fix, meal prep, structure build — NOT counted toward 84)
+- **Day 1 Trigger**: First worked day ON OR AFTER Aug 17
 
 ---
 
 ## Active Tracks
 - **Learning**: ✓ ACTIVE — Goal: Senior/Staff backend engineer, GCC/product co, 14-18+ LPA
-- **Body+Nutrition**: ✓ ACTIVE — Goal: Competition weight cut, daily MMA 7-8 AM
+- **Body+Nutrition**: ✓ ACTIVE — Goal: Competition weight cut, daily MMA 8 PM
 - **Deen+Chastity**: ✓ ACTIVE — Goal: Prayer consistency, tahajjud daily, chastity recovery
 
 ## Learning Mode
@@ -23,22 +26,37 @@
 - **Concepts Understood**: What Spring Boot is (auto-config, DI, embedded server), annotations = labels, 4-layer flow (Controller→Service→Repository→DB), @Service on class not method
 - **Concepts Pending**: @Entity details, @RestController, @GetMapping/@PostMapping, @PathVariable/@RequestBody, JpaRepository methods, running the app, testing endpoints
 - **Code Files Given (not yet created on laptop)**: Product.java, ProductRepository.java, ProductService.java, ProductController.java
-- **Next Laptop Session**: Create 4 files in IntelliJ → run app → test endpoints
+- **Next Laptop Session**: Create 4 files in IntelliJ → run app → test endpoints (Day 1)
 
-## 12-Week Plan State (V2 — COMPLETION-LOCKED)
-- **Plan Version**: V2 (optimized, starts Aug 3, 2026)
-- **Start Date**: Monday, August 3, 2026
-- **Active Day Count**: 2 of 84 (V1 carryover: 3 DSA problems, 0 Spring Boot code)
-- **Current Week**: 1 (V2 Day 1 = Aug 3, Day 2 = Aug 5; Aug 6-9 MISSED)
-- **DSA Problems Solved**: 3 (Contains Duplicate, Two Sum, Valid Anagram — all Copilot from V1)
-- **DSA Re-solves**: Two Sum re-solved Aug 3 w/ reference (🟡 Hint) — next unaided attempt Aug 6. Valid Anagram re-attempted Aug 5 aided (syntax gap, 🟠 Aided).
-- **DSA Unaided**: 0/3 (0% — all still aided or copilot level)
-- **Current Streak**: 0 (broken — Aug 6-9 missed, 4-day gap)
-- **Missed Days**: Aug 6, 7, 8, 9 (4 days — arc extended, streak reset)
+## 12-Week Plan State (V2 RESTART — COMPLETION-LOCKED)
+- **Plan Version**: V2-restart (fresh start, Aug 17, 2026)
+- **Start Date**: Monday, August 17, 2026
+- **Active Day Count**: 0 of 84 (pre-launch)
+- **Current Week**: 0 (pre-launch)
+- **DSA Problems Solved**: 3 (PRE-RESTART CARRYOVER — logged in dsa-tracker, don't increment Day count)
+- **DSA Carryover Detail**: Contains Duplicate (🟠), Two Sum (🟡 re-solve), Valid Anagram (🟠) — from V1/V2-first
+- **DSA Unaided**: 0/3 (0% — all still aided/copilot level — in re-solve queue)
+- **Current Streak**: 0 (fresh start)
+- **Missed Days**: 0 (cleared — fresh start)
 - **System Designs Practiced**: 0 / 8
 - **Mock Interviews**: 0 / 12
 - **Applications Sent**: 0
 - **Claude Cert Progress**: not started
+
+## Prep Days (Aug 12-16 — NOT counted toward 84)
+- **Goal**: Build the structure so Day 1 starts clean
+- **Tasks**:
+  - [ ] Clean house
+  - [ ] Fix sleep (22:30 target, phone out of bedroom, greyscale ON)
+  - [ ] Meal prep (Sunday batch cook Aug 16)
+  - [ ] Bullet journal setup (buy + draw 3 pages)
+  - [ ] App blockers on phone (One Sec / StayFree on Instagram + YouTube)
+  - [ ] Charger OUT of bedroom (physical move)
+  - [ ] DSA: re-solve 3 carryover problems unaided (BONUS, not required)
+  - [ ] Spring Boot: create the 4 project files (BONUS, not required)
+  - [ ] Gym bag packed, Monday clothes laid out
+  - [ ] 3 targets for Monday written on paper
+  - [ ] Sleep by 22:30 Sunday night
 
 ## Career Path Strategy
 - **Plan A (Primary)**: Java + Spring Boot → BFSI GCC (₹16-50 LPA)
@@ -46,10 +64,10 @@
 - **Plan C (Safety Net)**: Stay TCS, build portfolio, switch Q1 2027
 
 ## Daily Bar System
-- **🟢 Low Bar**: 1 DSA + 30-min Spring Boot + 1 career action (all three)
-- **🟡 High Bar**: 4 DSA + full Spring Boot + full career block
+- **🟢 Low Bar** (streak alive): 1 DSA + 30-min Spring Boot + 1 career action (all three)
+- **🟡 High Bar** (push day): 4 DSA + full Spring Boot + full career block
 - **Banked Days**: 0 / 5 max (expire after 14 days)
-- **Rest Day**: zero guilt, arc continues, streak preserved (pause not break)
+- **Rest Day**: zero guilt, arc continues, **streak PRESERVED** (pause, not break — see state-machine.md)
 - **Rules**: See `tracker/state-machine.md` for all edge cases, bar calculation, scenarios
 
 ## Daily Blueprint (Prayer-Anchored — Auto-Shifts with Seasons)
@@ -80,7 +98,7 @@
 ## Fasting (Sunnah — Mon & Thu)
 - **Days**: Monday and Thursday weekly
 - **Method**: Niyyah at sehri (Suhur) → fast from Fajr to Maghrib → Iftar at Maghrib time
-- **Suhur**: Eat before Fajr (before adhan). Protein shake + dates + water. Target end ~10 min before Fajr.
+- **Suhur**: Eat before Fajr (before adhan). Protein shake + dates + water + 2 eggs. Target end ~10 min before Fajr.
 - **Iftar**: Break fast immediately at Maghrib adhan. Dates + water first, then full meal.
 - **Fasting day diet**: No shake during the day (before Maghrib). Protein at Suhur: eggs + shake. Protein at Iftar: full meal with chicken/fish/eggs. Hydrate: 2-3L water between Maghrib and sleep.
 - **Non-fasting days**: Normal diet (shake post-workout, low carb dinner, haldi doodh at night).
@@ -88,9 +106,9 @@
 
 ## Habit System Status
 - **Reels Addiction**: ACTIVE PROBLEM — evening trigger after office
-- **Sleep**: NOT FIXED — scrolling late, no tahajjud
-- **Phone in bedroom**: UNKNOWN (fix by Sunday Aug 2)
-- **5-Min Rule**: NOT ESTABLISHED (start Monday Aug 3)
+- **Sleep**: NOT FIXED — scrolling late, no tahajjud (FIX during prep days Aug 12-16)
+- **Phone in bedroom**: UNKNOWN (fix by Sunday Aug 16)
+- **5-Min Rule**: NOT ESTABLISHED (start Monday Aug 17)
 - **Fajr consistency**: UNKNOWN
 - **Tahajjud target**: Week 1-2 fix sleep+Fajr, Week 3-4 add tahajjud 1-2x, Week 5-12 daily
 
@@ -98,30 +116,33 @@
 - **Status**: Approved with guardrails (separate account, no prayer footage, documentary style)
 - **Device**: Personal phone for 5-6 days → second device
 - **Posting**: From laptop browser, Instagram app STAYS BLOCKED on personal phone
+- **Full guide**: `REELS-GUIDE.md` (consolidated) + `REELS-PLAN.md` (schedule + content calendar)
 
 ## Bullet Journal
-- **Status**: Not yet built — build Sunday Aug 2
+- **Status**: Not yet built — build Sunday Aug 16 (prep day)
 - **Template**: in tracker/habit-tracker.md
 
 ## Weekly Review
-- **Last Review**: Aug 7 (V2 Week 1 Friday — first real scoreboard posted, awaiting Ramish's reflection)
-- **Next Review**: Friday, Aug 14 (end of V2 Week 2)
+- **Last Review**: Aug 7 (V2-first Week 1 Friday)
+- **Next Review**: Friday, Aug 21 (end of V2-restart Week 1 — or first Friday after Day 1)
 
 ## Claude Certification
 - **Status**: not started
 - **Study Mode**: office free time ONLY (do NOT eat into evening prep)
 
 ## Notes
-- V1 ran Jul 27-30: 3 working days, 3 DSA problems, 0 Spring Boot code written
-- V2 Day 1 (Aug 3): 🟠 Partial — Two Sum re-solved w/ reference (🟡), 0 career, 0 Spring Boot. Prayers: Fajr(late), Maghrib(late), Isha. Friend+family dinner took evening block.
-- Habit system is Week 1's REAL goal
+- V2-first ran Aug 3-9: 2 working days, 3 DSA problems (all aided/copilot), 0 Spring Boot code written
+- V2-restart: fresh start Aug 17. Day count resets to 0. 3 DSA carryover logged but don't trigger Day 1.
+- Habit system is Week 1's REAL goal — without fixing reels/sleep, nothing else sticks
 - Reference files:
   - MASTER-BLUEPRINT.md = everything in one doc
-  - DAILY-BLUEPRINT.md = printable daily routine
+  - DAILY-BLUEPRINT.md = printable daily routine (most accurate schedule)
   - ramish-12-week-plan-v2.md = full week-by-week plan
   - tracker/progress.md = 84-day grid
   - tracker/dsa-tracker.md = DSA problem log
   - tracker/habit-tracker.md = bullet journal system
   - tracker/job-application-tracker.md = applications + salary negotiation
-- Deprecated: ramish-12-week-plan.md (V1), ramish-week1-plan.md (V1), week1-routine.md (replaced by DAILY-BLUEPRINT.md)
+  - REELS-GUIDE.md = complete reels how-to (setup, filming, editing, captions, guardrails)
+  - REELS-PLAN.md = reels schedule + content calendar
+- Deprecated (DELETED): ramish-12-week-plan.md (V1), ramish-week1-plan.md (V1), week1-routine.md (V1), system-state.md (replaced by state-machine.md + session-state.md)
 - Cron jobs active: morning check-in, evening close-out, prayer reminders, Friday review, GitHub backup

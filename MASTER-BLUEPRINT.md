@@ -72,58 +72,61 @@
 
 | Time | Block |
 |------|-------|
-| 04:15 | **Tahajjud** (15 min — 2-4 rakats + dua) |
-| 05:15 | **Fajr** + adhkar |
-| 07:00-08:00 | **MMA** (leave 06:45, 15-min commute) |
+| ~04:45 | **Tahajjud** (15 min before Fajr — 2 nafl + istighfar) |
+| ~05:00 | **Fajr** + adhkar |
 | 10:45-18:00 | **Office** (leave 10:30, 15-min commute) |
-| 12:40 | **Dhuhr** (office break 12:30-14:30) |
-| ~17:15 | **Asr** (office musalla / quiet corner) |
-| 19:30 | **Maghrib** (home) |
-| 20:30 | **Isha** |
-| 22:00 | **Sleep** (target — reality 22:30) |
+| ~12:44 | **Dhuhr** (office, 12:30-14:30 break) |
+| ~17:13 | **Asr** (office musalla) |
+| ~19:09 | **Maghrib** (home) |
+| 20:00-21:00 | **MMA** at BRUTE (Mon-Fri primary, pick 1 art per slot) |
+| 21:15-22:30 | **Evening Block** — Spring Boot 60 min → git commit |
+| 22:30 | **Sleep** (shifted for post-MMA) |
 
 ## WEEKDAY (Mon-Thu)
 
 ```
-04:15  ⏰ Tahajjud (15 min)
-04:30  💻 GOLDEN BLOCK: DSA — Revision 20 min + 1 new problem (25 min)
+~04:45  ⏰ Tahajjud (2 nafl + istighfar, 10 min)
+~05:00  📿 Fajr + adhkar
+05:15  💻 GOLDEN BLOCK: DSA — Revision 20 min + 1 new problem (25 min)
        Recall works on low sleep. New hard learning doesn't.
        Rule: laptop, NOT phone. Phone stays outside bedroom.
-05:15  📿 Fajr + adhkar
-05:30  🥊 Pre-workout: bone broth + 2 dates
-05:45  💻 BLOCK 2: Spring Boot theory (45 min) ← pairs with evening coding
-06:30  🎒 Get ready + leave for MMA
-07:00  🥊 MMA
-08:00  🍽️ POST-WORKOUT MEAL (real breakfast — protein + carbs)
-08:30  🚿 Shower → office prep
-08:30-10:30  YOUR TIME (rest / light reading / house task / bonus DSA)
-10:30  🎒 Leave for office
+06:15  💻 BLOCK 2: Spring Boot theory (45 min) ← pairs with evening coding
+07:00  🥊 [DOUBLE DAYS ONLY — Tue/Wed/Fri] MMA morning session
+       Non-double days: continue study or rest
+08:00  🍽️ Post-workout meal (double days) OR continue study
+08:30-10:30  🚿 Shower + YOUR TIME (rest / light reading / house task)
+10:30  🎒 Leave for office (15-min commute)
 10:45  🏢 Desk
 
-12:30  🕌 Dhuhr + lunch (batch-cooked, heated)
-13:00  😴 QAILULAH (25 min, timer set)  ← most days
-       OR 💼 career work (resume/LinkedIn/apps)  ← max 2x/week, never Mon/Fri
+12:44  🕌 Dhuhr + lunch (batch-cooked, heated)
+13:30  😴 QAILULAH (25 min, timer) ← most days
+       OR 💼 career work ← max 2x/week, never Mon/Fri
 13:30  📚 Office free time: LeetCode / theory / Claude cert
 14:30  💼 TCS work
 
-~17:15 🕌 Asr
+~17:13 🕌 Asr
 18:00  🎒 Leave office (varies 18:00-19:00)
 18:15  🏠 HOME
 
 ⚠️ THE 5-MIN RULE — first 5 minutes decide the entire evening:
    Door → wudu → pray → THEN couch/phone/anything
 
-19:30  🕌 Maghrib
-19:45  🍽️ Dinner (heat + eat)
-20:15  🫖 Non-screen reward: haldi doodh prep + 10 min stretch/music
-20:30  🕌 Isha
-20:45  💻 EVENING BLOCK: Spring Boot (70 min) → git commit
-21:55  📋 Reset: clothes, gym bag, 3 targets on paper, journal fill
-22:00  📵 Charger OUT of bedroom. Greyscale ON. Melatonin (if cycling)
-22:05  😴 Sleep (target 22:00, reality 22:30)
+~19:09 🕌 Maghrib
+       [FASTING DAYS Mon/Thu: Iftar — dates + water, then light meal]
+19:30  🍽️ Light pre-MMA snack (non-fasting) OR Iftar meal (fasting)
+19:45  🎒 Leave for BRUTE
+20:00  🥊 MMA at BRUTE (pick 1 art per slot)
+       Mon=Wrestling(Mat1), Tue=Muay Thai(Mat1), Wed=Boxing(Mat1)
+       Thu=MMA(Mat1), Fri=Jiu Jitsu(Mat1)
+21:00  🏠 Home → shower → quick protein (shake or eggs)
+21:15  💻 EVENING BLOCK: Spring Boot (60 min) → git commit
+22:15  📋 Reset: clothes, gym bag, 3 targets on paper, journal fill
+22:30  📵 Charger OUT of bedroom. Greyscale ON. Melatonin (if cycling)
+       😴 Sleep
 ```
 
-**Sleep math:** 22:05→04:15 = 6h10m + qailulah 25m ≈ 6h35m
+**Sleep math:** 22:30→04:45 = 6h15m + qailulah 25m ≈ 6h40m
+**Study total:** ~3.5 hrs (morning DSA + morning theory + office bonus + evening Spring Boot)
 **Circadian fix (Wk 1-2):** consistent wake + bright light + melatonin 0.3-1mg ~2h before sleep. Clear with physician. Phase out once stable.
 **Study total:** ~3-3.5 hrs/day (morning DSA + morning theory + office bonus + evening Spring Boot)
 
@@ -133,28 +136,33 @@
 - 12:30 Jumu'ah (masjid)
 - 20:45 Career block 1hr + **Weekly Review** (30 min)
 
-## SATURDAY (deep work, 5-6 hrs)
+## 📅 SATURDAY (deep work, 5-6 hrs)
 
 ```
-04:15  Tahajjud → Fajr → back to sleep OR light reading
-07:00  MMA
+04:45  Tahajjud → Fajr → back to sleep OR light reading
+07:00  [If double day — otherwise sleep in]
 08:00  Post-workout meal → shower
 09:00  Long qailulah (45-60 min — earned)
 10:00  Big fresh breakfast
 10:30  💻 BLOCK 1: DSA ×3-4 problems (2 hrs)
 12:30  Dhuhr + lunch
 13:30  😴 REST (guilt-free — recovery is training)
-15:00  💻 BLOCK 2: Spring Boot project (2.5 hrs) → git commit
-17:30  Asr → walk / errands / people
-19:30  Maghrib → dinner → Isha
+15:30  💻 BLOCK 2: Spring Boot project (2.5 hrs) → git commit
+~17:13 Asr → walk / errands / people
+~19:09 Maghrib → dinner
+~20:26 Isha
 20:45  📚 Light: system design reading OR AI block (1 hr)
-22:00  Phone away → 22:00 sleep
+22:00  📵 Phone away → 22:30 sleep
 ```
 
 ## SUNDAY (rest + prep)
 
 ```
-Same morning (Tahajjud, Fajr, MMA, meal, nap)
+~04:45  Tahajjud → Fajr
+       → back to sleep (no MMA, no alarm pressure — this is your recovery day)
+08:00  Wake naturally → 🍳 breakfast
+09:00  Qailulah if needed
+
 10:00  🍳 BATCH COOK (2-2.5 hrs):
        2 proteins + 1 carb → portion AT cook time → label by day
        Fridge: 4 days. Freezer: rest.
@@ -268,6 +276,9 @@ One thing to fix: ___
 
 # PART 5: 🎬 THE DAILY REELS PROJECT
 
+> **Full guide**: `REELS-GUIDE.md` (setup, filming, editing, captions, guardrails)
+> **Schedule + content calendar**: `REELS-PLAN.md`
+
 ## Guardrails (non-negotiable)
 
 1. **Separate Instagram account** — no link to personal, no friend DMs
@@ -277,6 +288,15 @@ One thing to fix: ___
 5. **One post/day** — no stories, no reply-spirals, no post-posting scroll
 
 > ⚠️ **Break a guardrail = no reel that day.** The habit system > the documentation.
+
+## Quick Reference (details in REELS-GUIDE.md)
+
+- **Format**: Day-in-the-life, 20-30 sec, 5-8 clips of 2-4 sec each, text overlay, trending audio
+- **Hook**: "Day X of 84. 04:45 AM." — the alarm IS the hook
+- **Filming**: 10-sec rule (phone out → record → phone away). Total phone time: <3 min/day
+- **Editing**: CapCut desktop, 15-20 min max, hard cuts only
+- **Posting**: From laptop browser only, Instagram app STAYS BLOCKED on phone
+- **Phone boundary**: Transfer clips to laptop FIRST, review there, never on phone
 
 ## The 30-Second Daily Format
 
@@ -410,7 +430,7 @@ The 2-year switch is real. Watch me do it in 12 weeks.
 - **🟢 Low Bar** (streak alive): 1 DSA + 1 concept/30-min Spring Boot + 1 career action
 - **🟡 High Bar** (push day): 4 DSA + full Spring Boot session + full career block
 - **Banked Days:** 3 days of high-bar work in one day = bank 2 credit days. Hyperfocus is an asset.
-- **Rest Day:** say "rest day" → zero guilt, arc continues.
+- **Rest Day**: say "rest day" → zero guilt, **streak PRESERVED** (pause, not break), arc continues. Rest is part of the process.
 - **Missed days extend the arc. Never reset. Never guilt.**
 
 ## Unaided Tracking (interview readiness)

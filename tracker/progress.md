@@ -10,11 +10,12 @@
 > **Counts live in `session-state.md` — this file is the GRID only.**
 > If counts disagree, `session-state.md` wins. See `tracker/state-machine.md`.
 
-- **Plan Version:** V2 (starts Aug 3, 2026)
+- **Plan Version:** V2-restart (fresh start, Aug 17, 2026)
 - **Active Days Worked:** 0 / 84 *(see session-state.md for current)*
 - **DSA / Designs / Mocks / Apps:** *(see session-state.md — single source of truth)*
 - **Career Path:** Plan A (Java+Spring→BFSI GCC) primary, B (AI) fallback Wk6, C (delay) safety net
-- **System Phase:** `pre-launch` (Day 1 = first worked day on/after Aug 3)
+- **System Phase:** `pre-launch` (Day 1 = first worked day on/after Aug 17)
+- **Pre-Restart:** V2-first ran Aug 3-9, 2 days worked, 3 DSA carryover. Fresh start Aug 17.
 
 ---
 

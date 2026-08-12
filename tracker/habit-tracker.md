@@ -8,6 +8,7 @@
 ## 🗓️ 84-DAY STREAK TRACKER
 
 > Fill one box per day WORKED. Missed day? Leave blank, arc extends.
+> Rest day? Mark 😴 — streak PRESERVED (pause, not break).
 > Legend: ✅ = low bar hit | 🔥 = high bar hit | 😴 = rest day | ⬜ = missed
 
 ```

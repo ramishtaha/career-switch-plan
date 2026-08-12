@@ -1,20 +1,7 @@
-# 🎬 REELS OPERATING PLAN — Ramish's Schedule
+# 🎬 REELS OPERATING PLAN — Schedule + Content Calendar
 
-> Fits existing daily blueprint. Does NOT eat into Golden Block or Spring Boot time.
-> Full beginner guide: `/root/reels-beginner-guide.md`
-
----
-
-## Guardrails (Non-Negotiable)
-1. **Separate Instagram account** — not your personal one
-2. **No prayer/salah footage ever** — keep deen sacred
-3. **Documentary/journey style** — not performative, not trends for trends' sake
-4. **Instagram app STAYS BLOCKED on personal phone** — post from laptop browser ONLY
-5. **After 5-6 days → move to second device** (per session state decision)
-6. **Reels = TOOL, not reward** — don't let "making content" become the new scroll
-7. **20 min max per phone session** — timer on, phone face down when done
-8. **Golden Block (04:30-05:15) = NO reel work. Ever.**
-9. **Spring Boot block (20:45-22:15) = NO reel work. Ever.**
+> **Full how-to guide**: `REELS-GUIDE.md` (setup, filming, editing, captions, guardrails)
+> **Guardrails**: See REELS-GUIDE.md — all 10 non-negotiable rules live there.
 
 ---
 
@@ -32,17 +19,17 @@
 
 ---
 
-## Week 1 Action Plan (Aug 4-10)
+## Week 1 Action Plan (Aug 17-23)
 
 | Day | Task | Status |
 |-----|------|--------|
-| **Mon Aug 4** | Create separate Instagram account. Set up profile + bio. | ⬜ |
-| **Tue Aug 5** | Download CapCut on LAPTOP. Watch 3 YouTube tutorials. | ⬜ |
-| **Wed Aug 6** | Shoot first test clip — "Why I'm switching to tech" (don't post). | ⬜ |
-| **Thu Aug 7** | Edit test clip. Learn trimming + auto-captions + text overlay. | ⬜ |
-| **Fri Aug 8** | **POST first reel** from laptop browser. | ⬜ |
-| **Sat Aug 9** | Shoot 2-3 B-roll clips at MMA (training, gloves, walk-in). | ⬜ |
-| **Sun Aug 10** | Batch edit + schedule 2 posts for Week 2. | ⬜ |
+| **Mon Aug 17** | Create separate Instagram account. Set up profile + bio. | ⬜ |
+| **Tue Aug 18** | Download CapCut on LAPTOP. Watch 3 YouTube tutorials. | ⬜ |
+| **Wed Aug 19** | Shoot first test clip — "Why I'm switching to tech" (don't post). | ⬜ |
+| **Thu Aug 20** | Edit test clip. Learn trimming + auto-captions + text overlay. | ⬜ |
+| **Fri Aug 21** | **POST first reel** from laptop browser. | ⬜ |
+| **Sat Aug 22** | Shoot 2-3 B-roll clips at MMA (training, gloves, walk-in). | ⬜ |
+| **Sun Aug 23** | Batch edit + schedule 2 posts for Week 2. | ⬜ |
 
 ---
 
@@ -65,19 +52,42 @@ All content = things you're ALREADY doing. No extra work to create content.
 
 ---
 
-## Phone Boundary Protocol
+## Content Phases (aligned with 12-week plan)
+
+### Week 1-2: Foundation
+- Day 1: "I'm switching from TCS to Java engineer in 12 weeks"
+- Day 2-5: One DSA concept per reel (HashMap, Two Pointers, etc.)
+- Weekend: "Week 1 recap — what went right, what went wrong"
+
+### Week 3-4: Spring Boot
+- "What is Spring Boot? (I had no idea either)"
+- Show your IntelliJ screen with first Spring Boot app
+- "Dependency Injection explained in 30 seconds"
+
+### Week 5-6: Project Build
+- Screen record building your project
+- "Here's what my Spring Boot API does"
+- Show Postman hitting your endpoint
+
+### Week 7+: Interview Prep
+- "Mock interview question I failed today"
+- System design whiteboard
+- "How I'm preparing for BFSI interviews"
+
+---
+
+## Phone Boundary Protocol (quick ref — full version in REELS-GUIDE.md)
 
 ```
 SHOOTING:
   □ Set 30-min timer on phone
   □ Shoot clips
-  □ Timer goes off → STOP
+  □ Timer off → STOP
   □ Phone face down, out of reach
   □ Transfer clips to laptop immediately
 
 EDITING:
   □ CapCut DESKTOP only (not phone)
-  □ This keeps phone out of your hands
   □ 45 min max, timer on
 
 POSTING:
@@ -93,12 +103,4 @@ ANALYTICS:
 
 ---
 
-## Red Flags (Stop Immediately If...)
-- You're scrolling Instagram "for inspiration" > 10 min → you're scrolling, not creating
-- You're checking views more than 2x/day → phone goes in another room
-- Reels eating into study time → pause reels for a week, no guilt
-- You feel the urge to "just check" → that's the old pattern wearing a new mask
-
----
-
-*This plan is designed to be the LEAST addictive version of content creation. If it starts feeling like the old scroll, step back.*
+*Reels = proof of work, never a replacement for the work. Bar first, reel after.*

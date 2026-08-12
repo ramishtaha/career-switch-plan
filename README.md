@@ -1,5 +1,5 @@
 # 🚀 Ramish's Career Switch — Master Repository
-### TCS 8.29 LPA → BFSI GCC 14-18+ LPA | Launch: Monday, August 3, 2026
+### TCS 8.29 LPA → BFSI GCC 14-18+ LPA | RESTART: Monday, August 17, 2026
 
 > **84 days. One mission. Sunnah path.**
 > This duniya is temporary. Akhirah is permanent. Both get your best.
@@ -8,17 +8,20 @@
 
 ## 📊 Progress Dashboard
 
+> All counts live in `session-state.md` — the SINGLE SOURCE OF TRUTH.
+> If any file disagrees, `session-state.md` wins. See `tracker/state-machine.md`.
+
 | Metric | Status |
 |--------|--------|
-| **Start Date** | Monday, August 3, 2026 |
-| **Plan Version** | V2 (optimized Aug 1, 2026) |
-| **Current Day** | 0 / 84 (pre-launch) |
-| **DSA Problems Solved** | 3 (V1 carryover) |
+| **Start Date** | Monday, August 17, 2026 (V2 RESTART) |
+| **Plan Version** | V2-restart (fresh start, Aug 12, 2026) |
+| **Current Day** | 0 / 84 (pre-launch — prep days Aug 12-16) |
+| **DSA Problems Solved** | 3 (pre-restart carryover — in re-solve queue) |
 | **DSA Unaided** | 0/3 (0% — re-solve before Oct) |
 | **System Designs Practiced** | 0 / 8 |
 | **Mock Interviews Done** | 0 / 12 |
 | **Applications Sent** | 0 |
-| **Current Streak** | 0 (V2 reset) |
+| **Current Streak** | 0 (fresh start) |
 | **Plan A/B/C** | A = Java+Spring GCC (primary) |
 
 ---
@@ -51,29 +54,30 @@
 
 ---
 
-## 📁 Repo Structure
+## 📁 Repo Structure (Clean — Aug 12, 2026)
 
 ```
 career-switch-plan/
-├── MASTER-BLUEPRINT.md          ← START HERE — everything in one document
-├── DAILY-BLUEPRINT.md           ← Daily routine (print this, put on wall)
-├── README.md                    ← You are here (dashboard)
-├── ramish-12-week-plan-v2.md    ← Full 12-week plan (week-by-week)
-├── session-state.md             ← Hermes session state (auto-updated)
-├── week1-routine.md             ← DEPRECATED (replaced by DAILY-BLUEPRINT.md)
-├── ramish-12-week-plan.md      ← DEPRECATED (V1, replaced by V2)
-├── ramish-week1-plan.md        ← DEPRECATED (V1 week 1)
+├── README.md                     ← You are here (dashboard)
+├── MASTER-BLUEPRINT.md           ← Everything in one document
+├── DAILY-BLUEPRINT.md            ← Daily routine (print this, put on wall)
+├── ramish-12-week-plan-v2.md     ← Full 12-week plan (week-by-week)
+├── session-state.md              ← SINGLE SOURCE OF TRUTH (auto-updated by Hermes)
+├── DIET-PLAN.md                   ← Competition cut diet (83→70kg)
+├── REELS-GUIDE.md                ← Complete reels how-to (setup, filming, editing, guardrails)
+├── REELS-PLAN.md                 ← Reels schedule + content calendar
 │
 ├── tracker/
-│   ├── progress.md              ← 84-day grid (V2 aligned, no duplicate counts)
-│   ├── dsa-tracker.md           ← DSA problem log (per-problem, not aggregate)
-│   ├── habit-tracker.md         ← Bullet journal system (prayers, sleep, reels, habits)
-│   ├── state-machine.md         ← 🧠 System rules: edge cases, bar calc, scenarios
+│   ├── state-machine.md          ← System rules: edge cases, bar calc, scenarios
+│   ├── progress.md               ← 84-day grid (V2 aligned, no duplicate counts)
+│   ├── dsa-tracker.md            ← DSA problem log (per-problem, not aggregate)
+│   ├── habit-tracker.md          ← Bullet journal system (prayers, sleep, reels, habits)
 │   ├── weekly-review-template.md ← Friday review questions
 │   └── job-application-tracker.md ← Applications, referrals, interviews
 │
 ├── career/
-│   └── resume-v1-draft.md       ← Resume draft
+│   ├── resume-v1-draft.md         ← Resume draft v1
+│   └── resume-v2-updated.md       ← Resume v2 (from actual PDF, with gaps marked)
 │
 └── study-materials/
     ├── core-java-interview-bank.md
@@ -82,19 +86,22 @@ career-switch-plan/
     └── sql-interview-prep.md
 ```
 
+**DELETED (Aug 12, 2026):** ramish-12-week-plan.md (V1), ramish-week1-plan.md (V1), week1-routine.md (V1), system-state.md (ghost SOT — merged into state-machine), REELS-DAY-IN-LIFE.md, REELS-SHOOT-GUIDE.md, reels-guide.md (all merged into REELS-GUIDE.md)
+
 ---
 
 ## ⏰ Daily Structure (V2 — one primary focus, not 6)
 
 | Block | When | Focus |
 |-------|------|-------|
-| **Golden Block** | 04:30-05:15 | DSA — revision 20 min + 1 new problem (recall first) |
-| **Block 2** | 05:45-06:30 | Spring Boot theory (45 min, pairs with evening coding) |
+| **Golden Block** | ~05:15-06:15 | DSA — revision 20 min + 1 new problem (recall first) |
+| **Block 2** | 06:15-07:00 | Spring Boot theory (45 min, pairs with evening coding) |
+| **MMA** | 20:00-21:00 | BRUTE Manpada (Mon-Fri primary) |
 | **Office free time** | 13:30-14:30 | LeetCode / theory / Claude cert (bonus, counts toward bar) |
-| **Evening Block** | 20:45-21:55 | Spring Boot (70 min) → git commit |
-| **Sleep** | 22:00 target | Phone OUT of bedroom, greyscale ON, melatonin if cycling |
+| **Evening Block** | 21:15-22:15 | Spring Boot (60 min) → git commit |
+| **Sleep** | 22:30 target | Phone OUT of bedroom, greyscale ON, melatonin if cycling |
 
-**Daily total: ~3-3.5 hrs (weekday) / 5-6 hrs (Saturday)**
+**Daily total: ~3.5 hrs (weekday) / 5-6 hrs (Saturday)**
 **Late Wake Protocol:** never let a late wake kill the evening block. Fajr always first.
 
 ---
@@ -102,7 +109,7 @@ career-switch-plan/
 ## 📿 The 3 Make-or-Break Rules
 
 1. **The 5-Min Rule** — home → wudu → prayer → *then* anything. First 5 min decide the evening.
-2. **Charger out of bedroom** — tahajjud dies at 2 AM scrolling, not at the 4:15 alarm.
+2. **Charger out of bedroom** — tahajjud dies at 2 AM scrolling, not at the 04:45 alarm.
 3. **Qailulah timer = 25 min** — longer = groggy = evening block dies.
 
 ---
@@ -111,7 +118,7 @@ career-switch-plan/
 
 1. What clicked? What didn't?
 2. DSA count? Help-flag trend (🟢/🟡/🟠)?
-3. Sleep by 22:00 — how many nights?
+3. Sleep by 22:30 — how many nights?
 4. Fajr — how many days? Tahajjud?
 5. Reels stole any evenings? How many?
 6. ONE adjustment for next week.
@@ -120,32 +127,32 @@ career-switch-plan/
 
 ---
 
-## 🎬 Daily Reels Project (from Day 1)
+## 🎬 Daily Reels Project
 
-- Separate Instagram account, documentary style, 30 sec/day
+- Separate Instagram account, documentary style, 20-30 sec/day
 - No prayer footage (riyaa protection)
 - Guardrails: app blocked on personal phone, post from laptop, no metric-checking
-- Full guide in MASTER-BLUEPRINT.md
+- Full guide: `REELS-GUIDE.md` + schedule: `REELS-PLAN.md`
 
 ---
 
-## 📌 Pre-Launch Checklist (Sunday Aug 2)
+## 📌 Prep Days Checklist (Aug 12-16 — NOT counted toward 84)
 
+- [ ] Clean house
 - [ ] Bullet journal bought + 3 pages drawn
 - [ ] Instagram app blocked (One Sec / StayFree)
 - [ ] Greyscale ON
 - [ ] Charger moved out of bedroom
 - [ ] New Instagram account created (reels)
-- [ ] CapCut installed (editing only)
-- [ ] Second device ordered
-- [ ] Batch cook done for Mon-Thu
+- [ ] CapCut installed on laptop (editing only)
+- [ ] Batch cook done Sunday Aug 16 (for Mon-Thu)
 - [ ] Gym bag packed, Monday clothes laid out
 - [ ] 3 targets for Monday written on paper
-- [ ] Sleep by 22:00 Sunday night
+- [ ] Sleep by 22:30 Sunday night
 
 ---
 
-> **Monday 04:15. Day 1 of 84. Bismillah.** 🟢
+> **Monday 04:45. Day 1 of 84. Bismillah.** 🟢
 >
 > *The gap between you and a ₹16-50 LPA GCC job is not intelligence. It's 84 days of showing up.*
 >
