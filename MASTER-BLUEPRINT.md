@@ -69,66 +69,66 @@
 
 # PART 2: THE DAILY BLUEPRINT
 
-## ⏰ Non-Negotiables (hard blocks)
+## ⏰ Non-Negotiables (hard blocks — September Camp)
+
+> **Full daily schedule**: `DAILY-BLUEPRINT.md` (September Camp edition)
 
 | Time | Block |
 |------|-------|
-| ~04:45 | **Tahajjud** (15 min before Fajr — 2 nafl + istighfar) |
+| ~04:45 | **Tahajjud** (2 nafl + istighfar, 10 min) |
 | ~05:00 | **Fajr** + adhkar |
-| 10:45-18:00 | **Office** (leave 10:30, 15-min commute) |
-| ~12:44 | **Dhuhr** (office, 12:30-14:30 break) |
+| 10:40-18:00 | **Office** (leave 10:15, 10-min commute) |
+| ~12:44 | **Dhuhr** (office musalla) |
 | ~17:13 | **Asr** (office musalla) |
 | ~19:09 | **Maghrib** (home) |
-| 20:00-21:00 | **MMA** at BRUTE (Mon-Fri primary, pick 1 art per slot) |
-| 21:15-22:30 | **Evening Block** — Spring Boot 60 min → git commit |
-| 22:30 | **Sleep** (shifted for post-MMA) |
+| ~20:26 | **Isha** (home) |
+| 22:00 | **Sleep** (hard stop — no screens after 21:35) |
 
-## WEEKDAY (Mon-Thu)
+## WEEKDAY (Mon-Thu) — September Muay Thai Camp
 
 ```
-~04:45  ⏰ Tahajjud (2 nafl + istighfar, 10 min)
-~05:00  📿 Fajr + adhkar
-05:15  💻 GOLDEN BLOCK: DSA — Revision 20 min + 1 new problem (25 min)
-       Recall works on low sleep. New hard learning doesn't.
-       Rule: laptop, NOT phone. Phone stays outside bedroom.
-06:15  💻 BLOCK 2: Spring Boot theory (45 min) ← pairs with evening coding
-07:00  🥊 [DOUBLE DAYS ONLY — Tue/Wed/Fri] MMA morning session
-       Non-double days: continue study or rest
-08:00  🍽️ Post-workout meal (double days) OR continue study
-08:30-10:30  🚿 Shower + YOUR TIME (rest / light reading / house task)
-10:30  🎒 Leave for office (15-min commute)
-10:45  🏢 Desk
+04:45  ⏰ Tahajjud (2 nafl + istighfar, 10 min)
+05:00  📿 Fajr + adhkar
+05:15  💻 GOLDEN BLOCK: DSA — Revision 20 min + 1 new (25 min)
+       Rule: laptop, NOT phone. No AI. Recall first.
+06:00  💻 BLOCK 2: Spring Boot theory (20 min)
+       Skip on fasting days (one block only)
+06:20  🥊 Fuel + dress + pack (25 min buffer)
+06:45  🎒 Leave for BRUTE Manpada
+07:00  🥊 MUAY THAI CAMP (30 min run + 1 hr training)
+08:50  🏠 Home (realistic — was 08:30 in old schedule)
+08:50  🥤 Shake IMMEDIATELY (500ml Ultra 7% + 2 whey)
+08:55  🚿 Shower + breakfast (30 min)
+09:25  🕌 Duha (2 rakats, ~5 min)
+09:30  ☀️ BALCONY: sun + book + morning journal (25 min)
+10:15  🎒 Leave for office (10-min commute)
+10:40  🏢 Desk
 
-12:44  🕌 Dhuhr + lunch (batch-cooked, heated)
-13:30  😴 QAILULAH (25 min, timer) ← most days
-       OR 💼 career work ← max 2x/week, never Mon/Fri
-13:30  📚 Office free time: LeetCode / theory / Claude cert
+12:44  🕌 Dhuhr (no lunch most days)
+13:30  😴 Qailulah (25 min, timer) OR career work (max 2x/wk)
+14:00  📚 Office free time: LeetCode / Claude cert
 14:30  💼 TCS work
 
-~17:13 🕌 Asr
+17:13  🕌 Asr
 18:00  🎒 Leave office (varies 18:00-19:00)
-18:15  🏠 HOME
+18:15  🏠 Home → 5-MIN RULE (wudu → rest → then anything)
 
-⚠️ THE 5-MIN RULE — first 5 minutes decide the entire evening:
-   Door → wudu → pray → THEN couch/phone/anything
-
-~19:09 🕌 Maghrib
-       [FASTING DAYS Mon/Thu: Iftar — dates + water, then light meal]
-19:30  🍽️ Light pre-MMA snack (non-fasting) OR Iftar meal (fasting)
-19:45  🎒 Leave for BRUTE
-20:00  🥊 MMA at BRUTE (pick 1 art per slot)
-       Mon=Wrestling(Mat1), Tue=Muay Thai(Mat1), Wed=Boxing(Mat1)
-       Thu=MMA(Mat1), Fri=Jiu Jitsu(Mat1)
-21:00  🏠 Home → shower → quick protein (shake or eggs)
-21:15  💻 EVENING BLOCK: Spring Boot (60 min) → git commit
-22:15  📋 Reset: clothes, gym bag, 3 targets on paper, journal fill
-22:30  📵 Charger OUT of bedroom. Greyscale ON. Melatonin (if cycling)
-       😴 Sleep
+19:09  🕌 Maghrib
+19:15  🍽️ Dinner (low carb, 20 min)
+19:35  💻 EVENING BLOCK 1: Spring Boot (50 min) → git commit
+20:26  🕌 Isha + 5-min walk/stretch (cognitive reset)
+20:35  💼 EVENING BLOCK 2: Career work (40 min)
+21:15  📋 PHYSICAL RESET (10 min) — clothes, gym bag, 3 targets, film Shot 13
+21:25  📤 SEND CLIPS TO HERMES (3 min) — forward via Discord, Hermes builds reel
+21:28  📝 JOURNAL (7 min — analog, pen + paper)
+       3 wins, 1 bottleneck, energy 1-5, tomorrow's top 3
+21:35  🌙 WIND-DOWN: haldi doodh + stretch + dhikr + fiction book
+       NO PHONE. NO LAPTOP.
+22:00  📵 SLEEP. Charger OUT. Greyscale ON.
 ```
 
-**Sleep math:** 22:30→04:45 = 6h15m + qailulah 25m ≈ 6h40m
-**Study total:** ~3.5 hrs (morning DSA + morning theory + office bonus + evening Spring Boot)
-**Circadian fix (Wk 1-2):** consistent wake + bright light + melatonin 0.3-1mg ~2h before sleep. Clear with physician. Phase out once stable.
+**Sleep math:** 22:00→04:45 = 6h45m + qailulah 25m ≈ 7h10m
+**Study total:** ~2h50m (morning DSA 45m + SB 20m + evening SB 50m + career 40m) + office bonus
 
 ## FRIDAY (light day)
 

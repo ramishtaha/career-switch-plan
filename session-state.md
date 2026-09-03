@@ -7,11 +7,12 @@
 ---
 
 ## System Phase
-- **System Phase**: `pre-launch` (restart Monday Aug 17, 2026)
+- **System Phase**: `active` — September Muay Thai Camp (Sept 1-30, 2026)
 - **Start Date**: Monday, August 17, 2026 (V2 RESTART — fresh start)
+- **Current Date**: September 3, 2026 (~Day 18 of 84)
+- **Active Camp**: Muay Thai intensive at BRUTE Manpada (morning 7:00-8:30 AM, Mon-Fri)
+- **Saturday**: Sparring at Mulund branch (12:00)
 - **Previous Attempt**: Aug 3 start, 2 days worked, 4+ missed — arc complete, fresh start
-- **Prep Days**: Aug 12-16 (cleaning, sleep fix, meal prep, structure build — NOT counted toward 84)
-- **Day 1 Trigger**: First worked day ON OR AFTER Aug 17
 
 ---
 
@@ -31,11 +32,10 @@
 ## 12-Week Plan State (V2 RESTART — COMPLETION-LOCKED)
 - **Plan Version**: V2-restart (fresh start, Aug 17, 2026)
 - **Start Date**: Monday, August 17, 2026
-- **Active Day Count**: 0 of 84 (pre-launch)
-- **Current Week**: 0 (pre-launch)
-- **DSA Problems Solved**: 3 (PRE-RESTART CARRYOVER — logged in dsa-tracker, don't increment Day count)
-- **DSA Carryover Detail**: Contains Duplicate (🟠), Two Sum (🟡 re-solve), Valid Anagram (🟠) — from V1/V2-first
-- **DSA Unaided**: 0/3 (0% — all still aided/copilot level — in re-solve queue)
+- **Active Day Count**: ~18 of 84 (as of Sept 3, 2026)
+- **Current Week**: 3 (Sept 1-7 = Week 3 of plan, Trees + First System Design)
+- **DSA Problems Solved**: 3 (pre-restart carryover) + ongoing (5/7 unaided = 71%)
+- **DSA Unaided**: 5/7 (71% — improving fast as of Sept 1)
 - **Current Streak**: 0 (fresh start)
 - **Missed Days**: 0 (cleared — fresh start)
 - **System Designs Practiced**: 0 / 8
@@ -70,30 +70,28 @@
 - **Rest Day**: zero guilt, arc continues, **streak PRESERVED** (pause, not break — see state-machine.md)
 - **Rules**: See `tracker/state-machine.md` for all edge cases, bar calculation, scenarios
 
-## Daily Blueprint (Prayer-Anchored — Auto-Shifts with Seasons)
-> **SOURCE OF TRUTH**: Alexa app + Hermes cron both read this section.
-> Prayer times calculated locally (adhanpy, Karachi method, Hanafi madhab) for Thane (19.2183°N, 72.9747°E).
-- **Tahajjud**: 15 min before Fajr — two nafl + istighfar (practical, consistent > ambitious)
-- **Golden Block**: Fajr → Sunrise — DSA revision 20 min + 1 new problem (no AI, recall first)
-- **Spring Boot Theory**: Sunrise + 15min → 45 min block
-- **MMA Training (BRUTE, Thane)**:
-  - **Primary**: 8:00–9:00 PM daily (Mon–Fri). Pick 1 martial art per slot (Mat 1 or Mat 2, not both).
-  - **Doubles**: 2–3x/week — add 7:00–8:00 AM session on Tue/Wed/Fri (non-fasting days only).
-  - **Saturday**: 12:00–13:00 SPARRING at Mulund branch (30 min commute each way). No Manpada morning classes.
+## Daily Blueprint (September Muay Thai Camp — Prayer-Anchored)
+> **SOURCE OF TRUTH**: DAILY-BLUEPRINT.md (September Camp edition) + Hermes Memory.
+> Prayer times calculated locally (adhanpy, Karachi method, Hanafi madhab) for Thane.
+- **Tahajjud**: 04:45 — two nafl + istighfar
+- **Golden Block**: 05:15 — DSA revision 20 min + 1 new (no AI, recall first)
+- **Spring Boot Theory**: 06:00-06:20 (20 min)
+- **Muay Thai Camp (BRUTE Manpada)**:
+  - **Primary**: 07:00–08:30 AM daily (Mon–Fri). 30 min run + 1 hr training.
+  - **Saturday**: 12:00–13:00 SPARRING at Mulund branch (30 min commute).
   - **Sunday**: Rest. Recovery is training.
-  - **Fasting days (Mon/Thu)**: Default 8 PM after Iftar. 7 AM fasted session optional if feeling strong. Listen to body.
-  - **8 PM rotation (Manpada branch, 10 min commute)**: Mon=Wrestling(Mat1), Tue=Muay Thai(Mat1), Wed=Boxing(Mat1), Thu=MMA(Mat1), Fri=Jiu Jitsu(Mat1)
-  - **7 AM doubles (Manpada, non-fasting)**: Tue=Muay Thai, Wed=Wrestling(Mat1), Fri=Strength(Mat2)
-  - **Weekly volume**: 9 sessions (5 evening + 3 morning + 1 Saturday sparring)
-  - **Never 9:15 PM slot** — kills sleep + Tahajjud
-  - Schedule ref: alexa-hermes/BRUTE-MMA-SCHEDULE.md
-- **Office**: 10:45–18:00 (use 13:30–14:30 for LeetCode/Claude cert)
-- **Evening Block**: 21:15–22:30 (Spring Boot 60 min → git commit) — AFTER MMA
-- **Sleep**: 22:30 target (shifted 30min for post-MMA) — charger OUT of bedroom, greyscale ON, melatonin if cycling
-- **Circadian fix (Wk 1-2)**: consistent wake + bright light on waking + melatonin 0.3-1mg ~2h before sleep
-- **5-Min Rule**: home → wudu → pray → THEN anything (keystone habit)
-- **Late Wake Protocol**: never let late wake kill evening block. Fajr always first. Late wake = low bar day.
-- **No more 20:15 phone scroll** — replaced with non-screen reward (haldi doodh + stretch/music)
+  - **Fasting days (Mon/Thu)**: Camp fasted. Water before Fajr. Dizzy → break it.
+  - **Never evening MMA during camp** — evenings are for Spring Boot + career.
+- **Office**: 10:40–18:00 (use 14:00–14:30 for LeetCode/Claude cert)
+- **Evening Block 1**: 19:35–20:25 (Spring Boot 50 min → git commit)
+- **Evening Block 2**: 20:35–21:15 (Career work 40 min)
+- **Reset + Clips**: 21:15–21:28 (Physical reset + send clips to Hermes for reel)
+- **Journal**: 21:28–21:35 (Analog: 3 wins, 1 bottleneck, energy, top 3)
+- **Wind-down**: 21:35–22:00 (Haldi doodh, stretch, dhikr, book. NO SCREENS.)
+- **Sleep**: 22:00 (charger OUT of bedroom, greyscale ON)
+- **5-Min Rule**: home → wudu → rest → THEN anything
+- **Late Wake Protocol**: never let late wake kill evening block. Fajr always first.
+- **Reels**: Automated. Shoot 13 clips → send to Hermes via Discord → Hermes builds reel. NO manual editing.
 
 ## Fasting (Sunnah — Mon & Thu)
 - **Days**: Monday and Thursday weekly
@@ -113,10 +111,13 @@
 - **Tahajjud target**: Week 1-2 fix sleep+Fajr, Week 3-4 add tahajjud 1-2x, Week 5-12 daily
 
 ## Reels Project
-- **Status**: Approved with guardrails (separate account, no prayer footage, documentary style)
-- **Device**: Personal phone for 5-6 days → second device
-- **Posting**: From laptop browser, Instagram app STAYS BLOCKED on personal phone
-- **Full guide**: `REELS-GUIDE.md` (consolidated) + `REELS-PLAN.md` (schedule + content calendar)
+- **Status**: Active — AUTOMATED through Hermes (no manual editing)
+- **Workflow**: Shoot 13 clips → send to Hermes via Discord → Hermes builds reel (vision analysis, stitching, text, audio, export)
+- **Shot List**: 13-shot morning camp list (see Hermes skill `gemini-omni-reel`)
+- **Content Rule**: NO prayer counts, NO numeric stats on screen. Caption-only stats (Instagram).
+- **Device**: Personal phone for filming. Instagram app STAYS BLOCKED. Post from laptop browser.
+- **If clips not sent by 21:30**: No reel that day. Carry to tomorrow.
+- **Previous repo files (DELETED)**: REELS-GUIDE.md and REELS-PLAN.md migrated to Hermes skill
 
 ## Bullet Journal
 - **Status**: Not yet built — build Sunday Aug 16 (prep day)
