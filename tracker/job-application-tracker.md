@@ -28,18 +28,18 @@
 
 | Week | Dates | Target Apps | Referrals | Recruiters | Notes |
 |------|-------|------------|-----------|------------|-------|
-| W1 (Aug 17-23) | 0 | 0 | 0 | 0 | Habit system + Spring Boot setup |
-| W2 (Aug 24-30) | 0 | 0 | 0 | 0 | Resume v1 draft phase |
-| W3 (Aug 31-Sep 6) | 0 | 0 | 5 | 20 | LinkedIn optimization + recruiter outreach starts |
-| W4 (Sep 7-13) | 5 | 0 | 5 | 10 | Start applying via referrals |
-| W5 (Sep 14-20) | 5 | 0 | 5 | 5 | |
-| W6 (Sep 21-27) | 5 | 0 | 5 | 5 | |
-| W7 (Sep 28-Oct 4) | 5 | 0 | 5 | 5 | |
-| W8 (Oct 5-11) | 5 | 0 | 5 | 5 | |
-| W9 (Oct 12-18) | 5 | 0 | 5 | 5 | **ACTIVE INTERVIEWING STARTS** |
-| W10 (Oct 19-25) | — | 5 interviews | — | — | Active interviews |
-| W11 (Oct 26-Nov 1) | — | 5 interviews | — | — | Active interviews |
-| W12 (Nov 2-8) | — | 5 interviews | — | — | Active interviews + negotiation |
+| W1 (Sep 1-7) | 0 | 0 | 0 | 0 | Habit system + Spring Boot setup |
+| W2 (Sep 8-14) | 0 | 0 | 0 | 0 | Resume v1 draft phase |
+| W3 (Sep 15-21) | 0 | 0 | 5 | 20 | LinkedIn optimization + recruiter outreach starts |
+| W4 (Sep 22-28) | 5 | 0 | 5 | 10 | Start applying via referrals |
+| W5 (Sep 29-Oct 5) | 5 | 0 | 5 | 5 | |
+| W6 (Oct 6-12) | 5 | 0 | 5 | 5 | |
+| W7 (Oct 13-19) | 5 | 0 | 5 | 5 | |
+| W8 (Oct 20-26) | 5 | 0 | 5 | 5 | |
+| W9 (Oct 27-Nov 2) | 5 | 0 | 5 | 5 | **ACTIVE INTERVIEWING STARTS** |
+| W10 (Nov 3-9) | — | 5 interviews | — | — | Active interviews |
+| W11 (Nov 10-16) | — | 5 interviews | — | — | Active interviews |
+| W12 (Nov 17-23) | — | 5 interviews | — | — | Active interviews + negotiation |
 | **Total** | **35+** | **25+ referrals** | **50+ recruiters** | | |
 
 ---

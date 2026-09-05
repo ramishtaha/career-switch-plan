@@ -1,0 +1,86 @@
+Here is the ruthless, unfiltered audit of your V3-restart plan. 
+
+You have built a fantasy schedule for a machine, not a reality-based plan for a 28-year-old with ADHD, a 3-hour sleep deficit, and a severe phone addiction. You have failed three times already because your plans look great on paper but collapse upon contact with your actual biology and habits. 
+
+Here is the teardown and the fixes.
+
+---
+
+### 1. SCHEDULE REALISM
+**The Flaws:**
+*   **The Sleep/MMA Math is Delusional:** You slept 3h21m on Day 1. Yet your schedule expects you to wake at 04:45, do DSA, survive a 90-minute MMA camp, work a full TCS day, and code until 21:15. You will physically crash by Wednesday.
+*   **Impossible Transitions:** MMA ends at 08:30. You schedule being home at 08:50, and showering/eating by 08:55. You cannot unwrap hands, commute, shower, cook eggs, and drink a shake in 25 minutes. 
+*   **The 18:15 Danger Zone:** You get home at 18:15 and Maghrib is at 19:09. You have a 54-minute gap labeled "wudu → rest". For your ADHD/phone-addicted brain, 54 minutes of unstructured "rest" on a couch after work is the exact trigger for your relapse chain. You will open your phone and the evening will die.
+*   **Fragmented Focus:** You have a 20-minute Spring Boot block in the morning and a 50-minute block at night. Context switching is kryptonite for ADHD. 
+
+**The Fixes:**
+*   **Kill the 04:45 alarm.** Wake up at 05:15 for Fajr. Period. 
+*   **Fix the morning math.** MMA ends at 08:30. You are not at your desk until 09:30. Give yourself 60 minutes for the commute, shower, and food.
+*   **Plug the 18:15 gap.** No "resting" before Maghrib. You walk in the door, drop your bag, make wudu, and immediately do *active* recovery: meal prep, stretching, or reading a physical book. The couch is lava until Maghrib is prayed.
+*   **Consolidate blocks.** Morning is 100% DSA. Evening is 100% Spring Boot/Career. Stop splitting topics.
+
+### 2. CURRICULUM FEASIBILITY
+**The Flaws:**
+*   **Volume Delusion:** You are on Day 3 with 0 DSA solved. To hit ~100 problems in 81 days, you need 1.2 problems *every single day* without fail. You don't have the consistency for that yet.
+*   **Tech Stack Bloat:** You are struggling with basic Java syntax (`HashMap`, `HashSet`), yet your Week 4-8 plan includes Kafka, Microservices, Kubernetes, pgvector, and RAG. This is a Staff Engineer's roadmap. You are trying to run before you can crawl. It will trigger your ADHD paralysis.
+*   **Week 1 Overload:** You are trying to solve 8 DSA problems, build a Spring Boot CRUD app, set up GitHub, and fix your sleep/phone habits in 7 days. 
+
+**The Fixes:**
+*   **Cut the DSA target to 50.** NeetCode 150 core patterns only. Quality and unaided recall matter more than volume. 50 problems understood deeply > 100 problems copied from Copilot.
+*   **Strip the Project.** Kill Kafka. Kill Kubernetes. Kill Microservices. Build ONE monolithic Spring Boot application with PostgreSQL and a basic LangChain4j RAG integration. A solid, well-tested monolith with banking domain logic will get you a 16 LPA job. A broken microservices mess will get you rejected.
+
+### 3. CAREER STRATEGY
+**The Flaws:**
+*   **Premature Application:** Applying in Week 3 when you have 0 DSA solved and a half-baked CRUD app is burning bridges. If JPMorgan calls you in Week 4, you will fail the Online Assessment (OA) and be locked out for 6 months.
+*   **The 60-Day Lie:** Telling GCCs you have a 60-day notice period when you have 90 days (and are critical BaNCS staff) is a massive risk. If they offer based on 60 days and TCS holds you to 90, the offer gets revoked. 
+*   **Domain Hubris:** Your BaNCS domain is a great moat for the *System Design* and *Behavioral* rounds. But it means absolutely nothing if you can't pass the 60-minute HackerRank OA. 
+
+**The Fixes:**
+*   **Delay applications to Week 6.** Do not apply until you can solve a LeetCode Medium unaided in 25 minutes.
+*   **Tell the truth.** State your 90-day notice period up front. Target companies that plan quarters ahead (JPMC, Wells Fargo, HSBC). They will wait for a good candidate.
+
+### 4. ADHD FIT
+**The Flaws:**
+*   **The Reels Project is Sabotage:** You have a severe phone addiction. Your relapse chain starts with the phone. Yet, your plan requires you to pull out your phone *13 times a day* to film clips for Instagram. This is handing an alcoholic a shot glass to hold water. It is absolute insanity. 
+*   **Admin Overhead:** You have 5 different markdown files tracking your progress. An ADHD brain will abandon this administrative nightmare by Day 7.
+*   **The "Banked Days" Loophole:** Allowing yourself to bank days for hyperfocus is a trap. You will hyperfocus once, bank 3 days, and use them to justify a 3-day freeze. 
+
+**The Fixes:**
+*   **KILL THE REELS PROJECT.** Delete the Instagram account. No filming. No clips. No "documenting the journey." Your phone stays in your bag. 
+*   **Kill the Banked Days.** Every day is a new day. You either hit the bar today, or you didn't. 
+*   **Lower the Low Bar.** The Low Bar is currently 1 DSA + 30m Spring Boot + 1 Career Action. That's too high for a bad ADHD day. New Low Bar: 1 Pomodoro (25 mins) of *anything* productive. 
+
+### 5. BEHAVIORAL RISK
+**The Flaws:**
+*   **Willpower Reliance:** You are relying on willpower to keep your phone out of the bedroom and to not scroll at 18:15. Willpower depletes. By 8 PM, after MMA and TCS, you have zero willpower left.
+*   **Zero Guilt = Zero Accountability:** You repeat "zero guilt" so often it has become a license to fail. Missing a day shouldn't cause a shame spiral, but it *should* cause friction.
+
+**The Fixes:**
+*   **Physical Lockbox.** Buy a physical timed lockbox for your phone. When you walk in at 18:15, the phone goes in the box for 3 hours. No willpower required.
+*   **The 48-Hour Rule.** You can miss one day with zero guilt. If you miss two days in a row, it is an emergency. 
+
+### 6. ISLAMIC/DEEN INTEGRATION
+**The Flaws:**
+*   **Spiritual Bypassing:** You are sleeping 3.5 hours, cutting weight, doing MMA, and working a full-time job. Expecting yourself to wake for Tahajjud, pray Duha, and fast Mon/Thu is setting yourself up for failure. When you fail these nafl (voluntary) acts, you feel religious guilt, which triggers your relapse freeze.
+
+**The Fixes:**
+*   **Fard Only for 4 Weeks.** Drop Tahajjud. Drop Duha. Drop Mon/Thu fasting until October 1st. Your only religious obligations are the 5 daily prayers and staying away from haram (chastity/reels). 
+*   **Sleep is Sunnah.** Your body has rights over you. Sleeping 7 hours so you can function at your job and provide for yourself is an act of worship. 
+
+### 7. TRACKING SYSTEM
+**The Flaws:**
+*   **Fragile Architecture:** Having Hermes update 5 different markdown files simultaneously is begging for race conditions, drift, and AI hallucination errors. 
+*   **Over-engineered:** You built a relational database in Markdown. You don't need this.
+
+**The Fixes:**
+*   **Hermes handles it silently.** You never look at `session-state.md` or `dsa-tracker.md`. You only interact with your physical paper Bullet Journal. Hermes logs your progress in the background. If the files drift, it's Hermes' problem, not yours.
+
+---
+
+### 🚨 TOP 5 PRIORITIZED ACTION ITEMS 🚨
+
+1.  **ABORT THE REELS PROJECT TODAY.** Delete the Instagram account and the filming schedule. Your phone is your primary relapse vector; you cannot use it as a tool right now.
+2.  **Buy a physical timed lockbox for your phone.** Put it in the box at 18:15. Do not rely on "greyscale" or app blockers.
+3.  **Slash the Curriculum.** Cut the DSA target to 50. Delete Kafka, K8s, and Microservices from the plan. You are building ONE Spring Boot monolith.
+4.  **Fix the Morning Math.** Wake at 05:15 (Fajr only). Give yourself a realistic 60-minute window post-MMA to shower and eat. 
+5.  **Delay Job Applications to Week 6.** Do not burn bridges at JPMC/HSBC by applying before you can pass a basic array/hashing OA.

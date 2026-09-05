@@ -16,10 +16,10 @@
 | Metric | Status |
 |--------|--------|
 | **Active Phase** | September 1–30, 2026 — Muay Thai Camp at BRUTE Manpada |
-| **Plan Version** | V2-restart (Aug 17 start, Sept camp active) |
-| **Current Day** | ~Day 18 of 84 (Sept 3, 2026) |
-| **DSA Problems Solved** | 3 (pre-restart carryover) + ongoing |
-| **DSA Unaided** | 5/7 (71% — improving fast) |
+| **Plan Version** | V3-restart (Sep 1 start, Sept camp active) |
+| **Current Day** | Day 3 of 84 (Sept 3, 2026) |
+| **DSA Problems Solved** | 0 (fresh start — carryover cleared) |
+| **DSA Unaided** | 0/0 (fresh start) |
 | **System Designs Practiced** | 0 / 8 |
 | **Mock Interviews Done** | 0 / 12 |
 | **Applications Sent** | 0 |
@@ -55,7 +55,7 @@
 
 ---
 
-## 📁 Repo Structure (Clean — Aug 12, 2026)
+## 📁 Repo Structure (Clean — Sep 1, 2026)
 
 ```
 career-switch-plan/
@@ -88,7 +88,7 @@ career-switch-plan/
     └── sql-interview-prep.md
 ```
 
-**DELETED (Aug 12, 2026):** ramish-12-week-plan.md (V1), ramish-week1-plan.md (V1), week1-routine.md (V1), system-state.md (ghost SOT — merged into state-machine), REELS-DAY-IN-LIFE.md, REELS-SHOOT-GUIDE.md, reels-guide.md (all merged into REELS-GUIDE.md)
+**DELETED (before Sep 1, 2026):** ramish-12-week-plan.md (V1), ramish-week1-plan.md (V1), week1-routine.md (V1), system-state.md (ghost SOT — merged into state-machine), REELS-DAY-IN-LIFE.md, REELS-SHOOT-GUIDE.md, reels-guide.md (all merged into REELS-GUIDE.md)
 
 ---
 
@@ -149,23 +149,30 @@ career-switch-plan/
 
 ---
 
-## 📌 Prep Days Checklist (Aug 12-16 — NOT counted toward 84)
+## 📌 Previous Attempts (NOT counted toward 84)
 
-- [ ] Clean house
-- [ ] Bullet journal bought + 3 pages drawn
-- [ ] Instagram app blocked (One Sec / StayFree)
-- [ ] Greyscale ON
-- [ ] Charger moved out of bedroom
-- [ ] New Instagram account created (reels)
-- [ ] CapCut installed on laptop (editing only)
-- [ ] Batch cook done Sunday Aug 16 (for Mon-Thu)
-- [ ] Gym bag packed, Monday clothes laid out
-- [ ] 3 targets for Monday written on paper
-- [ ] Sleep by 22:30 Sunday night
+- V1 (Jul 27-30): 3 DSA, all Copilot
+- V2-first (Aug 3-9): 2 working days
+- V2-restart (Aug 17): stalled
+- V3-restart (Sep 1): **fresh start, carryover cleared**
+
+All arcs complete. Zero guilt. Sep 1 = Day 1.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-> **Monday 04:45. Day 1 of 84. Bismillah.** 🟢
+> **Tuesday 04:45. Day 1 of 84. Bismillah.** 🟢
 >
 > *The gap between you and a ₹16-50 LPA GCC job is not intelligence. It's 84 days of showing up.*
 >

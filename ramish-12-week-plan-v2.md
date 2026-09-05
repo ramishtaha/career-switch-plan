@@ -1,6 +1,6 @@
 # Ramish — 12-Week Career Switch Plan V2 (Optimized)
 ## From TCS 8.29 LPA → BFSI GCC / Product Co 14-18+ LPA
-### Start: Monday, August 3, 2026 | Target Interview: October 2026
+### Start: Tuesday, September 1, 2026 | Target Interview: October 2026
 
 ---
 
@@ -93,28 +93,28 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 1 (Aug 17-23): DSA Basics + Spring Boot Skeleton + Kill the Reels
+### WEEK 1 (Sep 1-7): DSA Basics + Spring Boot Skeleton + Kill the Reels
 **Theme:** Get the machine running. NO cloud. NO Kubernetes. NO AI. Just basics.
 
 **Primary Focus:** Arrays & Hashing (DSA) + Spring Boot Project Setup
 
 **DSA (target: 8 problems):**
-- Mon: Contains Duplicate, Two Sum (try 20 min before solution, track Help flag)
-- Tue: Valid Anagram, Group Anagrams
-- Wed: Top K Frequent Elements, Encode/Decode Strings
-- Thu: Products of Array Except Self, Longest Consecutive Sequence
-- Fri: Revision — re-solve 2 from this week without notes
-- Sat: Valid Palindrome, Two Sum II (Two Pointers start)
-- Sun: Revision + REST
+- Tue: Contains Duplicate, Two Sum (try 20 min before solution, track Help flag)
+- Wed: Valid Anagram, Group Anagrams
+- Thu: Top K Frequent Elements, Encode/Decode Strings
+- Fri: Products of Array Except Self, Longest Consecutive Sequence
+- Sat: Revision — re-solve 2 from this week without notes
+- Sun: Valid Palindrome, Two Sum II (Two Pointers start)
+- Mon: Revision + REST
 
 **Spring Boot (ONE project, built incrementally):**
-- Mon: Setup JDK 17, IntelliJ, Maven. start.spring.io. Create project. Push to GitHub.
-- Tue: Create Product entity + ProductRepository. H2 in-memory DB. Simple GET/POST endpoints.
-- Wed: Add ProductService layer. Exception handling with @ControllerAdvice.
-- Thu: Add Category entity (One-to-Many with Product). Test with browser/Postman.
-- Fri: Clean code, add comments, review.
-- Sat: Add validation (@Valid, @NotNull). Write 2 unit tests.
-- Sun: REST
+- Tue: Setup JDK 17, IntelliJ, Maven. start.spring.io. Create project. Push to GitHub.
+- Wed: Create Product entity + ProductRepository. H2 in-memory DB. Simple GET/POST endpoints.
+- Thu: Add ProductService layer. Exception handling with @ControllerAdvice.
+- Fri: Add Category entity (One-to-Many with Product). Test with browser/Postman.
+- Sat: Clean code, add comments, review.
+- Sun: Add validation (@Valid, @NotNull). Write 2 unit tests.
+- Mon: REST
 
 **Habit System (CRITICAL — this week's real goal):**
 - Phone charger OUT of bedroom (physical move, do it Sunday night)
@@ -132,7 +132,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 2 (Aug 24-30): Sliding Window + Docker + Resume v1
+### WEEK 2 (Sep 8-14): Sliding Window + Docker + Resume v1
 **Theme:** DSA patterns deepen. Containerize the app. Start resume.
 
 **Primary Focus:** DSA patterns + Docker + Resume
@@ -140,23 +140,23 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 **DSA (target: 8 problems):**
 - Sliding Window: Best Time to Buy/Sell Stock, Longest Substring Without Repeating Characters, Longest Repeating Char Replacement, Permutation in String, Minimum Window Substring, Fruit Into Baskets
 - Binary Search: Binary Search, Search a 2D Matrix
-- Fri: Revision
-- Sat: Koko Eating Bananas, Search in Rotated Sorted Array
-- Sun: Revision + REST
+- Sat: Revision
+- Sun: Koko Eating Bananas, Search in Rotated Sorted Array
+- Mon: Revision + REST
 
 **Spring Boot / DevOps:**
-- Mon: Dockerize the Spring Boot app. Write Dockerfile. Build & run.
-- Tue: Docker Compose: app + PostgreSQL (replace H2).
-- Wed: Spring Security basics — JWT authentication. Secure endpoints.
-- Thu: Spring Actuator — health checks, metrics.
-- Fri: Spring Profiles (dev, prod). Externalize config.
-- Sat: Spring Boot Test — unit tests, @MockBean, @DataJpaTest.
-- Sun: REST
+- Tue: Dockerize the Spring Boot app. Write Dockerfile. Build & run.
+- Wed: Docker Compose: app + PostgreSQL (replace H2).
+- Thu: Spring Security basics — JWT authentication. Secure endpoints.
+- Fri: Spring Actuator — health checks, metrics.
+- Sat: Spring Profiles (dev, prod). Externalize config.
+- Sun: Spring Boot Test — unit tests, @MockBean, @DataJpaTest.
+- Mon: REST
 
 **Career:**
 - Mon-Wed: Resume v1 brain dump — write EVERYTHING you did at TCS. Don't edit.
 - Thu-Sat: Structure resume. Frame BaNCS experience with metrics.
-- Sun: Share resume v1 with 2-3 peers.
+- Mon: Share resume v1 with 2-3 peers.
 
 **End of Week 2 — You Should Have:**
 - [ ] 8 more DSA problems (Sliding Window, Binary Search)
@@ -166,30 +166,30 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 3 (Aug 31-Sep 6): Trees + First System Design + Start Applications
+### WEEK 3 (Sep 15-21): Trees + First System Design + Start Applications
 **Theme:** Add distributed systems thinking. Start the referral engine.
 
 **Primary Focus:** Trees (DSA) + System Design intro
 
 **DSA (target: 8 problems):**
 - Trees: Invert Binary Tree, Max Depth, Diameter, Balanced, Same Tree, Subtree of Another, BST Search/Insert/Delete, Kth Smallest in BST
-- Fri: Revision
-- Sat: Validate BST, Level Order Traversal
-- Sun: Revision + REST
+- Sat: Revision
+- Sun: Validate BST, Level Order Traversal
+- Mon: Revision + REST
 
 **Spring Boot:**
-- Mon: Split into 2 microservices (Product Service + Category Service). Inter-service call.
-- Tue: API Gateway (Spring Cloud Gateway). Route to both services.
-- Wed: Eureka Service Discovery. Register both services.
-- Thu: Resilience4j Circuit Breaker on inter-service call.
-- Fri: Refactor + clean code.
-- Sat: First LLM API call — simple cURL to GLM endpoint. Log request/response.
-- Sun: REST
+- Tue: Split into 2 microservices (Product Service + Category Service). Inter-service call.
+- Wed: API Gateway (Spring Cloud Gateway). Route to both services.
+- Thu: Eureka Service Discovery. Register both services.
+- Fri: Resilience4j Circuit Breaker on inter-service call.
+- Sat: Refactor + clean code.
+- Sun: First LLM API call — simple cURL to GLM endpoint. Log request/response.
+- Mon: REST
 
 **System Design:**
-- Mon: Read Grokking intro. Notes: load balancing, caching, CAP theorem.
-- Wed: Design URL Shortener — capacity estimation, base62 encoding, caching.
-- Sat: Practice explaining URL Shortener aloud in 10 min.
+- Tue: Read Grokking intro. Notes: load balancing, caching, CAP theorem.
+- Thu: Design URL Shortener — capacity estimation, base62 encoding, caching.
+- Sun: Practice explaining URL Shortener aloud in 10 min.
 
 **Career:**
 - Start LinkedIn outreach: Connect with 10 BFSI GCC recruiters.
@@ -205,25 +205,25 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 4 (Sep 7-13): Heaps + Kafka + Cloud Deploy
+### WEEK 4 (Sep 22-28): Heaps + Kafka + Cloud Deploy
 **Theme:** Add the missing distributed systems skill. Deploy to cloud.
 
 **Primary Focus:** Heaps (DSA) + Kafka integration
 
 **DSA (target: 8 problems):**
 - Heaps: Kth Largest in Stream, Last Stone Weight, K Closest Points, Task Scheduler, Merge K Sorted Lists, Find Median from Data Stream
-- Fri: Revision
-- Sat: Re-solve 3 heap problems without notes
-- Sun: Revision + REST
+- Sat: Revision
+- Sun: Re-solve 3 heap problems without notes
+- Mon: Revision + REST
 
 **Spring Boot / DevOps:**
-- Mon: Kafka fundamentals — Docker local Kafka. Producer: publish product events.
-- Tue: Kafka consumer — Category Service consumes events. Real-time count update.
-- Wed: Kafka — consumer groups, partition rebalancing. Run 2 consumers.
-- Thu: Deploy to DigitalOcean Droplet. SSH, install Docker, pull images.
-- Fri: Verify app reachable via public IP.
-- Sat: GitHub Actions CI pipeline (build + test on push).
-- Sun: REST
+- Tue: Kafka fundamentals — Docker local Kafka. Producer: publish product events.
+- Wed: Kafka consumer — Category Service consumes events. Real-time count update.
+- Thu: Kafka — consumer groups, partition rebalancing. Run 2 consumers.
+- Fri: Deploy to DigitalOcean Droplet. SSH, install Docker, pull images.
+- Sat: Verify app reachable via public IP.
+- Sun: GitHub Actions CI pipeline (build + test on push).
+- Mon: REST
 
 **System Design:**
 - Design Rate Limiter — token bucket, sliding window. Practice explaining.
@@ -250,7 +250,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 5 (Sep 14-20): Graphs + Spring Internals + AI Integration
+### WEEK 5 (Sep 29-Oct 5): Graphs + Spring Internals + AI Integration
 **Theme:** Spring Boot under the hood. Add the AI differentiator.
 
 **DSA (target: 8):**
@@ -276,7 +276,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 6 (Sep 21-27): Tries + Concurrency + RAG + Mock Interview
+### WEEK 6 (Oct 6-12): Tries + Concurrency + RAG + Mock Interview
 **Theme:** Java concurrency is a core interview topic. Master it. First system design mock.
 
 **DSA (target: 8):**
@@ -309,7 +309,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 7 (Sep 28-Oct 4): DP 1D + JVM Internals + Observability
+### WEEK 7 (Oct 13-19): DP 1D + JVM Internals + Observability
 **Theme:** DP is the hardest DSA topic. Start early. JVM = senior engineer differentiator.
 
 **DSA (target: 8):**
@@ -335,7 +335,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 8 (Oct 5-11): DP 2D + Microservices Patterns + Mid-Point Review
+### WEEK 8 (Oct 20-26): DP 2D + Microservices Patterns + Mid-Point Review
 **Theme:** Advanced DP + production patterns. Halfway checkpoint.
 
 **DSA (target: 8):**
@@ -376,7 +376,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 9 (Oct 12-18): LeetCode Speed Run + Security + Active Interviews
+### WEEK 9 (Oct 27-Nov 2): LeetCode Speed Run + Security + Active Interviews
 **Theme:** DSA speed. Security hardening. Start active interviewing.
 
 **DSA (target: 10):**
@@ -400,7 +400,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 10 (Oct 19-25): LeetCode Hard + System Design Mocks
+### WEEK 10 (Nov 3-9): LeetCode Hard + System Design Mocks
 **Theme:** Hard problems. System design under pressure.
 
 **DSA (target: 8):**
@@ -418,7 +418,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 11 (Oct 26-Nov 1): Contest Simulation + Final Project Polish
+### WEEK 11 (Nov 10-16): Contest Simulation + Final Project Polish
 **Theme:** Contest-level DSA. Project documentation.
 
 **DSA (target: 10):**
@@ -436,7 +436,7 @@ That's 6 competing focuses for an ADHD brain. Result: 3 problems in 3 days, no c
 
 ---
 
-### WEEK 12 (Nov 2-8): Final Revision + Offers + Negotiation
+### WEEK 12 (Nov 17-23): Final Revision + Offers + Negotiation
 **Theme:** Close the loop. Get the offer.
 
 **DSA:**
@@ -483,7 +483,7 @@ The cycle: Come home → sit on couch → open phone → reels → 2 hours gone 
 
 This is NOT a willpower problem. It's a DOPAMINE TRAP. ADHD brains run out of willpower fast. The fix is ENVIRONMENTAL DESIGN, not willpower.
 
-### The Fix (Do This Sunday Aug 16, Before Week 1 Starts)
+### The Fix (Do Before Week 1 Starts)
 
 1. **Phone charger OUT of bedroom** — move it to the living room or kitchen. Physical barrier.
 2. **Phone greyscale ON** — Settings → Accessibility → Colour filters → Grayscale. Reels are BORING in greyscale. This is proven to reduce usage by 30%+.

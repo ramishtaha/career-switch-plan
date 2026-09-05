@@ -1,0 +1,107 @@
+This audit is ruthless by design. Your plan is an over-engineered masterpiece of procrastination. You are using the planning phase to simulate the work phase without doing the work. You are on Day 3 with 0 DSA problems solved, running on 3 hours of sleep, and trying to execute a schedule that would break a machine, let alone a human with ADHD. 
+
+Here is every flaw, every inconsistency, and the concrete fixes to save your career switch.
+
+---
+
+### 1. SCHEDULE REALISM
+**Flaw 1: The Morning Block is physically impossible.** 
+Tahajjud at 04:45 (10m) → Fajr (15m) → DSA 45m → Spring Boot 20m → Fuel/Pack (25m). You have allotted exactly 0 minutes for bathroom, dressing, and transitioning between these states. You will fail this by 05:00 and freeze.
+
+**Flaw 2: The 18:15-19:09 gap is a relapse trap.** 
+You get home exhausted from office and camp. You have a "5-Min Rule" followed by 54 minutes of "light reading / house task / prep dinner" before Maghrib. An ADHD brain on low sleep with a phone addiction will sit on the couch, open reels, and miss Maghrib. 
+
+**Flaw 3: Caloric deficit + sleep deprivation + MMA = biological collapse.** 
+You are doing a 30m run + 1h training on 3h sleep, a 700kcal shake, and a low-carb deficit. By Day 7, your cortisol will spike, your willpower will hit zero, and you will binge eat and binge scroll.
+
+**Fixes:**
+- **Push the wake-up time to 05:00.** Sleep is more important than Tahajjud right now. 22:00 to 05:00 = 7 hours. 
+- **Kill the 54-minute evening gap.** When you get home at 18:15, do your prep dinner *immediately*. Eat at 18:45. Pray Maghrib at 19:09. Go straight into Spring Boot at 19:35. Do not give your brain 54 minutes to get distracted.
+- **Drop the 30m morning run during the September camp.** The 1h Muay Thai session is sufficient cardio for a 13kg cut on low sleep. Walk or stretch instead.
+
+### 2. CURRICULUM FEASIBILITY
+**Flaw 1: Week 2 Spring Boot scope is delusional.** 
+You are asking a beginner to learn Docker, Docker Compose, Spring Security (JWT), Actuator, Profiles, and Testing in 7 days. You will freeze on Day 8.
+
+**Flaw 2: System Design in Week 3 is premature.** 
+You cannot design a URL shortener or chat system when you haven't even written a functional Spring Boot API yet. You lack the foundational vocabulary to understand distributed systems.
+
+**Flaw 3: DSA math is already failing.** 
+Week 1 target: 8 problems. You are on Day 3. You have solved 0. You are already behind, and the "catch up" pressure will trigger a freeze.
+
+**Fixes:**
+- **Stretch the Spring Boot curriculum by 50%.** Week 1: Just setup, Entity, Repo, basic GET/POST. Week 2: Service layer, exceptions, H2 DB. Week 3: Dockerize. Week 4: JWT Security. Stop rushing infrastructure.
+- **Delete System Design from Weeks 1-4.** Replace it with "Core Java Deep Dive" (Collections, Concurrency). You need Core Java for interviews far more than you need to draw architecture diagrams right now. 
+- **Change the DSA target to 1 problem a day.** Do not look at the "8 per week" number. 1 problem, unaided, fully understood. That is the only target. 
+
+### 3. CAREER STRATEGY
+**Flaw 1: The BaNCS resume framing is a trap.** 
+"Led microservices development for Regulatory Server Module (RSM) in TCS BaNCS..." TCS BaNCS is a notoriously monolithic, legacy core banking system. If you call it "microservices" in a JPMorgan interview, a senior engineer will grill you on service boundaries, and you will be exposed as a fraud.
+
+**Flaw 2: Applying in Week 3 with 0 unaided DSA.** 
+You want to start recruiter outreach in Week 3. If they send you a HackerRank test on Week 4, you will fail it because you are only on 15 DSA problems. This will destroy your confidence.
+
+**Flaw 3: The "60-day notice period" lie.** 
+TCS BaNCS is notoriously rigid. You will get trapped in HR bureaucracy, and GCCs will drop you if they sense you are lying about your release date. 
+
+**Fixes:**
+- **Reframe BaNCS accurately:** "Maintained and extended core banking modules (RSM, Market Info) in a large-scale monolithic architecture, gaining deep domain knowledge of capital markets and regulatory flows." *Then* use your new Spring Boot project to prove you know modern microservices.
+- **Do not apply until Week 6.** You need at least 40 unaided DSA problems and a working Spring Boot project before you talk to a recruiter. Spend Weeks 1-5 purely on skill building.
+
+### 4. ADHD FIT
+**Flaw 1: The tracking system is a dopamine substitute.** 
+You have 7+ markdown files (`state-machine.md`, `session-state.md`, `dsa-tracker.md`, `habit-tracker.md`, `progress.md`, etc.). You are spending your executive energy maintaining a "Single Source of Truth" architecture instead of writing Java code. This is advanced ADHD procrastination disguised as productivity.
+
+**Flaw 2: "Banked Days" and "Help Flags" are cognitive overload.** 
+Calculating if a day counts as "High Bar" 🟡 or if you "banked 2 credit days" because you did 3 days of work in one day is abstract math that an exhausted brain cannot process at 9:30 PM.
+
+**Fixes:**
+- **Burn the markdown files.** Keep exactly ONE tracker: `tracker.md`. Columns: Date, DSA Problem, Spring Boot Concept, Sleep Hours. That's it.
+- **Simplify the Daily Bar.** 
+  - 🟢 Success: 1 DSA problem solved.
+  - 🟡 Push: 2 DSA problems + Spring Boot.
+  - Everything else is noise. 
+- **Stop tracking "Banked Days".** If you do extra work, great. It builds momentum. Do not create a token economy for your own life.
+
+### 5. BEHAVIORAL RISK
+**Flaw 1: The Reels Project is a massive liability.** 
+You have a phone/reels addiction that triggers your relapse chain. Your solution is to... film 13 clips a day, send them to an AI, and post a daily Reel? You are injecting the drug directly into your veins to cure the addiction. Filming, reviewing, and posting guarantees daily exposure to Instagram.
+
+**Flaw 2: The "Zero Guilt" protocol is contradictory.** 
+You say "zero guilt, missed days extend the arc." But your system meticulously logs missed days, resets streaks, and marks them as failures. The act of logging a missed day *is* a guilt mechanism for an ADHD brain.
+
+**Fixes:**
+- **Kill the Reels Project immediately.** It is an ego trip. Put 100% of your focus into the career switch. No filming. No posting. No Instagram. 
+- **Implement a true "Missed Day" protocol.** If you miss a day, you do not log it in a tracker. You do not analyze it. You wake up the next day, open the laptop, and do 1 DSA problem. The arc continues. No math, no markdown updates.
+
+### 6. ISLAMIC/DEEN INTEGRATION
+**Flaw 1: Schedule contradicts the "Build in Layers" rule.** 
+The Deen section says "Week 1-2: Sleep + Fajr only... don't try tahajjud yet." But the Daily Blueprint hardcodes Tahajjud at 04:45 every single day. You are setting yourself up to fail a Sunnah, which creates spiritual guilt, which feeds the freeze.
+
+**Flaw 2: Fasting during the September Camp.** 
+Fasting Mon/Thu during an intensive MMA camp while on a severe caloric deficit and 3h sleep is biologically reckless. You will collapse, miss work, and trigger an extreme compensatory binge.
+
+**Fixes:**
+- **Delete Tahajjud from the September schedule.** Sleep from 22:00 to 05:00. Pray Fajr. This is your Week 1-4 target. Once sleep is fixed for 21 days, add Tahajjud in October.
+- **Suspend Sunnah Fasting for September.** Your body is under too much stress. Focus on the mandatory prayers and your physical health. Make them up in October when the camp is over.
+
+### 7. TRACKING SYSTEM
+**Flaw 1: The Evening Close-Out protocol is a fantasy.** 
+You expect an ADHD brain that has been working since 04:45, training, studying, and praying, to perfectly sync 5 different markdown files at 21:28 via an AI agent. By 21:28, you are running on fumes. This will be the first thing you abandon.
+
+**Fixes:**
+- **Move all tracking to the morning.** 
+  You need a 5-minute morning review, not an evening sync. 
+  - 05:00 AM: Wake up, open `tracker.md`.
+  - Write yesterday's date. Did you do 1 DSA? Yes/No. Did you do Spring Boot? Yes/No. 
+  - Close laptop. Start work.
+
+---
+
+### TOP 5 PRIORITIZED ACTION ITEMS (Execute Now)
+
+1. **Kill the Reels Project.** Delete the Instagram account, delete the clips, uninstall CapCut. It is feeding your primary addiction and wasting your executive energy.
+2. **Push wake-up to 05:00 AM.** Stop trying to force Tahajjud on 3 hours of sleep. Sleep is the foundation of your entire plan. If you don't sleep, you freeze, you relapse, and you fail.
+3. **Simplify the tracking to 1 file.** Delete `state-machine.md`, `session-state.md`, `progress.md`, and `habit-tracker.md`. Keep one `tracker.md` file. Date, DSA, Spring Boot. Nothing else.
+4. **Do not apply for jobs until Week 6.** You are not ready. Focus 100% on building the skill. Applying early will result in rejections that crush your morale.
+5. **Write your first line of Java today.** You are on Day 3 with 0 DSA solved. Open LeetCode. Do "Two Sum." Look up the HashMap syntax. Submit it. Stop planning. Start doing.

@@ -48,11 +48,12 @@
 - ❌ Pure planning/chatting with Hermes
 - ❌ Claude cert study only (that's office bonus, not a primary block)
 
-### "Day Worked" vs "Bar Hit"
+### "Day Worked" vs "Bar Hit" (V3.1 — updated Sep 5 post-audit)
 - A day can be "worked" (Day N increments) but bar can be:
-  - 🟢 **Low Bar**: 1 DSA + 30-min Spring Boot + 1 career action (all three)
-  - 🟡 **High Bar**: 4 DSA + full Spring Boot + full career block
-  - 🟠 **Partial**: Did something, but not all three low-bar items. Day still counts. Bar = partial.
+  - 🟢 **Low Bar**: Open LeetCode and READ the problem. The bar is showing up. (Day counts)
+  - 🔵 **Normal Bar**: 1-2 DSA problems + Spring Boot session + 1 career action
+  - 🟡 **High Bar** (hyperfocus day): 3+ DSA problems + full Spring Boot + full career block
+  - 🟠 **Partial**: Did something, but not all normal-bar items. Day still counts. Bar = partial.
   - 😴 **Rest Day**: Ramish says "rest day." Day does NOT increment. Zero guilt.
   - ⬜ **Missed**: No work, no "rest day" declared. Day does NOT increment. Arc extends.
 
@@ -69,26 +70,9 @@
 
 ---
 
-## 🏦 BANKED DAYS (Overboard Protection)
+## 🏦 BANKED DAYS — REMOVED (V3.1)
 
-**Trigger:** Ramish does 3+ days of high-bar work in one day (boss yelled, hyperfocus, etc.)
-
-**How it works:**
-- Day worked = 1 (always, regardless of how much done)
-- If bar = 🟡 high AND work covers 3+ days worth → bank 2 credit days
-- Banked days can be used as:
-  - "Take a rest day without saying rest" (auto-rest, streak preserved)
-  - "Skip a day guilt-free" (auto-low-bar, streak preserved)
-- **Banked days expire after 14 days** (use them or lose them)
-- **Max banked days: 5** (can't hoard — the point is momentum, not savings)
-
-**Example scenario:**
-> Boss talks rudely → Ramish channels anger → 10 DSA problems + 3hr Spring Boot + 5 applications
-> → Day N increments by 1 (not 3)
-> → Bar = 🟡 high (massively exceeded)
-> → Bank 2 credit days (today's + 2 future)
-> → Next 2 days: Ramish can say "using banked day" → streak preserved, Day count still increments? NO.
-> → Banked day = streak preserved, Day count does NOT increment (you didn't work, but you earned it)
+**Removed Sep 5 post-audit.** The banked days system was over-engineered — a token economy for life. ADHD hyperfocus days build momentum naturally; no need to "bank" credit. If you do 5 problems in one day, great. Tomorrow is a new day with the same Low Bar.
 
 ---
 
@@ -120,13 +104,13 @@ Every problem gets ONE row. Fields:
 
 ## 🌱 PRE-LAUNCH WORK RULES
 
-**Scenario:** Plan starts Aug 3. Ramish does DSA on Aug 1 or 2.
+**Scenario:** Plan starts Sep 1. Ramish does DSA on Aug 30 or 31.
 
 - Work is tracked in dsa-tracker.md (with real date)
 - `session-state.md` phase = `pre-launch`
 - Pre-launch DSA problems count as **carryover** — they appear in total but don't trigger Day 1
-- Day 1 = first worked day ON OR AFTER the start date (Aug 3)
-- If Ramish does 3 DSA problems on Aug 16 → those are carryover. Aug 17 = Day 1 (if he works)
+- Day 1 = first worked day ON OR AFTER the start date (Sep 1)
+- If Ramish does 3 DSA problems on Aug 31 → those are carryover. Sep 1 = Day 1 (if he works)
 - **Pre-launch work is a bonus, not a substitute.** It doesn't reduce the 84-day count.
 
 ---
@@ -272,7 +256,7 @@ ELSE:
 ### Scenario 5: Pre-launch work (Aug 1-2)
 - Phase = pre-launch
 - Work logged in tracker with real dates
-- Day count = 0 (Day 1 starts Aug 3)
+- Day count = 0 (Day 1 starts Sep 1)
 - Pre-launch problems = carryover (appear in total, noted as pre-launch)
 - No streak yet (streak starts Day 1)
 

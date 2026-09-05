@@ -60,15 +60,15 @@
 
 17:13  🕌 Asr (office musalla)
 18:00  🎒 Leave office (varies 18:00-19:00)
-18:15  🏠 Home (realistic: 18:15-18:45)
+18:15-19:15  🏠 Home (VARIABLE — office departure varies, can't control)
+       ⚠️ 5-MIN RULE: Door → wudu → ACTIVE TASK (no couch, no phone)
+       The couch is lava until Maghrib. Prep dinner, stretch, or read.
+       Do NOT sit down with phone. This is the #1 relapse trigger zone.
 
-       ⚠️ 5-MIN RULE: Door → wudu → rest
-       (no couch/phone until Maghrib adhan)
-
-18:25  ⏳ Light reading / house task / prep dinner
-19:09  🕌 Maghrib
-19:15  🍽️ Dinner (low carb, 20 min)
-19:35  💻 EVENING BLOCK 1: Spring Boot (50 min) → git commit
+~19:09  🕌 Maghrib (prayer times vary — follow actual adhan)
+~19:15  🍽️ Dinner (low carb, 20 min)
+~19:35  💻 EVENING BLOCK 1: Spring Boot (50 min) → git commit
+       (Start ~25 min after Maghrib — flex with actual arrival time)
 20:26  🕌 Isha + 5-min walk/stretch (cognitive reset)
 20:35  💼 EVENING BLOCK 2: Career work (40 min)
        — resume/apps/LinkedIn OR system design
@@ -211,23 +211,44 @@
 
 ---
 
-## 📱 REELS WORKFLOW (AUTOMATED)
+## 📱 REELS WORKFLOW (AUTOMATED — DYNAMIC)
 
-**You do NOT edit reels. Hermes does.**
+**You do NOT edit reels. Hermes does. Shoot what happens, when it happens.**
 
-1. **Shoot clips** throughout the day (13-shot list — see Hermes skill `gemini-omni-reel`)
-2. **Send clips to Hermes** via Discord at 21:25 (2-3 min, just forward files)
-3. **Hermes builds the reel** — vision analysis, stitching, text overlays, audio, export
-4. **Hermes delivers** the finished reel back to you
+### How it works
+1. **Shoot clips** throughout the day — whatever happens, whenever it happens. No rigid shot list.
+2. **Send clips to Hermes** via Discord at 21:25 (2-3 min) with a quick note: `Day N. <what happened>`
+3. **Hermes identifies each clip** via AI vision analysis and auto-sorts chronologically
+4. **Hermes builds the reel** — dynamic 30-60s duration based on clip count, text overlays, lofi audio
+5. **Hermes delivers** the finished reel + Instagram caption back to you
 
-**Rules:**
+### What to shoot (guidelines, not rigid slots)
+- **Dawn:** Watch alarm, face wash, sleep screenshot
+- **Morning:** DSA golden block, pre-camp fuel, camp training, run, run screenshot
+- **Post-camp:** Shake, breakfast (top-down photo), balcony sun + book
+- **Office:** Desk + coffee (no TCS screens), lunch plate photo
+- **Evening:** Strength/sparring (if scheduled), dinner photo, Spring Boot coding, reset ritual
+- **Weekend trek:** Local train, trailhead, climb, summit view, Samsung Health elevation/steps
+- **Meals:** Breakfast, lunch, dinner, iftar — top-down photos or quick clips
+- **Extra clips:** Anything you want — rain, sunset, street cat. Send it. It goes in.
+
+### Rules
 - Separate Instagram account, documentary style
 - NO prayer footage EVER
 - NO on-screen stats/prayer counts. Caption-only stats (Instagram).
+- Reel duration scales 30-60s based on how many clips you send
 - If clips not sent by 21:30 → no reel that day. Carry to tomorrow.
 - Instagram app STAYS BLOCKED on phone. Post from laptop browser.
 
-**Full shot list + editing workflow:** Hermes skill `gemini-omni-reel` (13-shot morning camp list)
+### ⛨️ Safety Guardrails (phone is the primary relapse vector — NON-NEGOTIABLE)
+1. **Film-and-drop**: Phone out → record → phone face-down → walk away. Max 10s/clip. No reviewing on phone.
+2. **No scrolling after filming**: After each clip → phone face-down or pocket. Never open Instagram.
+3. **Batch at transitions**: Film only when already moving. Never interrupt a study block to film.
+4. **Evening filming cutoff**: No filming after 21:15. No reel → carry to tomorrow. No guilt.
+5. **Post from laptop only**: 2 min, post, close tab. Never check metrics on phone.
+6. **Physical lockbox recommended**: Phone in timed lockbox at 18:15. Remove for filming only, then back in.
+
+**Full workflow + scenario matrix:** Hermes skill `gemini-omni-reel` (v5.0.0 — dynamic chrono-block system)
 
 ---
 

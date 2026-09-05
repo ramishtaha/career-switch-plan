@@ -1,8 +1,8 @@
 # 🎯 RAMISH MASTER BLUEPRINT
 ## Career Switch + Deen + Discipline — One Document, Everything
 
-> **Restart: Monday, August 17, 2026 | Day 1 of 84**
-> Prep Days: Aug 12-16 (cleaning, sleep fix, meal prep — NOT counted toward 84)
+> **Restart: Tuesday, September 1, 2026 | Day 1 of 84**
+> Previous attempts: V1 (Jul 27), V2-first (Aug 3), V2-restart (Aug 17) — all arcs complete. Fresh start.
 > TCS 8.29 LPA → BFSI GCC / Product Co 14-18+ LPA
 > This duniya is temporary. Akhirah is permanent. Both get your best.
 
@@ -111,9 +111,12 @@
 
 17:13  🕌 Asr
 18:00  🎒 Leave office (varies 18:00-19:00)
-18:15  🏠 Home → 5-MIN RULE (wudu → rest → then anything)
+18:15-19:15  🏠 Home (VARIABLE — can't control departure time)
+       → 5-MIN RULE: wudu → ACTIVE TASK → Maghrib → then rest/study
+       ⚠️ The couch is lava. No phone, no sitting before Maghrib.
+       Prep dinner, stretch, or read. This is the #1 relapse trigger zone.
 
-19:09  🕌 Maghrib
+~19:09  🕌 Maghrib (follow actual adhan — times shift)
 19:15  🍽️ Dinner (low carb, 20 min)
 19:35  💻 EVENING BLOCK 1: Spring Boot (50 min) → git commit
 20:26  🕌 Isha + 5-min walk/stretch (cognitive reset)
@@ -429,11 +432,12 @@ The 2-year switch is real. Watch me do it in 12 weeks.
 - [ ] 1+ offer (or actively interviewing into November)
 - [ ] Claude cert (if TCS funds it)
 
-## Dual-Bar System
+## Dual-Bar System (V3.1 — updated Sep 5 post-audit)
 
-- **🟢 Low Bar** (streak alive): 1 DSA + 1 concept/30-min Spring Boot + 1 career action
-- **🟡 High Bar** (push day): 4 DSA + full Spring Boot session + full career block
-- **Banked Days:** 3 days of high-bar work in one day = bank 2 credit days. Hyperfocus is an asset.
+- **🟢 Low Bar** (streak alive): Open LeetCode and READ the problem. The bar is showing up.
+- **🔵 Normal Bar**: 1-2 DSA problems + Spring Boot session + 1 career action
+- **🟡 High Bar** (hyperfocus day): 3+ DSA problems + full Spring Boot + full career block
+- **Banked Days: REMOVED** — over-engineered. Extra work builds momentum naturally.
 - **Rest Day**: say "rest day" → zero guilt, **streak PRESERVED** (pause, not break), arc continues. Rest is part of the process.
 - **Missed days extend the arc. Never reset. Never guilt.**
 
@@ -486,7 +490,14 @@ Only list what you can defend in an interview.
 
 ---
 
-# PART 10: PREP DAYS CHECKLIST (Aug 12-16 — NOT counted toward 84)
+# PART 10: PREVIOUS ATTEMPTS
+
+- V1 (Jul 27-30): 3 DSA problems, all Copilot
+- V2-first (Aug 3-9): 2 working days
+- V2-restart (Aug 17): stalled
+- V3-restart (Sep 1): fresh start, all carryover cleared
+
+All previous arcs complete. Zero guilt. Sep 1 = Day 1 of 84.
 
 - [ ] Bullet journal bought + 3 pages drawn (tracker, weekly review, daily template)
 - [ ] Instagram app blocked (One Sec / StayFree)
@@ -498,7 +509,7 @@ Only list what you can defend in an interview.
 - [ ] Batch cook done for Mon-Thu
 - [ ] Gym bag packed, Monday clothes laid out
 - [ ] 3 targets for Monday written on paper
-- [ ] Sleep by 22:30 Sunday night (Aug 16)
+- [ ] Sleep by 22:30 Sunday night (before Sep 1)
 
 ---
 
