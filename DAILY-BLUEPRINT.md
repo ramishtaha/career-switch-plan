@@ -35,10 +35,12 @@
         zero guilt — nafl never eats sleep, and sleep never eats Fajr. 21:30→04:40 = ~7h10.
         FASTING days: wake 04:15 → SUHOOR 04:20-04:50 (shake + dates + 2 eggs, ends ~10 min before
         Fajr adhan) → tahajjud 2 rakats → Fajr. NOTHING by mouth after suhoor until iftar
-        Post-Fajr: STAY OUT of bedroom. Optional: 10-15 min PAPER revision at table.
-        No laptop, no new problem, no tahajjud pressure. Phone stays parked.
-06:25  🥊 Fuel + pack (15 min): bone broth + 2 dates (NON-FASTING days only — fasting: pack only). Bag checklist (taped inside):
-        [ ] broth [ ] dates [ ] whey in shaker [ ] gloves [ ] phone in POCKET
+        Post-Fajr: STAY OUT of bedroom. Phone stays parked.
+~05:15  🧠 GOLDEN BLOCK — DSA STUDY, ~75 min at the desk (Ramish's call, Sep 14: this window is real)
+        Laptop, not phone. New pattern + today's problem + 5-min recall of yesterday.
+        15-min anti-Copilot rule before ANY help. This is the day's DSA engine.
+06:35  🥊 Pre-workout prep (10-15 min): bone broth + 2 dates (NON-FASTING days only — fasting: pack only)
+        Bag checklist (taped inside): [ ] broth [ ] dates [ ] whey in shaker [ ] gloves [ ] phone in POCKET
 06:50  🎒 Leave → 07:00-08:30 MUAY THAI CAMP (run + training)
 ── ~08:45 HOME → THE AIRLOCK (15-30 min, zero decisions, zero phone) ──
 T+0    🔑 Phone → LOCKBOX first touch (before sitting; no bed, no sofa)
@@ -51,20 +53,18 @@ T+55   ☀️ Breakfast: 2 fresh eggs + curd + fruit
 10:30  🎒 Leave for office — FIXED.
 
 ── OFFICE 10:45-18:00 ──
-12:30  🔒 Phone zipped in bag/locker (not face-down on desk — that lost twice)
-12:44  🕌 Dhuhr → food
-13:05-13:30  💻 THE ONE CAREER ANCHOR: 25-min preselected task
-        Card in bag: Dhuhr → food → phone away → 25-min named task → one-line mark → walk/rest
-        Mon/Tue/Wed = DSA (Week 1: Contains Duplicate → Two Sum → Valid Anagram, unaided first)
-        Thu = Spring Boot 30 min · Fri = review/revision
-        Rest of break = lunch, walk, nap — no optimization, no guilt.
+12:44  🕌 Dhuhr (office musallah) → food. Phone in bag/locker during breaks, not on desk.
+        OFFICE REALITY (Ramish, Sep 14): office laptop is LOCKED — no Spring Boot, no IDE here.
+        Free time is occasional only. The MAX office career move = ONE DSA problem, browser LeetCode.
+        Anything done at office = BONUS on top of the morning Golden Block. Zero pressure.
 17:15  🕌 Asr
-18:00  🎒 Leave → home ~18:15 → dinner (low carb)
 
-── EVENING (light by design — camp + office + deficit already cost energy) ──
-19:09  🕌 Maghrib
-19:15-19:45  💻 Spring Boot (Tue + Thu only, 30 min): open ONE file, 5-min rule
-        Mon/Wed: free — friends, rest, reel edit, nothing. Fasting evenings: no catch-up block.
+── EVENING (arrival-triggered: home mostly ~19:00, range 18:30-19:30) ──
+T+arr  🏠 Keys → wudu. Maghrib on arrival if adhan passed (early arrival: Maghrib at 19:09).
+        Dinner (low carb). FASTING days: IFTAR at adhan — dates + water, then a full meal.
+T+din  💻 SPRING BOOT — the HOME block (office laptop is locked, so Spring lives HERE):
+        Mon-Thu, ~40 min, open ONE file = the whole start. HARD STOP at 20:15 regardless.
+        Friday: free evening. Reels post fits any gap (laptop profile, 10-min timer, skip freely).
 20:15  📥 Reply to Hermes evening check-in (tracker sync)
 20:26  🕌 Isha
 20:35  📞 FAMILY CALL (15-20 min)

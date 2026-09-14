@@ -68,20 +68,20 @@ This is the biggest change. Your day is now scored like this:
 ```
 ~04:40  Tahajjud wake → wudu → 2 rakats + istighfar + dua (15 min)
 ~05:00  Fajr + adhkar → NO RE-SLEEP (stand, light on, stay out of bedroom)
-~05:20  Optional: 10-15 min PAPER revision at the table (no laptop, no new problem)
-06:25   Fuel + pack: bone broth + 2 dates (non-fasting). Bag checklist taped inside.
+~05:15  GOLDEN BLOCK — DSA study ~75 min at the desk (laptop, not phone). The day's DSA engine.
+06:35   Pre-workout prep (10-15 min): bone broth + 2 dates. Bag checklist taped inside.
 06:50   Leave → CAMP 07:00-08:30
 ~08:45  Home → THE AIRLOCK:
         Phone in LOCKBOX (first touch, before sitting) → SHAKE immediately
         → shower → BALCONY BOOK 20-30 min (analog, no phone) → breakfast (2 eggs + curd + fruit)
 10:30   Leave for office → desk ~10:45
 12:44   Dhuhr (office musallah) → food
-13:05   ONE career anchor: 25-min preselected task (phone in bag/locker, not desk)
-        Mon/Tue/Wed = DSA · Thu = Spring Boot · Fri = revision
+        Office laptop is LOCKED → no Spring Boot/IDE at office. Free time is occasional:
+        MAX = ONE DSA problem in the browser = bonus on top of the Golden Block.
 17:15   Asr
-18:15   Home → dinner (low carb)
-19:09   Maghrib
-19:40   Spring Boot 30 min — TUE + THU only (other evenings free by design)
+~19:00  Home (range 18:30-19:30) → Maghrib on arrival → dinner
+        Spring Boot — Mon-Thu, ~40 min, open ONE file. HARD STOP at 20:15.
+        Friday: free evening.
 20:15   Reply to Hermes close-out — FROM LAPTOP
 20:26   Isha
 20:35   FAMILY CALL (15-20 min)
@@ -114,7 +114,7 @@ Then the Week 1 queue: Group Anagrams, Top K Frequent, Encode/Decode Strings.
 
 **The 15-min rule before ANY help:** read → hand-trace the example → name the pattern → write the approach in English → estimate complexity → only THEN code. Stuck after 15 real minutes → look at the APPROACH (never the code) → try again.
 
-**Where:** office anchor block 13:05 (Mon/Tue/Wed) — browser LeetCode, no IDE, no Copilot = the perfect proving ground. Home is for learning; office is for proving.
+**Where:** the morning GOLDEN BLOCK 05:15–06:35 at your desk — that's the DSA engine now. Office free time is occasional and bonus-only: laptop is locked, so the MAX there is one browser LeetCode problem. Everything career-critical lives at home.
 
 ---
 
