@@ -81,7 +81,7 @@
 - **Phone relapse vector**: Chain confirmed Sep 4-13 (late-night phone → late sleep → re-sleep after Fajr → post-gym nap → office late → binge loops). See `tracker/daily-log/FAILURE-LOG-2026-09-14.md`
 - **Shields (re-install tonight, verify by artifact/photo)**: greyscale ON, charger OUT of bedroom, IG/reels apps blocked on phone, lockbox at 18:15, 5-min rule re-armed
 - **Salah**: ALL 5 fard are the daily obligation. Rebuild rungs = habit-training focus (Wk1 Fajr+Dhuhr+Isha emphasis), NOT permission to skip Asr/Maghrib. Miss → resume at next prayer.
-- **Tahajjud**: NO pressure Weeks 1-2 (fix sleep first). Weeks 3-4: 1-2x/week if waking naturally.
+- **Tahajjud**: Ramish's voluntary choice from Day 1 (Sep 14) — wake 20 min before Fajr (~04:40), 15-min tahajjud (2 rakats + istighfar + dua). CONDITIONAL on the 21:30 sleep floor: late sleep → Fajr only, zero guilt.
 - **Weekend anchors**: Sat sparring 12:00 / Sun batch cook 11:00 / Sun weekly review 20:15.
 
 ## Reels Project (V4 — MAIN ACCOUNT, manual first)

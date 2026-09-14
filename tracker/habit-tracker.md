@@ -34,7 +34,7 @@ Week 12: [78][79][80][81][82][83][84]
 Date: ___          Day: ___ of 84
 
 🕌 PRAYERS
-Fajr ☐    Dhuhr ☐    Asr ☐    Maghrib ☐    Isha ☐
+Tahajjud ☐  Fajr ☐    Dhuhr ☐    Asr ☐    Maghrib ☐    Isha ☐
 
 💪 BODY
 MMA ☐    Post-camp shake ☐    Phone away by 21:00 ☐    Asleep ~21:30 ☐

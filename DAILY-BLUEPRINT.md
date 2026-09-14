@@ -30,9 +30,11 @@
 ## 📅 WEEKDAY
 
 ```
-~04:55  ⏰ Wake → NO RE-SLEEP: stand → wudu → light ON → Fajr + adhkar (NON-FASTING days)
-        FASTING days: wake 04:15 → SUHOOR 04:20-04:55 (shake + dates + 2 eggs), ENDS ~10 min
-        before Fajr adhan — NOTHING by mouth after suhoor until iftar
+~04:40  🌙 TAHAJJUD WAKE (Ramish's choice, Sep 14) → wudu → 2 rakats + istighfar + dua (15 min) → Fajr + adhkar
+        PROTECTIVE RULE: asleep by 21:30 = tahajjud happens. Asleep past 22:00 → wake for FAJR ONLY,
+        zero guilt — nafl never eats sleep, and sleep never eats Fajr. 21:30→04:40 = ~7h10.
+        FASTING days: wake 04:15 → SUHOOR 04:20-04:50 (shake + dates + 2 eggs, ends ~10 min before
+        Fajr adhan) → tahajjud 2 rakats → Fajr. NOTHING by mouth after suhoor until iftar
         Post-Fajr: STAY OUT of bedroom. Optional: 10-15 min PAPER revision at table.
         No laptop, no new problem, no tahajjud pressure. Phone stays parked.
 06:25  🥊 Fuel + pack (15 min): bone broth + 2 dates (NON-FASTING days only — fasting: pack only). Bag checklist (taped inside):
