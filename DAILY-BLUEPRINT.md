@@ -1,5 +1,6 @@
 # ⏰ Ramish Daily Blueprint — v11 (Sep 14, 2026 · V4 RESTART · post dual-audit)
 
+> **v11.1 (Sep 14 PM, Ramish-confirmed):** BRUTE Manpada has NO shower → home airlock is FINAL: shake → lockbox → shower → balcony book 20-30 min → breakfast → leave 10:30. Morning check-in lands 10:45 IST (desk arrival), not mid-camp.
 > **v11 (dual audit Opus 5 + GPT-5.6 Sol, Sep 14):** v10 was another perfect-day plan on the same fragile chain that killed V3. v11 is built for **chain-break resilience**, not precision: sleep floor raised, post-camp = airlock (no study), career shrunk to few safe anchors, phone = physical placement only, **Recovery Mode replaces pause/restart cycles**.
 
 ## 🎯 PRIORITY ORDER (Ramish's explicit order)
@@ -41,8 +42,9 @@
 T+0    🔑 Phone → LOCKBOX first touch (before sitting; no bed, no sofa)
         🔊 SHAKE immediately (500ml Ultra + 2 whey). FASTING days: nothing by mouth — no water, no shake; iftar at Maghrib adhan.
 T+10   🚿 Shower → dress for office
-T+25   ☀️ Breakfast: 2 fresh eggs + curd + fruit
-        Airlock optional extras ONLY if fully ready: 10-min house reset / paper notes.
+T+25   📖 BALCONY: book reading 20-30 min — analog, NO phone (Ramish-confirmed: this works)
+T+55   ☀️ Breakfast: 2 fresh eggs + curd + fruit
+        Optional if fully ready: 10-min house reset / pack office box.
         NO required DSA here. Post-camp is the #2 relapse window — it's a corridor, not a room.
 10:30  🎒 Leave for office — FIXED.
 

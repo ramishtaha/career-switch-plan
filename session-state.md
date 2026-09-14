@@ -65,7 +65,7 @@
 - **Rule**: pray + train = the streak SURVIVES a bad week. Career output mints a Day. Never again does the ledger call a day you prayed and trained "missed".
 
 ## Daily Blueprint
-- **Times live in ONE place only:** `DAILY-BLUEPRINT.md` (v11, Sep 14 — post dual-audit: sleep floor 21:30→04:55, post-camp AIRLOCK, one office career anchor 13:05, Spring Boot Tue/Thu 30min, family call 20:35-20:55, RECOVERY MODE replaces pause).
+- **Times live in ONE place only:** `DAILY-BLUEPRINT.md` (v11, Sep 14 — post dual-audit: sleep floor 21:30→04:55, post-camp AIRLOCK (shower → balcony book 20-30 → breakfast — Ramish-confirmed, no gym shower), one office career anchor 13:05, Spring Boot Tue/Thu 30min, family call 20:35-20:55, RECOVERY MODE replaces pause).
 - This file does NOT copy times. If a time shows up here, it's stale — trust the blueprint.
 - Post-change drift check: run the mentor skill's `scripts/drift-audit.py` whenever blueprint or SOT change.
 
