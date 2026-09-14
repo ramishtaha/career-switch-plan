@@ -1,4 +1,4 @@
-# 📋 Progress Tracker — Ramish's 12-Week Plan V2
+# 📋 Progress Tracker — Ramish's 12-Week Plan V4-restart
 
 > Auto-updated by Hermes via Evening Close-Out. Read at session start.
 > COMPLETION-LOCKED: Day N = Nth day WORKED, not calendar date. Missed days extend arc, never reset.
@@ -10,12 +10,12 @@
 > **Counts live in `session-state.md` — this file is the GRID only.**
 > If counts disagree, `session-state.md` wins. See `tracker/state-machine.md`.
 
-- **Plan Version:** V3-restart (fresh start, Sep 1, 2026)
+- **Plan Version:** V4-restart (fresh start, Sep 15, 2026)
 - **Active Days Worked:** 0 / 84 *(see session-state.md for current)*
 - **DSA / Designs / Mocks / Apps:** *(see session-state.md — single source of truth)*
 - **Career Path:** Plan A (Java+Spring→BFSI GCC) primary, B (AI) fallback Wk6, C (delay) safety net
-- **System Phase:** `active` (Day 1 = Sep 1, 2026)
-- **Pre-Restart:** V1 (Jul 27-30, 3 DSA Copilot), V2-first (Aug 3-9, 2 days), V2-restart (Aug 17, stalled). Fresh start Sep 1, 2026. All carryover cleared.
+- **System Phase:** `active` — V4 restart (Day 1 = Tue Sep 15, 2026; all trackers reset per Ramish's request)
+- **Pre-Restart:** V1 (Jul 27-30, 3 DSA Copilot), V2-first (Aug 3-9, 2 days), V2-restart (Aug 17, stalled), V3-restart (Sep 1, died Sep 4 — 9 missed days). Fresh start Sep 15, 2026 (V4). All carryover cleared.
 
 ---
 
@@ -23,41 +23,41 @@
 
 | Bar | Requirement |
 |-----|-------------|
-| 🟢 **Low Bar** (streak alive) | 1 DSA + 30-min Spring Boot + 1 career action |
-| 🟡 **High Bar** (push day) | 4 DSA + full Spring Boot session + full career block |
-| 🔥 **Banked Day** | 3 days of high-bar work in one day = bank 2 credit days |
+| 🟩 **FLOOR** (streak alive) | Fajr + camp (or rest) + current salah rung → **streak PRESERVED, Day does NOT increment** |
+| 🔵 **DAY** (a real day) | Floor + one worked item (1 DSA / 30-min Spring Boot / design / mock) → Day +1 |
+| 🟡 **STRONG** (push day) | Floor + 2+ DSA + Spring Boot commit → Day +1 |
 | 😴 **Rest Day** | "rest day" → zero guilt, arc continues |
-| ⬜ **Missed** | Extend arc, never reset. Zero guilt. Resume. |
+| ⬜ **Missed** | Floor not met → streak resets, arc extends. One sentence. Resume. |
 
 ---
 
 ## PHASE 1: FOUNDATION (Weeks 1-4) — "Build the Machine"
 
-### WEEK 1 (Sep 1-7): DSA Basics + Spring Boot Skeleton + Habit System
+### WEEK 1 (Sep 15-21): DSA Basics + Spring Boot Skeleton + Habit System
 **Theme:** Get the machine running. NO cloud. NO Kubernetes. NO AI. Just basics.
 **Primary Focus:** Arrays & Hashing (DSA) + Spring Boot Project Setup
 **Week 1 REAL Goal:** Habit system locked in (phone out of bedroom, greyscale, evening anchor)
 
 | # | Day | Date | DSA | Spring Boot | Habit System | Bar |
 |---|-----|------|-----|-------------|-------------|-----|
-| 1 | Wed | Sep 1 | Contains Duplicate, Two Sum (UNAIDED re-solve) | Setup JDK 17, IntelliJ, Maven, start.spring.io, push to GitHub | Charger OUT, greyscale ON, app blocker | ⬜ |
-| 2 | Thu | Sep 2 | Valid Anagram, Group Anagrams (UNAIDED) | Product entity + Repository, H2 DB, GET/POST endpoints | Sleep 22:30, Fajr on time | ⬜ |
-| 3 | Fri | Sep 3 | Top K Frequent, Encode/Decode Strings | ProductService layer, @ControllerAdvice exception handling | 5-Min Rule (home→wudu→pray) | ⬜ |
-| 4 | Sat | Sep 4 | Products of Array Except Self | Category entity (One-to-Many), validation | Qailulah 25-min timer | ⬜ |
-| 5 | Sun | Sep 5 | Revision: re-solve 2 without notes | Clean code, comments, 2 unit tests | Weekly Review | ⬜ |
-| 6 | Mon | Sep 6 | Valid Palindrome, Two Sum II | Validation (@Valid), Postman testing | Batch cook Sunday | ⬜ |
-| 7 | Tue | Sep 7 | Revision + REST | REST | Journal: weekly prep for Monday | ⬜ |
+| 1 | Tue | Sep 15 | Contains Duplicate, Two Sum (UNAIDED re-solve) | Setup JDK 17, IntelliJ, Maven, start.spring.io, push to GitHub | Charger OUT, greyscale ON, app blocker | Day 1 ✅ |
+| 2 | Wed | Sep 16 | Valid Anagram, Group Anagrams (UNAIDED) | Product entity + Repository, H2 DB, GET/POST endpoints | Sleep 22:00, Fajr on time | Day 2 ✅ |
+| 3 | Thu | Sep 17 | Top K Frequent, Encode/Decode Strings | ProductService layer, @ControllerAdvice exception handling | 5-Min Rule (home→wudu→pray) | Day 3 ✅ (last of first stint) |
+| 4 | Fri | Sep 18 | Products of Array Except Self | Category entity (One-to-Many), validation | Qailulah 25-min timer | ⬜ missed |
+| 5 | Sat | Sep 19 | Revision: re-solve 2 without notes | Clean code, comments, 2 unit tests | Weekly Review | ⬜ missed |
+| 6 | Sun | Sep 20 | Valid Palindrome, Two Sum II | Validation (@Valid), Postman testing | Batch cook Sunday | ⬜ missed |
+| 7 | Mon | Sep 21 | Revision + REST | REST | Journal: weekly prep for Monday | ⬜ missed |
 
 **Week 1 Deliverables:**
 - [ ] 8 DSA problems (Arrays, Hashing, Two Pointers start)
 - [ ] Spring Boot CRUD app running locally with H2
 - [ ] Project on GitHub with 5+ commits
 - [ ] Phone out of bedroom for 7 consecutive nights
-- [ ] Sleep before 22:30 at least 5 nights
+- [ ] Sleep before 22:00 at least 5 nights
 
 ---
 
-### WEEK 2 (Sep 8-14): Sliding Window + Docker + Resume v1
+### WEEK 2 (Oct 7-28): Sliding Window + Docker + Resume v1
 **Theme:** DSA patterns deepen. Containerize. Start resume.
 **Primary Focus:** DSA patterns + Docker + Resume
 
@@ -79,7 +79,7 @@
 
 ---
 
-### WEEK 3 (Sep 15-21): Trees + First System Design + Start Applications
+### WEEK 3 (Sep 15-Oct 5): Trees + First System Design + Start Applications
 **Theme:** Add distributed systems thinking. Start the referral engine.
 **Primary Focus:** Trees (DSA) + System Design intro + Microservices
 
@@ -103,7 +103,7 @@
 
 ---
 
-### WEEK 4 (Sep 22-28): Heaps + Kafka + Cloud Deploy
+### WEEK 4 (Oct 6-12): Heaps + Kafka + Cloud Deploy
 **Theme:** Add the missing distributed systems skill. Deploy to cloud.
 **Primary Focus:** Heaps (DSA) + Kafka integration
 
@@ -130,7 +130,7 @@
 
 ## PHASE 2: DEPTH (Weeks 5-8) — "Interview-Grade Engineer"
 
-### WEEK 5 (Sep 29-Oct 5): Graphs + Spring Internals + AI Integration
+### WEEK 5 (Oct 13-19): Graphs + Spring Internals + AI Integration
 **Theme:** Spring Boot under the hood. Add the AI differentiator.
 
 | # | Day | DSA | Spring Boot | AI Integration | Career | Bar |
@@ -152,7 +152,7 @@
 
 ---
 
-### WEEK 6 (Oct 6-12): Tries + Concurrency + RAG + ⚠️ DECISION POINT
+### WEEK 6 (Oct 20-26): Tries + Concurrency + RAG + ⚠️ DECISION POINT
 **Theme:** Java concurrency is a core interview topic. Master it.
 **⚠️ END OF WEEK 6 — PLAN A/B/C DECISION:**
 - Spring Boot clicking → continue Plan A
@@ -179,7 +179,7 @@
 
 ---
 
-### WEEK 7 (Oct 13-19): DP 1D + JVM Internals + Observability
+### WEEK 7 (Oct 27-Nov 2): DP 1D + JVM Internals + Observability
 **Theme:** DP is the hardest DSA topic. Start early. JVM = senior engineer differentiator.
 
 | # | Day | DSA | Spring Boot / DevOps | System Design | Career | Bar |
@@ -201,7 +201,7 @@
 
 ---
 
-### WEEK 8 (Oct 20-26): DP 2D + Microservices Patterns + Mid-Point Review
+### WEEK 8 (Nov 3-9): DP 2D + Microservices Patterns + Mid-Point Review
 **Theme:** Advanced DP + production patterns. Halfway checkpoint.
 
 | # | Day | DSA | Spring Boot | AI Integration | System Design | Career | Bar |
@@ -226,7 +226,7 @@
 
 ## PHASE 3: SHARPENING (Weeks 9-12) — "Interview Ready"
 
-### WEEK 9 (Oct 27-Nov 2): LeetCode Speed Run + Security + Active Interviews
+### WEEK 9 (Nov 10-16): LeetCode Speed Run + Security + Active Interviews
 **Theme:** DSA speed. Security hardening. Start active interviewing.
 
 | # | Day | DSA | Spring Boot | DevOps | Career | Bar |
@@ -250,7 +250,7 @@
 
 ---
 
-### WEEK 10 (Nov 3-9): LeetCode Hard + System Design Mocks
+### WEEK 10 (Nov 17-23): LeetCode Hard + System Design Mocks
 **Theme:** Hard problems. System design under pressure.
 
 | # | Day | DSA | System Design | Career | Bar |
@@ -271,7 +271,7 @@
 
 ---
 
-### WEEK 11 (Nov 10-16): Contest Simulation + Final Project Polish
+### WEEK 11 (Nov 24-30): Contest Simulation + Final Project Polish
 **Theme:** Contest-level DSA. Project documentation.
 
 | # | Day | DSA | Project | System Design | Career | Bar |
@@ -293,7 +293,7 @@
 
 ---
 
-### WEEK 12 (Nov 17-23): Final Revision + Offers + Negotiation
+### WEEK 12 (Dec 1-7): Final Revision + Offers + Negotiation
 **Theme:** Close the loop. Get the offer.
 
 | # | Day | DSA | Spring Boot | System Design | Career | Bar |
@@ -321,7 +321,7 @@
 
 - V3 plan starts Tuesday, September 1, 2026
 - V1 ran Jul 27-30: 3 DSA problems (all Copilot). V2-first ran Aug 3-9: 2 working days. V2-restart started Aug 17: stalled.
-- V3 changes: fresh start Sep 1, all carryover cleared, same V2 curriculum (one primary focus per week, ~100 DSA target, one incremental project)
+- V3 changes: fresh start Sep 15, all carryover cleared, same V2 curriculum (one primary focus per week, ~100 DSA target, one incremental project)
 - Habit system is Week 1's REAL goal — without fixing reels/sleep, nothing else sticks
 - Day numbers = working days, NOT calendar dates. Missed days extend the arc, never reset.
 - Evening Close-Out cron syncs ALL tracker files when Ramish replies to check-in.

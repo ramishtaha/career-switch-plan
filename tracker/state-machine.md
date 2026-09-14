@@ -28,7 +28,7 @@
 |-------|---------|--------------|
 | `pre-launch` | Before Day 1 start date | Work is tracked as "carryover." Doesn't increment Day count. Doesn't break streak (no streak yet). |
 | `active` | Day 1 begins (first worked day) | Normal operation. Every worked day increments Day count. |
-| `paused` | Ramish says "pausing" or 7+ consecutive missed days | Arc freezes. Streak resets. Resume any time — Day count continues from where it left off. |
+| `recovery` (V4) | ANY single chain-break (see Recovery Mode, below) or 7+ consecutive missed days | 3-day Recovery Mode card runs AUTOMATICALLY in the SAME arc — no reset, no new version, no catch-up. 7+ misses = honest review alert, never a blank `paused` state. Streak resets on missed days as before; Day count ALWAYS continues. |
 | `complete` | Day 84 worked + offer OR Ramish says "done" | System locks. Final review. |
 
 ---
@@ -48,24 +48,34 @@
 - ❌ Pure planning/chatting with Hermes
 - ❌ Claude cert study only (that's office bonus, not a primary block)
 
-### "Day Worked" vs "Bar Hit" (V3.1 — updated Sep 5 post-audit)
-- A day can be "worked" (Day N increments) but bar can be:
-  - 🟢 **Low Bar**: Open LeetCode and READ the problem. The bar is showing up. (Day counts)
-  - 🔵 **Normal Bar**: 1-2 DSA problems + Spring Boot session + 1 career action
-  - 🟡 **High Bar** (hyperfocus day): 3+ DSA problems + full Spring Boot + full career block
-  - 🟠 **Partial**: Did something, but not all normal-bar items. Day still counts. Bar = partial.
-  - 😴 **Rest Day**: Ramish says "rest day." Day does NOT increment. Zero guilt.
-  - ⬜ **Missed**: No work, no "rest day" declared. Day does NOT increment. Arc extends.
+### Bar System v4.0 (Sep 14, 2026 — Ramish-approved 3-tier; fixes the measurement bug where deen+camp days scored MISSED)
+- 🟩 **FLOOR** (streak alive, Day does NOT increment): Fajr + camp (or declared rest) + current salah rung (Wk1: Fajr+Dhuhr+Isha). Priorities #1-2 = the streak floor.
+- 🔵 **DAY** (Day +1): FLOOR + one worked item (1 DSA problem / 30+ min Spring Boot / 1 system design / 1 mock).
+- 🟡 **STRONG** (Day +1, noted): FLOOR + 2+ DSA + a Spring Boot commit.
+- 😴 **Rest Day**: declared → Day does NOT increment, streak PRESERVED.
+- ⬜ **MISSED**: FLOOR not met → streak resets, arc extends. Log one sentence. Move on. Zero shame.
+- Streak: increments on 🔵/🟡, preserved on 🟩/😴, resets ONLY on ⬜.
+- V3 Sep 4-13 under v4.0 = 9 × 🟩 FLOOR days (deen+camp held) — history rows stand as written; the rule is what changed.
 
 ---
 
 ## 🔥 STREAK RULES
 
-- **Streak increments** on any Day Worked (🟢 or 🟡 or 🟠)
+- **Streak increments** on 🔵 DAY or 🟡 STRONG; **preserved** on 🟩 FLOOR and 😴 rest; **resets to 0** only on ⬜ MISSED (floor not met)
 - **Streak resets to 0** on Missed Day (not declared rest)
 - **Rest Day** does NOT break streak — it **PRESERVES** it (pause, not break). Next worked day continues streak.
   - Example: 5-day streak → rest day → work day = 6-day streak (not reset)
-- **7+ consecutive missed days** → phase becomes `paused`, streak resets to 0
+- **7+ consecutive missed days** → triggers Recovery Mode review, streak resets to 0 (phase never goes blank-paused in V4)
+
+### 🔄 RECOVERY MODE (V4 — replaces pause/restart cycles)
+Triggers automatically the morning after ANY ONE of: phone past cutoff delaying sleep · re-sleep after Fajr · post-camp phone binge · binge-caused missed day. Runs **3 calendar days** in the SAME arc — no reset, no new arc version, no catch-up:
+1. Resume salah at the next prayer (office Dhuhr/Asr + post-Isha family-call anchor)
+2. Fajr → camp → airlock → office. No bed/sofa after camp.
+3. One preselected 10-25 min career task at office, phone physically away
+4. Reel clips OK; publishing queued/scheduled only
+5. NO tahajjud target, extra MMA, catch-up work, tracker setup, or "restart tomorrow"
+6. Phone away after family call; sleep target 21:30
+A miss DURING Recovery Mode → another 3 days (nothing erased). **There is no V5.**
 - Backfill within 48 hours: "I did X yesterday" → day counts, streak continues if gap < 48 hrs
 
 ---
@@ -137,7 +147,7 @@ Every problem gets ONE row. Fields:
 
 ### Weekly (not aggregate — resets every Monday)
 - Prayers: count per day, not aggregate. Friday review shows "X/7 days each prayer"
-- Sleep: count nights where in bed by 22:30
+- Sleep: count nights where in bed by 22:00
 - Reels: count minutes per day (estimate is fine)
 - 5-Min Rule: count days where home → wudu → pray → THEN rest
 - Phone out of bedroom: count nights
@@ -181,7 +191,7 @@ Every problem gets ONE row. Fields:
 
 ```
 IF day_worked = false AND rest_day_declared = true:
-    bar = "rest"
+    bar = "rest" 😴
     day_count += 0
     streak PRESERVED (not reset — rest is pause, not break)
 
@@ -189,10 +199,21 @@ ELIF dsa_count >= 4 AND spring_boot_minutes >= 90 AND career_actions >= 1:
     bar = "high" 🟡
     day_count += 1
     streak += 1
-    IF work_volume >= 3_days_worth: banked_days += 2 (max 5)
 
-ELIF (dsa_count >= 1 AND spring_boot_minutes >= 30) OR (dsa_count >= 2 AND office_day = true):
-    bar = "low" 🟢
+ELIF dsa_count == 0 AND spring_boot_minutes < 30 AND career_actions == 0 AND attendance_bar_met = true:
+    # 🟢 ATTENDANCE BAR ("20-min rule"): opened LeetCode + READ 1 problem,
+    # or any single 20-min focused study block, or declared it from office
+    bar = "attendance" 🟢
+    day_count += 0        # streak-keeper — NEVER increments Day N (no hollow-day arc inflation)
+    streak PRESERVED      # keeps the streak alive; next Normal day continues it
+
+ELIF dsa_count >= 1 AND spring_boot_minutes >= 30 AND career_actions >= 1:
+    bar = "normal" 🔵
+    day_count += 1
+    streak += 1
+
+ELIF dsa_count >= 2 AND office_day = true:
+    bar = "normal" 🔵
     day_count += 1
     streak += 1
 
@@ -207,6 +228,12 @@ ELSE:
     streak = 0
     IF 7+ consecutive missed: phase = "paused"
 ```
+
+> 🔵 **Normal Bar fixes the V3.1 zombie:** there is now ONE named tier for a full
+> normal day (previously labelled "low"), and the former V3.1 "Low Bar = read-only,
+> day counts" is replaced by 🟢 **Attendance** above — read-only days keep the
+> streak alive but no longer increment Day N. The 20-min rule KEEPS THE STREAK;
+> it never mints a Day.
 
 ---
 
@@ -229,7 +256,7 @@ ELSE:
 ### Scenario 1: Boss yells → 10 DSA problems
 - Day counts as 1 (not 10)
 - Bar = 🟡 high (massively exceeded)
-- Bank 2 credit days (work volume = 3+ days)
+- No banking (system removed) — tomorrow starts fresh at the same Low Bar
 - DSA tracker: 10 new rows, all logged
 - Emotion noted: "trigger: office stress → channeled into DSA" (positive redirect!)
 
@@ -249,7 +276,7 @@ ELSE:
 ### Scenario 4: Hyperfocus → finishes entire Spring Boot week in one Saturday
 - Day counts as 1
 - Bar = 🟡 high
-- Banked days: if work covers 3+ days → bank 2
+- No banked credit — extra work is momentum only
 - Note: "ahead of schedule on Spring Boot — Week X topics done early"
 - Next week: can focus more on DSA or system design (flexibility)
 
@@ -293,6 +320,14 @@ ELSE:
 - If Ramish says "burnout" → force rest day + reduce bar to minimum
 - No shame. Recovery IS training.
 
+### Scenario 11: Office 20-min DSA blocks (v3.2 — the "20+20" pattern)
+- Office day, two 20-min DSA blocks (mid-morning + pre-departure), TCS laptop
+- **Block content = revision / re-solve / reading** — Copilot-assisted solves get 🟠 and join the re-solve queue (unaided % must rise before Oct)
+- A 20-min block alone = 🟢 **Attendance** (streak preserved, Day does NOT increment)
+- An unaided (🟢) solve inside an office block counts as a full Day Worked contribution like any home solve
+- Never let office blocks replace the post-camp flex unaided block on light days — office is capacity, not the main engine
+- 🔴 Re-solve queue priority: office 🟠 problems are re-solved in the post-camp flex block or Saturday deep-work, before new problems
+
 ---
 
 ## 📝 FILE SYNC PROTOCOL
@@ -324,4 +359,6 @@ ELSE:
 5. **No manual edits to counts:** Ramish reports work, Hermes updates. Ramish doesn't edit state.md.
 6. **Re-solve = update, not new row:** Prevents count inflation.
 7. **Pre-launch = carryover, not Day 1:** Prevents day count drift.
-8. **Banked days expire:** Prevents hoarding. Momentum, not savings.
+8. **No banked credit anywhere:** Extra work = momentum, not savings (removed Sep 5; purge any app/mirror that still shows "banked").
+9. **Bar definition is VERBATIM in every file that shows bars** (session-state, state-machine, progress grid, DAILY-LEDGER header, and any Rafiq display). Six tiers, one wording: attendance 🟢 / normal 🔵 / high 🟡 / partial 🟠 / rest 😴 / missed ⬜.
+10. **The app never computes Day/streak:** Rafiq renders counters pushed from Hermes (bridge block) or hides them. Phone-side counters are decorative, never authoritative.

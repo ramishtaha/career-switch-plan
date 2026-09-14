@@ -10,7 +10,7 @@
 
 > All counts live in `session-state.md` — the SINGLE SOURCE OF TRUTH.
 > If any file disagrees, `session-state.md` wins. See `tracker/state-machine.md`.
-> **Daily schedule lives in `DAILY-BLUEPRINT.md` (September Camp edition).**
+> **Daily schedule lives in `DAILY-BLUEPRINT.md` (v11, Sep 14 — V4 restart, post dual-audit). Bar definition = v4.0 3-tier (🟩 floor / 🔵 day / 🟡 strong / 😴 rest / ⬜ missed) in `tracker/state-machine.md` — identical in all files.**
 > **Reel shot list + editing workflow lives in Hermes skill `gemini-omni-reel`.**
 
 | Metric | Status |

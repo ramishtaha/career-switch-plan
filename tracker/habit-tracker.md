@@ -9,7 +9,7 @@
 
 > Fill one box per day WORKED. Missed day? Leave blank, arc extends.
 > Rest day? Mark 😴 — streak PRESERVED (pause, not break).
-> Legend: ✅ = low bar hit | 🔥 = high bar hit | 😴 = rest day | ⬜ = missed
+> Legend: 🟩 = floor (streak alive) | 🔵 = day (Day +1) | 🟡 = strong | 😴 = rest day | ⬜ = missed
 
 ```
 Week 1:  [01][02][03][04][05][06][07]
@@ -34,10 +34,10 @@ Week 12: [78][79][80][81][82][83][84]
 Date: ___          Day: ___ of 84
 
 🕌 PRAYERS
-Fajr ☐    Dhuhr ☐    Asr ☐    Maghrib ☐    Isha ☐    Tahajjud ☐
+Fajr ☐    Dhuhr ☐    Asr ☐    Maghrib ☐    Isha ☐
 
 💪 BODY
-MMA ☐    Post-workout meal ☐    Sleep by 22:30 ☐
+MMA ☐    Post-camp shake ☐    Phone away by 21:00 ☐    Asleep ~21:30 ☐
 
 📚 LEARNING
 DSA (unaided) ☐    Spring Boot ☐    Career action ☐
@@ -83,7 +83,7 @@ One thing to fix: _____________________________________________
 ```
 Week ___ (___ to ___)
 
-Sleep by 22:30:    ___/7 nights
+Sleep by 22:00:    ___/7 nights
 Fajr on time:      ___/7 days
 Tahajjud:          ___/7 days
 Maghrib 5-min rule: ___/7 days (home → wudu → pray → then rest)
@@ -106,7 +106,7 @@ Career actions: ___
 
 | Phase | Weeks | Target | Status |
 |-------|-------|--------|--------|
-| 1: Fix Sleep + Fajr | 1-2 | Sleep 22:30, Fajr on time, stay up after Fajr | ⬜ |
+| 1: Fix Sleep + Fajr | 1-2 | Sleep 22:00, Fajr on time, stay up after Fajr | ⬜ |
 | 2: Add Tahajjud | 3-4 | 1-2x/week, wake naturally before Fajr | ⬜ |
 | 3: Tahajjud regular | 5-12 | 3-4x/week → daily insha'Allah | ⬜ |
 

@@ -1,264 +1,244 @@
-# 🥊 Ramish Diet Plan — Competition Cut + Career Switch Fuel
-## 83kg → 70kg | 12-Week Cut | ₹250+/day | North Indian
+# 🥊 Ramish Diet Plan v2 — Competition Cut + Career Switch Fuel
+## 83kg → 70kg target | Weekday + Camp structure | Honest numbers (v2, Sep 13 post-audit)
 
-> **Goal:** Lose 13kg over 12 weeks while training MMA daily + studying 3+ hrs.
-> **Protein:** 170g/day (2.05g/kg) | **Calories:** ~2050/day (350 deficit)
-> **Principle:** Batch cook Sunday. Heat + eat weekday. Low carb dinner.
-> **NO DAL, NO RICE, NO ROTI.** Carbs from fruit + dates + milk only. Near-keto.
-
----
-
-## 📊 DAILY TARGETS
-
-| Metric | Target | Why |
-|--------|--------|-----|
-| **Calories** | ~2050 kcal/day | 350 deficit below ~2400 maintenance |
-| **Protein** | 170g/day | 2.05g/kg — preserves muscle on cut |
-| **Carbs** | ~50-60g/day | From fruit + dates + milk lactose only. Near-keto. |
-| **Fat** | ~100g/day | Primary energy source now (no carbs). Meat, ghee, milk fat, curd. |
-| **Meals** | 2 main + office (optional) | Pre-workout, post-workout, office (skip most days) |
-| **Dinner** | ZERO CARB | Protein + veg + curd only. Body burns fat overnight. |
+> **Why v2:** the Sep 13 dual audit (Opus 5 + GPT-5.6 Sol) showed v1's paper math was fiction.
+> This version states the real arithmetic — every total below is the SUM of its own rows.
+> **New pillars:** (1) Office lunch box 14:00 — kills the 10-11h food gap; (2) fasting days
+> rebuilt to ~1,900 kcal / 165g P with the shake at suhoor; (3) electrolytes + fluid cap
+> (nocturia guard + 04:45 wake protection); (4) lighter breakfast + lighter dinner.
 
 ---
 
-## 🍽️ DAILY MEAL STRUCTURE
+## 📊 DAILY TARGETS (honest)
 
-### MEAL 1 — PRE-WORKOUT (05:45 AM, before MMA)
-> Light, fast-digesting. Fuel the session.
+| Metric | Target | Reality at v2 |
+|--------|--------|---------------|
+| **TDEE** (83kg + 6-7 sessions/wk, Metabolic-normal) | ~2,900-3,300 kcal | stated openly — no more "2400" fiction |
+| **Calories on plan** | ~2,200-2,400 (varies by day) | deficit ~500-1,000 → ~0.9-1.1 kg/week |
+| **Protein** | ≥170g/day | ~190g on the main day (sum of rows) |
+| **Carbs** | ~50-60g | fruit + dates + milk lactose only (near-keto, unchanged) |
+| **Fat** | ~95-110g | Ultra milk, toned milk, meat, ghee, curd, eggs |
+| **Meals** | Pre-workout → Shake → Breakfast → **Office box 14:00 (MANDATORY)** → Dinner → Haldi doodh | 10-11h gap GONE |
+| **Dinner** | LIGHT (protein + veg + curd) | no more 6-egg fallback nights |
+| **Weight-loss ceiling** | >1kg/week → add 1 egg + 1 fruit | unchanged rule |
 
-| Item | Amount | kcal | Protein |
-|------|--------|------|---------|
-| Bone broth (standing habit) | 1 cup | 40 | 6g |
-| 2 dates OR 1 banana | — | 120 | 1g |
-| **Total** | | **~160** | **~7g** |
-
----
-
-### MEAL 2 — POST-WORKOUT / BREAKFAST (08:00 AM)
-> Largest meal. Carries major protein load.
-
-**Step 1 — Shake IMMEDIATELY post-workout (within 10 min):**
-| Item | Amount | kcal | Protein |
-|------|--------|------|---------|
-| Mother Dairy Ultra milk (7% fat) | 500ml | 475-500 | ~16g |
-| Whey protein | 2 scoops | 200 | 50g |
-| **Shake total** | | **~675-700** | **~66-70g** |
-
-**Step 2 — Breakfast (15-20 min later):**
-| Item | Amount | kcal | Protein |
-|------|--------|------|---------|
-| Batch protein (chicken/beef/fish) | 200g cooked | 450-500 | 45-55g |
-| 3 boiled eggs (fresh daily) | 3 | 210 | 18g |
-| Curd/dahi | 1 bowl | 80 | 4g |
-| Seasonal fruit | 1 | 80-100 | 1g |
-| **Breakfast total** | | **~820-890** | **~68-78g** |
-
-> **Combined post-workout:** ~1490-1610 kcal, ~134-148g protein
+> If weight stalls 2 weeks: reduce fruit to 1/day first, affirm portions second.
 
 ---
 
-### MEAL 3 — OFFICE (13:00)
-> Skipped most days. Cafeteria has limited protein.
+## 🍽️ MEAL STRUCTURE (normal weekday, camp day)
 
-**Option A — Skip (most days):** Water + tea.
-**Option B — Cafeteria snack (some days):**
+### M1 — PRE-WORKOUT (05:45)
 | Item | kcal | Protein |
 |------|------|---------|
-| Double boiled egg cheese sandwich | 350 | 18g |
-| 2-3 extra boiled eggs | 140-210 | 12-18g |
-| **Total** | **~350-560** | **~18-36g** |
+| Bone broth 1 cup | 40 | 6g |
+| 2 dates OR 1 banana | 115 | 1g |
+| **M1 total** | **155** | **7g** |
 
-> Breakfast + dinner carry the load. Office is bonus.
+### M2 — SHAKE (on home arrival — T+0, ANY arrival time)
+| Item | kcal | Protein |
+|------|------|---------|
+| Mother Dairy Ultra 7% 500ml | 488 | 16g |
+| Whey 2 scoops | 200 | 50g |
+| **M2 total** | **688** | **66g** |
+
+> **NON-NEGOTIABLE.** Within 10 min of walking in, whether that's 07:40 or 08:45.
+
+### M3 — BREAKFAST (T+45, lighter than v1)
+| Item | kcal | Protein |
+|------|------|---------|
+| 2 boiled eggs (fresh) | 140 | 12g |
+| Curd 1 bowl | 80 | 4g |
+| Seasonal fruit 1 | 80-100 | 1g |
+| 1 tsp ghee / few nuts | 45-65 | 0g |
+| **M3 total** | **~345-385** | **~17-26g** |
+
+> v1 loaded 200g batch protein here — it moved to the office box. Morning stays big enough to train on, small enough to leave room for 14:00.
+
+### M4 — OFFICE BOX (14:00 — MANDATORY, packed at 21:00 reset, reheated at office)
+| Item | kcal | Protein |
+|------|------|---------|
+| Batch protein 200g (chicken/beef/fish from Sunday cook) | 450-520 | 45-55g |
+| Sabzi OR salad bowl | 80 | 3g |
+| **M4 total** | **~530-600** | **~48-58g** |
+
+> This closes the 08:45→19:24 gap to a sane 5.5h. Kills the 19:00 peak hunger that fed the relapse window. Office days WITHOUT a box = violation, plan a vegetarian-fallback (3 boiled eggs + curd from office canteen counts as a 1-off, not a routine).
+
+### M5 — DINNER (~19:45, after Maghrib — lighter than v1)
+| Item | kcal | Protein |
+|------|------|---------|
+| Batch protein 100-150g (from Sunday rotation) OR 3-4 eggs if batch ran out | 250-400 | 28-40g |
+| Sabzi 1 bowl | 80 | 3g |
+| Curd 1 bowl | 80 | 4g |
+| **M5 total** | **~410-560** | **~35-47g** |
+
+### M6 — HALDI DOODH (22:00, toned 3% only)
+| Item | kcal | Protein |
+|------|------|---------|
+| Toned milk 250ml + haldi + black pepper | 150 | 8g |
+
+### DAILY TOTAL (sum of rows — honest)
+**~2,280-2,505 kcal · ~180-200g protein · carbs ~40-60g · fat ~95-115g**
+*Minus missed-office-box days: subtract the box — still 1,700-1,900 kcal.*
 
 ---
 
-### MEAL 4 — DINNER (19:45, after Maghrib)
-> ZERO CARB. Protein + veg + curd only. Body burns fat overnight.
+## 🕌 FASTING DAYS (Mon/Thu) — REBUILT
+> v1's fasting day totaled ~1,500 kcal / 110g against a claimed 1,800-1,950 — trained
+> fasted at 62% of target. One contradiction (shake "not before Maghrib" vs sample week
+> showing a daytime shake) resolved with ONE ruling:
 
-| Item | Amount | kcal | Protein |
-|------|--------|------|---------|
-| Batch protein OR 6 boiled eggs | 200g OR 6 eggs | 350-450 | 35-50g |
-| Sabzi (spinach/bhindi/seasonal veg) | 1 bowl | 80 | 3g |
-| Curd/dahi | 1 bowl | 80 | 4g |
-| Haldi doodh — Toned milk (3% fat) (pre-sleep, 22:00) | 250ml | ~150 | 8g |
-| **Total** | | **~600-700** | **~47-62g** |
+**⚡ The shake ruling: on fasting days the SHAKE MOVES TO SUHOOR (last 10 min before Fajr adhan). On normal days it stays post-camp.**
 
-> **Haldi doodh uses toned milk (3% fat), NOT Ultra.** Same haldi + black pepper benefit, ~10g less fat/day. Ultra is for the post-workout shake only — taste + fat where you actually notice it.
+### SUHOOR (pre-Fajr, ~04:30-05:00)
+| Item | kcal | Protein |
+|------|------|---------|
+| Ultra shake (500ml + 2 scoops whey) — **displaced from post-camp** | 688 | 66g |
+| 4 boiled eggs (fresh) | 280 | 24g |
+| Electrolyte pinch (see hydration) | — | — |
+| **Suhoor total** | **~968** | **~90g** |
+
+### IFTAR (Maghrib ~19:09, break IMMEDIATELY)
+| Item | kcal | Protein |
+|------|------|---------|
+| 2-3 dates + water | 90 | 1g |
+| Batch protein 250g (heaviest portion of the batch) | 560-640 | 55-62g |
+| Sabzi 1 bowl + curd 1 bowl | 160 | 7g |
+| **Iftar total** | **~810-890** | **~63-70g** |
+
+### Post-Isha (optional if hunger persists)
+| 4-5 boiled eggs OR 120g protein | 240-300 | 20-26g |
+
+### Fasting-day total (sum of rows — honest)
+**~1,930-2,000 kcal · ~175-186g protein** (with the optional post-Isha add) or ~1,780 kcal / 163g P without it — both above the 1,900/150 target at minimum.
+
+### Fasting-day training rule (unchanged, one line)
+Camp 07:00 fasted = allowed if feeling strong ( Protocol A). Dizzy → break the fast. Health first. No guilt either way (Protocol B exists for a reason).
 
 ---
 
-### 📊 DAILY TOTALS
+## 💧 HYDRATION + ELECTROLYTES (NEW — the nocturia guard)
+> Full-slab audit flagged zero protocol for a near-keto athlete running 6-7 sessions in
+> September Mumbai humidity. And "2-3L between Maghrib and sleep" = ~1L/hour → bottles
+> you out of the 04:45 wake the whole system depends on.
 
-| Metric | Target | Typical Day |
-|--------|--------|-------------|
-| Calories | ~2050 | ~1970-2230 (skip lunch) / ~2320-2790 (with office snack) |
-| Protein | 170g | ~181-216g (shake + breakfast + dinner) |
-| Carbs | ~50-60g | ~40-55g (dates + fruit + milk lactose only) |
-| Fat | ~100g | ~85-105g (Ultra milk, toned milk, meat, ghee, curd, eggs) |
+- **Water target 3-4L/day TOTAL** — front-loaded, not evening-crushed:
+  - Sip 500ml between Fajr and camp; 500ml post-camp sipped with the shake/breakfast
+  - 1L at office (14:00 box window, keep a bottle at desk refill midday)
+  - If fasting: 500ml at suhoor BEFORE Fajr; 500ml at iftar; 500ml with dinner; **250ml haldi doodh** — done by ~21:45
+- **Fluid cap 21:30 last 250ml** — nocturia kills the 04:45 Tahajjud; that wake is the foundation of everything
+- **Electrolytes daily (non-fasting AND fasting days):**
+  - Sodium: 3-5g/day total = 1 good pinch (1/2 tsp salt) stirred into post-camp shake + salt food normally + pinch in dinner sabzi
+  - Potassium: 1 banana OR coconut water on training days; leafy sabzi weekly (spinach already batched)
+  - Magnesium: 100-200mg supplement at haldi doodh (optional, cheap, helps sleep)
+- **Cramp / dizziness / headache on near-keto → sodium FIRST, water second, break the fast third if fasting.**
 
-> **Near-keto.** No rice, no dal, no roti. Your body runs on protein + fat.
-> Protein EXCEEDS target — excellent for muscle preservation on a cut.
+> Coach-not-doctor: the fasted camp + fasting days + 83→70 cut combo deserves one physician/sports-dietitian sign-off. Book it once (₹500-800) and stop relitigating.
 
 ---
 
-## 📅 WEEKLY BATCH COOK (Sunday)
+## 📅 WEEKLY BATCH COOK (Sunday, 10:00)
 
-> Cook ALL proteins weekly: chicken + beef + basa. Organ meat 2x/week (cook fresh, don't batch).
-> Eggs boiled fresh daily (15-20 min unattended). No rice, no dal, no roti to batch.
-
-### SINGLE WEEKLY MENU (every week, with daily rotation)
+### SINGLE WEEKLY MENU (every week — v2 tweaks: basa moved to Mon/Tue, Wed organ stays)
 
 | Batch Item | Quantity | Yield | Storage |
 |-----------|----------|-------|---------|
-| Chicken curry OR bhuna (thigh) | 1 kg raw → ~700g cooked | 4 portions | Fridge 4 days |
-| Beef keema masala | 750g raw → ~500g cooked | 4 portions | Fridge 4 days |
-| Basa fish (pan-fried or curry) | 500g raw → 350g cooked | 2 portions | Fridge 2 days |
+| Chicken curry OR bhuna (thigh) | 1 kg raw → ~700g cooked | 4 portions (200g each) | Fridge 4 days |
+| Beef keema masala | 750g raw → ~500g cooked | 2-3 portions (close to 200g) | Fridge 4 days |
+| Basa fish | 500g raw → 350g cooked | 2 portions (~175g) | Fridge 2 days — **eaten Mon + Tue, NEVER day 3** |
 | Bone broth | 1 pot | 5 cups | Fridge 5 days |
 
 **Organ meat — cook FRESH twice a week (not batched):**
 | Organ | Portion | Day | Notes |
 |-------|---------|-----|-------|
-| Liver (kaleji) — beef or chicken | 100-150g | Sunday lunch | Cook fresh, eat same day |
-| Kidney (gurda) OR brain (bheja) | 100-150g | Wednesday dinner | Cook fresh, eat same day |
+| Liver (kaleji) — beef or chicken | 100-150g | Sunday lunch | Never twice/week (vit-A cap) |
+| Kidney (gurda) OR brain (bheja) | 100-150g | Wednesday dinner | Rotate vs brain |
 
-> **Why 2x/week:** Liver = vitamin A (capped weekly). Kidney = B12/selenium without vit-A load. Brain = DHA/choline. Rotate which organ meat — don't eat liver twice.
-> **Prawns:** Occasional treat, buy fresh, eat same day. Not a weekly staple.
-> **Midweek top-up (Wednesday):** Pull 2-3 protein portions freezer → fridge + cook organ meat fresh.
+### DAILY ROTATION v2 (which batch protein, where)
 
-### DAILY PROTEIN ROTATION (which batch protein to eat)
+| Day | Office box 14:00 | Dinner | Notes |
+|-----|------------------|--------|-------|
+| Mon* | Chicken curry 200g | Beef keema + sabzi + curd | *fasting: shake at suhoor instead, box = iftar prep, eat light box OR skip — see fasting section |
+| Tue | Chicken curry 200g | Basa + sabzi + haldi doodh | Basa portion 1 at box, portion 2 at dinner (both within 2-day fridge limit) |
+| Wed | Beef keema 200g | Organ meat (fresh) + sabzi + curd | |
+| Thu* | Chicken bhuna 200g | Chicken curry + sabzi + curd | *fasting: same rule as Mon |
+| Fri | Beef keema 200g | Beef keema + sabzi + haldi doodh | |
+| Sat | Fresh cook post-sparring | Basa or prawns (fresh) + sabzi | Cheat meal 1x Saturday, 1 meal not a day |
+| Sun | Organ meat (liver fresh) + 2 eggs + curd | Batch cook tasting + haldi doodh | Cook day — light dinner |
 
-| Day | Breakfast protein | Dinner protein |
-|-----|--------------------|----------------|
-| Mon* | Chicken curry | Beef keema |
-| Tue | Beef keema | Basa fish |
-| Wed* | Basa fish | Organ meat (kidney/brain — cook fresh) |
-| Thu | Chicken bhuna | Chicken curry |
-| Fri | Beef keema | Beef keema |
-| Sat | Fresh cook (post-sparring) | Basa or prawns (fresh) |
-| Sun | Organ meat (liver — cook fresh) | Batch cook tasting |
-
-> **Every day is different.** You get chicken, beef, fish, and organ meat every week. No boring repeats.
+**Monday/Thursday fasting twist (DO NOT mix the two rules):**
+- office box eaten as SUHOOR-adjacent protein is WRONG. Box happens only if NOT fasting OR → break fast at Maghrib and make dinner=box rehearsal (250g protein there). Simple line to remember:
+- **Fasting day = shake@suhoor + 4 eggs, iftar = 250g protein + sabzi + curd, no daytime box (it's daylight).**
 
 ---
 
-## 🛒 SUNDAY GROCERY LIST (weekly)
+## 🛒 SUNDAY GROCERY LIST (v2 quantities)
 
-### Proteins (ALL bought weekly)
+### Proteins
 - [ ] Chicken thigh/breast — 1 kg
-- [ ] Beef keema/mince — 750g
-- [ ] Basa fillets (low-bone) — 500g
-- [ ] Eggs — 2 dozen/week (boil fresh daily, 4-6/day. Do NOT batch-boil)
-- [ ] Liver/kaleji — 150g (Sunday, cook fresh, eat same day)
-- [ ] Kidney (gurda) OR brain (bheja) — 150g (Wednesday, cook fresh)
-- [ ] Prawns — occasional, buy fresh same day
-- [ ] Whey protein — 1 tub (lasts ~1 month)
+- [ ] Beef keema — 750g
+- [ ] Basa fillets — 500g
+- [ ] **Eggs — 2.5 dozen/week** (≈18/week used; boil fresh daily 4-6/day, never batch-boil)
+- [ ] Liver — 150g (Sunday, fresh cook)
+- [ ] Kidney OR brain — 150g (Wednesday, fresh cook)
+- [ ] Prawns — occasional, fresh same day
 
-### Carbs (NO RICE, NO DAL, NO ROTI)
-- [ ] Dates — 1 pack (pre-workout, lasts weeks)
-- [ ] Seasonal fruit — whatever's cheap at mandi (bananas, mango, etc.)
+### Carbs (NO RICE, NO DAL, NO ROTI — unchanged)
+- [ ] Dates — 1 pack
+- [ ] Seasonal fruit — mandi-cheap (bananas, mango...)
 
 ### Vegetables
-- [ ] Onions — 1 kg
-- [ ] Tomatoes — 500g
-- [ ] Ginger — 100g
-- [ ] Garlic — 1 bulb
-- [ ] Spinach (saag) OR bhindi OR seasonal veg — 2 bunches
-- [ ] Green chillies, coriander leaves
-### Dairy + Fats (DAILY purchase — Ramish buys fresh daily, no stockpiling)
-- [ ] **Daily:** 1× Mother Dairy Ultra milk (7%) 500ml pouch — post-workout shake ONLY
-- [ ] **Daily:** 1× Mother Dairy Toned milk (3%) 500ml pouch — haldi doodh ONLY (250ml/night, rest for tea/cooking)
-- [ ] **Weekly:** Curd/dahi — 500g
-- [ ] **Weekly:** Cheese (for office sandwich) — 1 pack
-- [ ] **Weekly:** Ghee — small jar (lasts weeks)
-- [ ] **Weekly:** Mustard oil — 1 bottle (lasts months)
+- [ ] Onions 1kg · Tomatoes 500g · Ginger 100g · Garlic 1 bulb
+- [ ] Spinach/bhindi/seasonal veg — 2-3 bunches
+- [ ] Green chillies, coriander
+- [ ] **Cucumber (for box side)** — 500g
 
-> **Rule:** Never let one packet do both jobs. If toned runs out at night, use water + haldi — don't break the split.
+### Dairy + Fats
+- [ ] Mother Dairy Ultra 7% — 7 × 500ml/week (bought DAILY, not stockpiled)
+- [ ] Mother Dairy Toned 3% — 7 × 500ml/week (bought DAILY)
+- [ ] Curd — 750g/wk (M3 daily bowl + dinner bowl)
+- [ ] Cheese — 1 pack ( grated, office box fallback / emergency)
+- [ ] Ghee small jar · Mustard oil 1 bottle
+
+> **Milk split (LOCKED, unchanged):** Ultra = post-workout shake ONLY (or suhoor shake on fasting days). Toned = haldi doodh ONLY. Never swap. If toned runs out: water + haldi, never open the Ultra.
 
 ### Standing staples
-- [ ] Bone broth (frozen batch in freezer)
-- [ ] Turmeric, cumin, coriander powder
-- [ ] Salt, black pepper
+- [ ] Bone broth frozen · Turmeric, cumin, coriander · Salt, black pepper
+- [ ] **NEW: salt pinch pouch (office desk) for the electrolyte shake/sabzi line** · magnesium supplement (optional)
 
 ---
 
-## 🕌 FASTING DAYS (Mon/Thu Sunnah)
+## ⚠️ RULES (v2 — renumbered, deduped)
 
-> Training: 8 PM after Iftar (default). 7 AM fasted session optional if feeling strong. Shake post-workout either way.
-
-### Suhoor (pre-Fajr, ~04:30)
-| Item | Notes |
-|------|-------|
-| 2-3 dates + water | Quick energy before the day's fast |
-| 1 cup bone broth | If time permits |
-| 2 boiled eggs | Protein floor before fast |
-
-### Iftar (Maghrib, ~19:30)
-| Item | Notes |
-|------|-------|
-| 2-3 dates + water | Sunnah + glucose restore |
-| Batch protein (large, 200g) | Biggest protein hit |
-| Curd | 1 bowl |
-
-### Post-Iftar (~21:00)
-| Item | Notes |
-|------|-------|
-| 4-5 boiled eggs OR leftover protein | Protein floor |
-| Sabzi | 1 bowl |
-| Haldi doodh (toned milk) | 1 cup | ~150 | ~8g |
-
-> **Fasting day total:** ~1800-1950 kcal. Don't overeat at iftar.
+1. **Portion at cook time** — containers labeled meal + date.
+2. **ZERO-CARB-leaning dinner, LIGHT portion.** Protein + veg + curd. (v1's zero-carb stands but the 6-egg binge rescue is gone — the box made it unnecessary.)
+3. **Pre-workout = LIGHT** (155 kcal, M1).
+4. **Shake timing:** normal day = on home arrival (T+0). Fasting day = suhoor. **ONE shake per day, never two.**
+5. **Box is MANDATORY on office days.** No box = the M4 dinner slot's protein shifts there next day, logged as lesson on the ledger. Pack it at the 21:00 reset with tomorrow's gym bag.
+6. **Eggs boil fresh daily.** Count: 2 breakfast + 2-4 fasting suhoor + dinner eggs only when the batch ran out. 2.5 doz/week max.
+7. **Organ meat 2x/week fresh** — liver Sunday, kidney/brain Wednesday, never liver twice.
+8. **No rice, no dal, no roti.** Near-keto. Carbs only from dates, fruit, milk.
+9. **Water 3-4L/day FRONT-LOADED; hard cap 250ml after 21:30.** Electrolytes daily (see hydration section).
+10. **Coffee/tea fine, no sugar.**
+11. **Cheat meal:** 1/week, Saturday post-sparring, one meal.
+12. **Milk bought DAILY (2 pouches), 48hr shelf life; never stockpile.**
+13. **One-time doctor sign-off** for the fasted cut + fasting protocol (₹500-800, lot of relief for one visit).
+14. **Eating out:** gauge protein; if mostly carbs → 3-4 boiled eggs after (fallback rule unchanged).
+15. **If batch runs out:** boiled-eggs + curd + fruit fallback (unchanged, fine because dinners are lighter now).
 
 ---
 
-## 🍽️ SAMPLE WEEK
-
-> Every day: post-workout shake (500ml 6-7% milk + 2 scoops whey) IMMEDIATELY after MMA.
-> No rice, no dal, no roti ANY meal. Carbs = dates + fruit + milk only.
-
-| Day | Pre-workout (05:45) | Shake (08:00) | Breakfast (08:15) | Office (13:00) | Dinner (19:45) |
-|-----|---------------------|---------------|-------------------|-----------------|----------------|
-| Mon* | Suhoor: dates+broth+2 eggs | Milk + 2 scoops whey | Chicken curry + 3 eggs + curd + fruit | Skip | Beef keema + sabzi + curd + haldi doodh |
-| Tue | Bone broth + 2 dates | Milk + 2 scoops whey | Beef keema + 3 eggs + curd + fruit | Skip | Basa fish + sabzi + haldi doodh |
-| Wed* | Suhoor: dates+broth+2 eggs | Milk + 2 scoops whey | Basa pan-fry + 3 eggs + curd + fruit | Skip OR sandwich | Kidney/brain (fresh cook) + sabzi + haldi doodh |
-| Thu | Bone broth + 2 dates | Milk + 2 scoops whey | Chicken bhuna + 3 eggs + curd + fruit | Skip | Chicken curry + sabzi + haldi doodh |
-| Fri | Bone broth + 2 dates | Milk + 2 scoops whey | Beef keema + 3 eggs + curd + fruit | Skip OR sandwich | Beef keema + sabzi + haldi doodh |
-| Sat | Bone broth + 2 dates | Milk + 2 scoops whey | Big breakfast (fresh cook post-sparring) | Post-sparring meal (protein) | Basa or prawns (fresh) + sabzi + haldi doodh |
-| Sun | Bone broth + 2 dates | Milk + 2 scoops whey | Liver (fresh cook) + 3 eggs + curd | Fresh meal (enjoy) | Batch cook tasting + haldi doodh |
-
-*Mon/Thu = fasting days. Suhoor replaces pre-workout. Iftar replaces dinner.
-
----
-
-## ⚠️ RULES
-
-1. **Portion at cook time** — containers labeled with meal + date.
-2. **ZERO CARB dinner.** No roti, no rice, no fruit. Protein + veg + curd. Body burns fat overnight.
-3. **Pre-workout is LIGHT.** Broth + dates = 160 kcal.
-4. **Post-workout shake is IMMEDIATE.** Within 10 min. 67-70g protein. Don't skip.
-5. **If batch runs out:** Fallback = boiled eggs (fresh) + curd + fruit. Zero guilt.
-6. **Eating out:** Gauge protein. If mostly carbs, add 3-4 boiled eggs after.
-7. **Whey is the post-workout backbone.** 2 scoops + 500ml Ultra milk (7%). Non-negotiable.
-8. **Eggs = boil fresh daily.** 15-20 min, unattended. Do NOT batch-boil.
-9. **Organ meat 2x/week, cook fresh.** Liver Sunday, kidney/brain Wednesday. Never batch. Never eat liver twice in a week (vitamin A cap).
-10. **No rice, no dal, no roti.** Near-keto. Body runs on protein + fat. Carbs only from dates, fruit, and milk.
-11. **Water:** 3-4 litres/day.
-12. **Coffee/tea:** Fine. No sugar.
-13. **Cheat meal:** 1 per week, Saturday post-sparring. One meal, not a full day.
-14. **Milk split (locked):** Ultra 7% = post-workout shake ONLY (500ml/day). Toned 3% = haldi doodh ONLY (250ml/night). Never swap. This keeps taste where it matters and trims ~90 kcal + 10g fat/day (~0.5kg faster loss over 12 weeks).
-15. **Milk bought DAILY.** Morning = 1× Ultra 500ml. Evening = 1× Toned 500ml. Never stockpile (48hr shelf life). If toned runs out at night → water + haldi, NOT Ultra.
-
----
-
-## 📊 WEEKLY CHECK-IN (Friday review)
+## 📊 WEEKLY CHECK-IN (Friday review) — v2 additions
 
 - Weight (morning, after toilet, before eating): ___ kg
-- Energy level (1-10): ___
-- Post-workout shake every training day? ___/7
-- Batch cook done? ___
-- Organ meat eaten 2x this week? ___
-- Whey scoops used this week: ___
+- Energy 1-10: ___
+- Shake every training day? ___/7
+- **Office box packed+eaten (office days only): ___/5**
+- Batch cook done Sunday? ___
+- Organ meat 2x this week? ___
+- **24h fluid split: any post-21:30 bottles? ___ (target: no)**
+- Cramps/dizziness this week? ___ (yes → check sodium FIRST)
 
-> If weight drops more than 1kg/week → add 1 extra egg at breakfast + 1 extra fruit.
-> If weight doesn't move for 2 weeks → reduce fruit to 1/day, check portion sizes.
-> If energy is low (below 5/10) → check water intake + post-workout shake happened.
-> **Near-keto adaptation:** First 3-5 days may feel low energy. Push through. Body switches to fat-burning by Day 5.
+> If weight drops >1kg/week → +1 egg breakfast + 1 fruit.
+> If stalls 2 weeks → fruit to 1/day, verify box actually happened 5/5.
+> If energy <5/10 → check shake timing FIRST, water second, sodium third.
