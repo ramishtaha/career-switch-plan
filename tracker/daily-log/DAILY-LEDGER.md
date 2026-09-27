@@ -39,3 +39,44 @@
 | 2026-09-25 | Fri | 🟩 floor (camp) | — | 0 | none | ? | ? | ? | Friday review fired but went unread (wrong delivery target). Camp held |
 | 2026-09-26 | Sat | 🟩 floor (camp) | — | 0 | none | ? | ? | ? | Sat resume/Naukri block (15:00-17:00) did NOT happen — Ramish confirmed Sep 27 |
 | 2026-09-27 | Sun | 🛠️ audit day | — | 0 | none | ? | ? | ? | Full Opus-5 max-effort audit (AUDIT-SEP27.md). Truth answers given: salah on-time most days, tahajjud missed 1-2, no fasting (camp), camp unmissed, ZERO career work, phone chain ACTIVE, loan = heaviest weight. Crons re-pointed to Telegram |
+
+<!-- GENERATED BLOCK — do not hand-edit below this line -->
+> Generated from Postgres at 2026-09-27 15:47 IST. The database is the source of truth for
+> these counts; this block is output, not input. Hand-written sections above are
+> preserved and are still yours to edit.
+
+**Unaided DSA: 2** · Streak: 0d · Day count: 0 · Applications: 0
+
+| Date | Wkday | Bar | Salah | Nafl | Unaided | Ticks | Note |
+|------|-------|-----|-------|------|---------|-------|------|
+| 2026-09-27 | Sun | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-26 | Sat | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-25 | Fri | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-24 | Thu | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-23 | Wed | ⬜ Missed | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-22 | Tue | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-21 | Mon | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-20 | Sun | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-19 | Sat | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-18 | Fri | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-17 | Thu | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-16 | Wed | ⬜ Missed | 1/6 | 0 | 2 | 0 |  |
+| 2026-09-15 | Tue | ⬜ Missed | 2/6 | 1 | 0 | 2 |  |
+| 2026-09-14 | Mon | ⬜ Missed | 2/6 | 0 | 0 | 0 |  |
+| 2026-09-13 | Sun | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-12 | Sat | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-11 | Fri | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-10 | Thu | ⬜ Missed | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-09 | Wed | 🟩 Floor | 4/6 | 1 | 0 | 0 |  |
+| 2026-09-08 | Tue | ⬜ Missed | 2/6 | 1 | 0 | 3 |  |
+| 2026-09-07 | Mon | 🟩 Floor | 4/6 | 0 | 0 | 0 |  |
+| 2026-09-06 | Sun | 🟩 Floor | 5/6 | 0 | 0 | 0 |  |
+| 2026-09-05 | Sat | ⬜ Missed | 4/6 | 0 | 0 | 0 |  |
+| 2026-09-04 | Fri | 🟩 Floor | 5/6 | 2 | 0 | 0 |  |
+| 2026-09-03 | Thu | 🟩 Floor | 5/6 | 1 | 0 | 0 |  |
+| 2026-09-02 | Wed | 🟩 Floor | 5/6 | 2 | 0 | 0 |  |
+| 2026-09-01 | Tue | 🟩 Floor | 4/6 | 0 | 0 | 0 |  |
+| 2026-08-31 | Mon | 🟩 Floor | 5/6 | 1 | 0 | 0 |  |
+| 2026-08-30 | Sun | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-08-29 | Sat | · Unknown | 0/6 | 0 | 0 | 0 |  |
+<!-- END GENERATED BLOCK -->
