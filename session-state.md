@@ -9,7 +9,7 @@
 ## System Phase
 - **System Phase**: `active` — **V4 RESTART, Tuesday, September 15, 2026** (confirmed with Ramish Sep 14; all trackers reset per his request: DSA→0, streaks→0, day count→0)
 - **Start Date**: Tuesday, September 15, 2026 (V4 RESTART — fresh start)
-- **Current Date**: September 14, 2026 (prep day — Day 1 = tomorrow, Sep 15)
+- **Current Date**: September 16, 2026 (Day 1 in progress — mints formally at tonight's 20:15 close-out)
 - **Active Camp**: Muay Thai intensive at BRUTE Manpada (morning 7:00-8:30 AM, Mon-Fri; 30 min run + 1 hr training). Optional 1-3 extra technical/strength sessions/week by feel — never at the cost of salah/family call/sleep.
 - **Saturday**: Sparring at Mulund branch (12:00). Sunday: rest + batch cook + weekly review.
 - **Previous Attempts**: V1 (Jul 27, 3 problems), V2-first (Aug 3, 2 days), V2-restart (Aug 17, stalled), V3-restart (Sep 1, died Sep 4 — 9 missed days) — all arcs closed, fresh start
@@ -40,10 +40,10 @@
 ## 12-Week Plan State (V4 RESTART — COMPLETION-LOCKED)
 - **Plan Version**: V4-restart (fresh start, Sep 15, 2026)
 - **Start Date**: Tuesday, September 15, 2026 (Tue-start weeks accepted — same as V3)
-- **Active Day Count**: 0 of 84 (Day 1 = first worked day = Sep 15 target)
-- **Current Week**: 1 (Sep 15-21; Arrays & Hashing + Spring Boot hands-on start)
-- **DSA Problems Solved**: 0 (fresh start — V4 wipes all; Week 1 = re-solve the 3 V1 carryovers UNAIDED first: Contains Duplicate, Two Sum, Valid Anagram)
-- **DSA Unaided**: 0/0 (fresh start — the number that matters)
+- **Active Day Count**: 0 of 84 (Day 1 = **Wednesday, Sep 16** — 2 unaided DSA minted it informally; formal mint at evening close-out never happened — stall confirmed Sep 23)
+- **Current Week**: 1 (week = first 6 worked days, completion-locked; Arrays & Hashing + Spring Boot hands-on start)
+- **DSA Problems Solved**: 1 (Contains Duplicate ✅ Sep 16, 🟢 unaided, recall-verified. Two Sum: solved + recall-verified in-chat Sep 16 🟢 but tracker row not yet written — pending this update. Carryovers left: Valid Anagram)
+- **DSA Unaided**: 2/2 in-chat (Two Sum row pending write-up)
 - **Current Streak**: 0 (fresh start Sep 15)
 - **Missed Days**: 0 (fresh arc)
 - **System Designs Practiced**: 0 / 8
@@ -98,7 +98,7 @@
 
 ## Notes
 - V1 Jul 27-30 (3 DSA, all Copilot). V2-first Aug 3-9 (2 days). V2-restart Aug 17 (stalled). V3-restart Sep 1: held Sep 1-3 (Day 3), then 9 consecutive missed Sep 4-12; phase paused; CLOSED Sep 14.
-- **V4-restart Sep 15, 2026**: full reset per Ramish's request (DSA count, streak, day count → 0). KEPT: job applications, resume, study materials, Spring Boot concept progress, diet plan, state-machine rules.
+- **Sep 27 FULL AUDIT (Opus 5, max effort — AUDIT-SEP27.md in /root/kiro-jobs-audit/):** Priority order UPDATED per Ramish: Sunnah #1, **Career #2**, MMA #3 (maintenance floor 4 sess/wk, never abandonment). Bridge Sep 28 → Oct 4: 1 unaided DSA daily; Sat Oct 3 = resume+Naukri+8 applications. Applications DECOUPLED from 35-gate: European/Indian banks from Oct 1, gate = Tier-1 only. 84-day counter retired → scoreboard = unaided count in LIFETIME-DSA.md (currently 2). Crons re-pointed to Telegram (he stopped checking Discord threads). Runway: ~2 months, sustained via credit-card rent + friends' help. Plan edits FROZEN until Oct 21. **Witness = Hermes** (Ramish declined a human; daily one-line report to me replaces the human witness — reviewed Fri). **Journaling REINSTATED Sep 27** — paper journal on desk, fill at Isha before bed (3 wins + 3 targets + salah ticks); evening close-out asks 'journal filled?' as a tracker item. **Restart = Oct 1 confirmed** (camp ends Sep 30); Sep 28-30 bridge still runs: 1 unaided DSA/day during camp wrap. KEPT: job applications, resume, study materials, Spring Boot concept progress, diet plan, state-machine rules.
 - Sep 14 prep day: failure log written (`tracker/daily-log/FAILURE-LOG-2026-09-14.md`), Kiro dual audit (Opus 5 + GPT-5.6 Sol) running, blueprint v10, crons updated, Rafiq app streaks reset by Ramish in-app tonight.
 - **Deadlines (HONEST MATH — Sep 14 audit):** Day 84 by Dec 20 is arithmetically impossible (Sundays = rest, non-incrementing → ceiling 83 in 97 days). Realistic Day 84: **mid-Jan 2027** at 5-6 worked days/wk. **Application gate = 35+ UNAIDED DSA problems** (a skill gate, not a day counter); applications open when the gate is met, Nov 15 the earliest.
 - Chastity status (so audits stop re-deriving): guilt-chain diagnosed Jul 26 — savior complex, RELIEF = guilt, not love. Shields: khalwah ban, night protocol, circuit-breaker. Friday check-in tracks it live.
