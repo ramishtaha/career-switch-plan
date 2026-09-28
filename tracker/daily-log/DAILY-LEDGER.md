@@ -6,23 +6,25 @@
 
 ## Winter Arc rows (from Mon 28 Sep 2026)
 
-**Columns = the 8-item floor.** `✓` done · `M` missed (+ reason in Note) · `–` not applicable · `?` unreported.
+**Columns = the 8-item floor + H (house).** `G` is `–` on the bridge days (Cult starts Thu 1 Oct). `✓` done · `M` missed (+ reason in Note) · `–` not applicable · `?` unreported.
 
 | Column | Meaning |
 |---|---|
 | **S** | Salah: fard + rawatib + Witr, as x/5 prayers fully done |
 | **F** | Fast (Mon/Thu only, else `–`) |
-| **R** | Run minutes (floor 10) |
+| **R** | Run minutes (floor 10; usually the first 10 min of Cult) |
+| **G** | Cult minutes (floor 60). #3 holds when R ≥ 10 and G ≥ 60 |
 | **St** | Study minutes, office excluded (floor 180) |
 | **J** | Journal |
 | **Rd** | Self-help reading minutes (floor 15) |
 | **C** | Weekend career work (Sat/Sun only, else `–`) |
+| **H** | House: sink empty + reset 10 done (`WINTER-ARC.md` §8). **Tracked, not part of 8/8** |
 | **U** | Unaided DSA solved today (names in Note) |
 | **8/8** | How many of the 8 floor items held today (on weekdays #7 counts as held) |
 
-| Date | Wkday | S | F | R | St | J | Rd | C | U | 8/8 | Note |
-|------|-------|---|---|---|----|---|----|---|---|-----|------|
-| 2026-09-28 | Mon | ? | – | ? | ? | ? | ? | – | ? | ? | Bridge day 1 (camp week, no fast). Target: Valid Anagram unaided. Winter Arc declared |
+| Date | Wkday | S | F | R | G | St | J | Rd | C | H | U | 8/8 | Note |
+|------|-------|---|---|---|---|----|---|----|---|---|---|-----|------|
+| 2026-09-28 | Mon | ? | – | ? | – | ? | ? | ? | – | ? | ? | ? | Bridge day 1 (camp week, no fast). Target: Valid Anagram unaided. Winter Arc declared |
 
 ---
 

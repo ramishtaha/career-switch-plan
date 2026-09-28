@@ -177,4 +177,4 @@ This is how your laptop fits into your day:
 - [ ] Open IntelliJ, open the springboot-hello project
 - [ ] Run the app, see "Started on port 8080"
 - [ ] Charger OUT of bedroom, phone greyscale ON
-- [ ] Focus shield left ON. Phone docked outside the bedroom at 21:00, lights out 21:30 (Winter Arc evening wall)
+- [ ] Focus shield left ON. Phone on the far table across the bedroom (out of arm's reach) at 21:00, lights out 21:30 (Winter Arc evening wall)

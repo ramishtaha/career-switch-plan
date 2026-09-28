@@ -12,13 +12,13 @@
 - **Bridge:** Mon 28 → Wed 30 Sep (MMA camp wraps Sep 30). One unaided problem a day plus the setup checklist, see `WINTER-ARC.md` §12.
 - **Phase:** `bridge` until Oct 1, then `active`. **There is no pause state and no restart.** Misses are logged rows.
 - **Scoreboard:** unaided DSA problems (DB-backed, `tracker/LIFETIME-DSA.md`). **2 as of Sep 28** (Contains Duplicate + Two Sum, Sep 16). **Tier-1 gate = 35.**
-- **Office:** TCS System Engineer, **10:30–18:30**, leaves home ~10:15, back ~18:50. **Lowest priority. Containment only.**
+- **Office:** TCS System Engineer, **10:30–18:30**, leaves home ~10:15, goes straight to Cult after Maghrib. **Lowest priority. Containment only.**
 
 ## The floor (Ramish's 8, verbatim intent, final)
 
 1. All 5 salah with sunnah (rawatib) + Witr
 2. Fast Monday + Thursday
-3. Run ≥ 10 min daily
+3. Run + Cult daily: 1 h at Cult, the first ≥ 10 min is the run (widened by Ramish, Sep 28)
 4. Study ≥ 3 h daily (office time never counts)
 5. Journal daily (paper)
 6. Self-help reading daily
@@ -43,7 +43,8 @@
 
 ## Body
 
-- MMA camp ended Sep 30. **MMA classes are parked for the Winter Arc.** Daily run is the training floor. Optional 15-min home shadowboxing Tue + Fri.
+- MMA camp ended Sep 30. **Cult gym 1 h daily is non-negotiable** (floor #3; slot and fast-day variant in `WINTER-ARC.md` §4 + §8). MMA classes are superseded by it.
+- **House:** his known pile-up pattern is a shame + cognitive-load trigger. Small daily loads + Wed/Sat laundry + Sat Asr reset (`WINTER-ARC.md` §8). Ledger column `H`, not part of 8/8.
 - Diet: high protein, locked rules in `DIET-PLAN.md`. Meal-prep = **Sunday Asr → Maghrib**.
 
 ## Deen notes (so audits stop re-deriving)

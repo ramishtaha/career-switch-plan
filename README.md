@@ -7,7 +7,7 @@
 
 ## The floor (every day)
 
-5 salah + rawatib · fast Mon/Thu · run ≥ 10 min · study ≥ 3 h · journal · self-help reading · weekends = career only · TCS = lowest priority.
+5 salah + rawatib · fast Mon/Thu · Cult 1 h (run ≥ 10 min first) · study ≥ 3 h · journal · self-help reading · weekends = career only · TCS = lowest priority.
 
 **The score:** unaided DSA problems → [`tracker/LIFETIME-DSA.md`](tracker/LIFETIME-DSA.md). Tier-1 gate: **35**.
 

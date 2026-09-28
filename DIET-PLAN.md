@@ -3,8 +3,9 @@
 
 > ### ❄️ WINTER ARC OVERRIDES (Sep 28, 2026): read these first
 > The camp ended Sep 30. The **food rules below still stand** (no dal/rice, fresh eggs, milk split, high protein, fasting-day meals). **Only the timing changes:**
-> - **No camp** → M1 pre-workout is gone. The **shake moves to breakfast** (07:30 after Block 1). Fast days: shake stays at **suhoor**.
-> - **Fast days are Mon + Thu from Thu 1 Oct.** Suhoor ends 10 min before Fajr (clock card in `WINTER-ARC.md` §2). **Iftar dates + water at the office** at Maghrib, the real iftar meal at home ~18:50.
+> - **No camp** → M1 pre-workout is gone. The **shake moves to breakfast** (07:10 after Block 1). Fast days: shake stays at **suhoor**.
+> - **Training = Cult 1 h daily, ~18:50–19:50** (after Maghrib). **Dinner (~20:25) is the post-workout meal**, so keep its protein full even on the light-dinner rule. Water: sip 500 ml during Cult, still inside the 21:00 fluid cap.
+> - **Fast days are Mon + Thu from Thu 1 Oct.** Suhoor ends 10 min before Fajr (clock card in `WINTER-ARC.md` §2). **Iftar dates + water at the office** at Maghrib (+2 extra dates before Cult), the real iftar meal at home ~20:25 after Cult.
 > - **Batch cook = Sunday, Asr → Maghrib** (~90 min, Maghrib is the hard stop). The old "Sunday 10:00" slot is gone because weekends are career-only.
 > - **Grocery order: Friday**, delivered Sunday. Milk is still bought daily.
 > - **Cheat meal:** still 1 meal/week, Saturday lunch, since there's no post-sparring slot any more.
@@ -123,7 +124,7 @@
 **~1,930-2,000 kcal · ~175-186g protein** (with the optional post-Isha add) or ~1,780 kcal / 163g P without it — both above the 1,900/150 target at minimum.
 
 ### Fasting-day training rule (Winter Arc)
-Run 10 min EASY after Fajr (suhoor fuel still in you). No intervals, don't extend. Dizzy → walk. Genuinely unwell → break the fast (one make-up day, no guilt). Health first.
+Cult after iftar dates, **easy variant**: run 10 min conversational, then mobility / light machines / technique. No HIIT, no max lifts, nothing to failure. Sip water the whole hour. Dizzy → stop the effort, walk/stretch out the hour. Genuinely unwell before Maghrib → break the fast (one make-up day, no guilt). Health first.
 
 ---
 
