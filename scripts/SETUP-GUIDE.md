@@ -1,7 +1,7 @@
 # 🖥️ Laptop Setup Guide — Day 1 Ready
 
 > **Goal**: Turn your laptop from a relapse vehicle into a dev machine.
-> Two scripts, run in order. ~30-45 min total. Do this tonight (Aug 24).
+> Two scripts, run in order. ~30-45 min total. One-time setup.
 
 ---
 
@@ -169,7 +169,7 @@ This is how your laptop fits into your day:
 
 ---
 
-## Checklist (do tonight, Aug 24)
+## Checklist (one-time)
 
 - [ ] Run `sudo ./scripts/01-focus-shield.sh install`
 - [ ] Verify youtube.com is blocked in browser
@@ -177,4 +177,4 @@ This is how your laptop fits into your day:
 - [ ] Open IntelliJ, open the springboot-hello project
 - [ ] Run the app, see "Started on port 8080"
 - [ ] Charger OUT of bedroom, phone greyscale ON
-- [ ] Sleep by 22:30 — Day 1 is tomorrow (Aug 25)
+- [ ] Focus shield left ON. Phone docked outside the bedroom at 21:00, lights out 21:30 (Winter Arc evening wall)

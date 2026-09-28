@@ -1,9 +1,9 @@
-# 💼 Job Application Tracker — Ramish V2
+# 💼 Job Application Tracker
 
-> Track every application from Week 3 onward.
-> Target: GCCs, BFSI tech, large product companies.
-> GCC roles are almost NEVER on Naukri — use LinkedIn, referrals, headhunters.
-> CTC Target: 14-18 LPA minimum, 16-22 LPA ideal
+> **Engine:** every Saturday 09:30–12:00 = resume tune + **8 applications**, logged here (`../WINTER-ARC.md` §6).
+> Banks from **Sat 3 Oct** · GCCs from **mid-Oct** · Tier 1 (Goldman / JPM / MS) at **35 unaided**.
+> GCC roles are rarely on Naukri. Use LinkedIn, company career sites, referrals, headhunters.
+> CTC: refuse below ~13 LPA · target 14–18 · ideal 16–22.
 
 ---
 
@@ -24,23 +24,13 @@
 
 ---
 
-## Weekly Application Goals (V2)
+## Weekly Engine Log (Winter Arc)
 
-| Week | Dates | Target Apps | Referrals | Recruiters | Notes |
-|------|-------|------------|-----------|------------|-------|
-| W1 (Sep 1-7) | 0 | 0 | 0 | 0 | Habit system + Spring Boot setup |
-| W2 (Sep 8-14) | 0 | 0 | 0 | 0 | Resume v1 draft phase |
-| W3 (Sep 15-21) | 0 | 0 | 5 | 20 | LinkedIn optimization + recruiter outreach starts |
-| W4 (Sep 22-28) | 5 | 0 | 5 | 10 | Start applying via referrals |
-| W5 (Sep 29-Oct 5) | 5 | 0 | 5 | 5 | |
-| W6 (Oct 6-12) | 5 | 0 | 5 | 5 | |
-| W7 (Oct 13-19) | 5 | 0 | 5 | 5 | |
-| W8 (Oct 20-26) | 5 | 0 | 5 | 5 | |
-| W9 (Oct 27-Nov 2) | 5 | 0 | 5 | 5 | **ACTIVE INTERVIEWING STARTS** |
-| W10 (Nov 3-9) | — | 5 interviews | — | — | Active interviews |
-| W11 (Nov 10-16) | — | 5 interviews | — | — | Active interviews |
-| W12 (Nov 17-23) | — | 5 interviews | — | — | Active interviews + negotiation |
-| **Total** | **35+** | **25+ referrals** | **50+ recruiters** | | |
+| Week of (Sat) | Applications (target 8) | Outreach msgs (target 5) | Replies | Screens | Note |
+|---------------|------------------------|--------------------------|---------|---------|------|
+| 2026-10-03 | | | | | First engine day: European + Indian banks |
+
+> The old V2 weekly-goals table (Sep–Nov targets) was removed Sep 28. It's still in git history. No applications were sent under it.
 
 ---
 
@@ -99,9 +89,9 @@
 
 - **Current CTC:** 8.29 LPA (TCS)
 - **Target CTC:** 14-18 LPA minimum, 16-22 LPA ideal
-- **90-day notice period:** Say "60 days" in interviews (TCS sometimes releases early). If they insist on 90, still in range.
+- **90-day notice, no early release.** State it honestly, as a date: join date = offer date + 90 days.
 - **Rule:** Don't resign without written offer
-- **When asked current CTC:** State 8.29 LPA fixed + variable + bonus if any
+- **When asked current CTC:** don't lead with it. Ask for the grade band first. If pressed: 8.29 LPA fixed + variable
 - **When asked expected:** "Based on market standards for this role and my experience, I'm looking at 16-18 LPA, but I'm open to discussion based on the role and total compensation."
 
 ### Compensation Components to Negotiate

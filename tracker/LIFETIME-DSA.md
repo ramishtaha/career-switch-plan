@@ -11,6 +11,8 @@
 **Re-solve upgrades:** when a problem is re-solved unaided, add a new row with 🟢 (Re-solve, date) — original row stays.
 **V4 Week 1 mission:** rows 1-3 get beaten clean, unaided.
 
+**Winter Arc note (appended Sep 28, 2026):** the lines above are history, left untouched. The score is the **Unaided total** in the generated block below (DB-backed). "Unaided" = no AI, no editorial, no hints, no old code; blind re-solves count. **Tier-1 gate = 35.** Plan: `../WINTER-ARC.md`.
+
 <!-- GENERATED BLOCK — do not hand-edit below this line -->
 > Generated from Postgres at 2026-09-27 15:47 IST. Unaided count is the single definition used by
 > the app, the dashboard and Hermes — there is no second place to disagree with it.

@@ -1,15 +1,36 @@
-| # 📒 DAILY LEDGER — one row per date (opened Sep 13, 2026)
-| > **The only per-date record.** Aggregates (Day count, streak, totals) live ONLY in `../session-state.md` — this ledger feeds them, never replaces them.
-| > **Unified Bar definition (single, all files agree):**
-| > - 🟩 **FLOOR** — Fajr + camp (or rest) + current salah rung → **streak PRESERVED, Day does NOT increment**
-| > - 🔵 **DAY** — floor + one worked item (1 DSA / 30-min Spring Boot / design / mock) → Day +1
-| > - 🟡 **STRONG** — floor + 2+ DSA + Spring Boot commit → Day +1 (flag if Copilot-assisted 🟠)
-| > - 😴 **Rest** — declared → Day +0, streak PRESERVED
-| > - ⬜ **Missed** — floor not met → Day +0, streak RESET
-| >
-| > *V3 Sep 4-13 rows say "missed" under the old career-only bar; under v4.0 they are 9 × 🟩 FLOOR days. History stands; the rule changed.*
-| >
-| > Fill at every close-out. No inferred values — "?" means unknown/unreported.
+# 📒 DAILY LEDGER: one row per date
+
+> **The only per-day record.** Hermes writes one row every night from Ramish's one-line report (`WINTER-ARC.md` §10).
+> Ramish never edits this file. "?" means unreported. It never means failed.
+> The block at the bottom is generated from the Rafiq DB and is **output, not input.** Don't hand-edit it.
+
+## Winter Arc rows (from Mon 28 Sep 2026)
+
+**Columns = the 8-item floor.** `✓` done · `M` missed (+ reason in Note) · `–` not applicable · `?` unreported.
+
+| Column | Meaning |
+|---|---|
+| **S** | Salah: fard + rawatib + Witr, as x/5 prayers fully done |
+| **F** | Fast (Mon/Thu only, else `–`) |
+| **R** | Run minutes (floor 10) |
+| **St** | Study minutes, office excluded (floor 180) |
+| **J** | Journal |
+| **Rd** | Self-help reading minutes (floor 15) |
+| **C** | Weekend career work (Sat/Sun only, else `–`) |
+| **U** | Unaided DSA solved today (names in Note) |
+| **8/8** | How many of the 8 floor items held today (on weekdays #7 counts as held) |
+
+| Date | Wkday | S | F | R | St | J | Rd | C | U | 8/8 | Note |
+|------|-------|---|---|---|----|---|----|---|---|-----|------|
+| 2026-09-28 | Mon | ? | – | ? | ? | ? | ? | – | ? | ? | Bridge day 1 (camp week, no fast). Target: Valid Anagram unaided. Winter Arc declared |
+
+---
+
+## History: pre-Winter Arc rows (V3/V4 bar legend, kept as written)
+
+> Legend used by these rows: 🟩 floor · 🔵 day · 🟡 strong · 😴 rest · ⬜ missed · 🛠️ prep/audit day. That legend is retired. The rows stand as history.
+> The Sep 4–13 rows say "missed" under the old career-only bar. Under the V4 bar they were floor days (salah + camp held).
+
 | Date | Wkday | Bar | Day N | DSA (min/flag) | Close-out | Phone-out | Sleep-a | Weight | Notes |
 | ------|-------|-----|-------|----------------|-----------|-----------|---------|--------|-------|
 | 2026-09-01 | Tue | worked | Day 1 | ? | ? | ? | ? | ? | V3 restart day 1 (pre-ledger; bar detail not recorded) |

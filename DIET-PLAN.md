@@ -1,5 +1,15 @@
-# 🥊 Ramish Diet Plan v2 — Competition Cut + Career Switch Fuel
+# 🥊 Ramish Diet Plan v2: Competition Cut + Career Switch Fuel
 ## 83kg → 70kg target | Weekday + Camp structure | Honest numbers (v2, Sep 13 post-audit)
+
+> ### ❄️ WINTER ARC OVERRIDES (Sep 28, 2026): read these first
+> The camp ended Sep 30. The **food rules below still stand** (no dal/rice, fresh eggs, milk split, high protein, fasting-day meals). **Only the timing changes:**
+> - **No camp** → M1 pre-workout is gone. The **shake moves to breakfast** (07:30 after Block 1). Fast days: shake stays at **suhoor**.
+> - **Fast days are Mon + Thu from Thu 1 Oct.** Suhoor ends 10 min before Fajr (clock card in `WINTER-ARC.md` §2). **Iftar dates + water at the office** at Maghrib, the real iftar meal at home ~18:50.
+> - **Batch cook = Sunday, Asr → Maghrib** (~90 min, Maghrib is the hard stop). The old "Sunday 10:00" slot is gone because weekends are career-only.
+> - **Grocery order: Friday**, delivered Sunday. Milk is still bought daily.
+> - **Cheat meal:** still 1 meal/week, Saturday lunch, since there's no post-sparring slot any more.
+> - **Fluid cap moves to 21:00** (lights out is 21:30).
+> - **Open question for Ramish:** is the 70 kg cut still the goal now that camp is over, or is it maintenance? Until he answers, calories stay as written. Tell Hermes and this banner gets updated.
 
 > **Why v2:** the Sep 13 dual audit (Opus 5 + GPT-5.6 Sol) showed v1's paper math was fiction.
 > This version states the real arithmetic — every total below is the SUM of its own rows.
@@ -112,8 +122,8 @@
 ### Fasting-day total (sum of rows — honest)
 **~1,930-2,000 kcal · ~175-186g protein** (with the optional post-Isha add) or ~1,780 kcal / 163g P without it — both above the 1,900/150 target at minimum.
 
-### Fasting-day training rule (unchanged, one line)
-Camp 07:00 fasted = allowed if feeling strong ( Protocol A). Dizzy → break the fast. Health first. No guilt either way (Protocol B exists for a reason).
+### Fasting-day training rule (Winter Arc)
+Run 10 min EASY after Fajr (suhoor fuel still in you). No intervals, don't extend. Dizzy → walk. Genuinely unwell → break the fast (one make-up day, no guilt). Health first.
 
 ---
 
@@ -228,7 +238,7 @@ Camp 07:00 fasted = allowed if feeling strong ( Protocol A). Dizzy → break the
 
 ---
 
-## 📊 WEEKLY CHECK-IN (Friday review) — v2 additions
+## 📊 WEEKLY CHECK-IN (Sunday review) — v2 additions
 
 - Weight (morning, after toilet, before eating): ___ kg
 - Energy 1-10: ___
