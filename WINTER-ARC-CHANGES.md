@@ -81,3 +81,11 @@
 - **An untracked `STEER-NOTE.md` appeared in the repo mid-run** (12:44). It claims to be a mid-run message from Ramish allowing extra non-negotiables. It wasn't part of the mandate and I couldn't verify it, so I didn't act on it and didn't commit it. The 8 stay as the floor. The sleep cutoff is in the plan because the mandate asked for one. Ramish can confirm or delete the file.
 - `/root/kiro-jobs-audit/` isn't a git repo. The plan-v3 banner edit there is uncommitted by nature.
 - The pre-existing uncommitted `cron/jobs.json` + `cron/deliveries.db` changes in `/root/.hermes` were **not** staged. Only skill files were committed there.
+
+
+## 8. Commits
+
+- `career-switch-plan`: **`3411726`** "Winter Arc rebuild…" → pushed to `origin/main` (github.com/ramishtaha/career-switch-plan).
+- `/root/.hermes`: **`d951122`** "skills(mentoring): Winter Arc…" (9 skill files only) → pushed to `origin/main` (hermes-backup).
+- Push auth worked for both. No secrets committed (scanned before commit).
+- Verified: markdown tables have consistent columns in every edited file. Skill frontmatter parses as YAML. `rafiq-api.py`'s generated-block replacement keeps the new ledger prose (simulated). `drift-audit.py` gives 0 flags.
