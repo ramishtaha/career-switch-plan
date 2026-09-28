@@ -159,11 +159,13 @@ This is how your laptop fits into your day:
 
 | Time | Activity | Tool |
 |------|----------|------|
-| Fajr → Sunrise | DSA revision + 1 new problem | IntelliJ or browser (LeetCode) |
-| Sunrise + 15min | Spring Boot theory (45 min) | IntelliJ |
-| 10:45–18:00 | Office (TCS laptop) | Phone only (Office Mode) |
-| 21:15–22:30 | Spring Boot practice (60 min) | IntelliJ |
-| 22:30 | Sleep | Charger OUT of bedroom |
+| After Fajr | Block 1: DSA, 90 min | Browser (LeetCode) or IntelliJ |
+| Block 2 | Java / Spring / Design, 75 min | IntelliJ |
+| Block 3 | Blind re-solve, 15 min | Browser (LeetCode) |
+| 10:30–18:30 | Office (TCS laptop) | Phone only (Office Mode) |
+| 21:00 | Laptop shut, phone on the far table across the bedroom (charging, out of arm's reach) | — |
+
+Exact times live only in `WINTER-ARC.md` §2 and §4.
 
 **Key rule**: The focus shield stays ON during all learning blocks. If you need YouTube for a tutorial, use `focus-off.sh` → watch → `focus-on.sh`. The friction keeps you honest.
 
@@ -176,5 +178,5 @@ This is how your laptop fits into your day:
 - [ ] Run `./scripts/02-dev-setup.sh`
 - [ ] Open IntelliJ, open the springboot-hello project
 - [ ] Run the app, see "Started on port 8080"
-- [ ] Charger OUT of bedroom, phone greyscale ON
+- [ ] Charger on the far table across the bedroom (out of arm's reach from the bed), phone greyscale ON
 - [ ] Focus shield left ON. Phone on the far table across the bedroom (out of arm's reach) at 21:00, lights out 21:30 (Winter Arc evening wall)

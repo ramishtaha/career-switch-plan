@@ -40,11 +40,11 @@
 |---|---|
 | **3 h study = 90 (DSA) + 75 (depth) before office + 15 (blind re-solve) after Isha** | Study done before 10:15 can't be eaten by office overrun or the evening relapse window. The 15-min evening block keeps spaced retrieval feeding the score |
 | **Run right after Fajr** (cue: adhkar done → shoes) | One fixed cue, before any screen. Fast days: 10 min easy on suhoor fuel |
-| **21:00 hard cutoff, phone docked outside the bedroom, alarm clock** | Breaks the first link of the chain that ended 5 arcs. plan-v3 kept the phone in the bedroom "for alarms". A ₹300 clock removes that reason |
+| **21:00 hard cutoff, alarm clock** *(phone location superseded by Steer 2, §9: it now stays in the bedroom on the far table)* | Breaks the first link of the chain that ended 5 arcs. plan-v3 kept the phone in the bedroom "for alarms". A ₹300 clock removes that reason |
 | **Witr right after Isha, every night; Tahajjud = bonus** | Hanafi-safe (no risk of a missed wajib → qada), and one less decision. Tahajjud stays valued but isn't on the floor |
 | **Weekly review → Sunday 13:45** (was Friday evening) | Friday evening is the tiredest slot, and none of the Friday reviews were ever held. The Sunday career block has room, and it plans the week ahead |
 | **Meal-prep Sunday Asr → Maghrib** | Fuel for the career week, boxed by two prayers, never takes a career block. Interview audio allowed |
-| **MMA classes parked** (daily run + optional home shadowboxing) | No weekday slot that doesn't cost study or sleep. Weekends are career-only. Revisit 29 Nov |
+| **MMA classes dropped** *(superseded by Steer 2, §9: Cult gym 1 h daily is floor #3)* | No weekday slot that doesn't cost study or sleep. Weekends are career-only |
 | **Reels project parked** | Not in the 8, costs evening time. A 15-min scroll window at office lunch stays |
 | **Rafiq/infra tinkering off weekends** unless the review makes it a resume deliverable | #7 says career only |
 | **Bars, streaks, Day-N-of-84, Recovery Mode retired** → one "8/8" count per day + a miss protocol | One number per day and one score. Misses are rows. There's no restart state |
@@ -89,3 +89,20 @@
 - `/root/.hermes`: **`d951122`** "skills(mentoring): Winter Arc…" (9 skill files only) → pushed to `origin/main` (hermes-backup).
 - Push auth worked for both. No secrets committed (scanned before commit).
 - Verified: markdown tables have consistent columns in every edited file. Skill frontmatter parses as YAML. `rafiq-api.py`'s generated-block replacement keeps the new ledger prose (simulated). `drift-audit.py` gives 0 flags.
+
+
+## 9. Steer 2 addendum (Mon 28 Sep 2026): skills
+
+Plan side landed in `78f7676`. These are the matching skill changes in `/root/.hermes/skills/mentoring/` (both skills now **v2.1.0**, frontmatter parses as YAML, v2.0.0 section structure kept):
+
+| File | Change |
+|---|---|
+| `ramish-mentor/SKILL.md` | Floor #3 = **Run + Cult 1 h daily** (run is the first 10 min). BODY track rewritten around the 18:50 Cult slot, late-office and sick rules, fast-day easy variant; MMA superseded. New **HOUSE** track (sink empty ×2, reset 10, airlock gym clothes, laundry Wed + Sat, Sat Asr reset, kitchen wipe-down at the end of Sunday meal-prep, `H` column outside 8/8, one-10-min-task rule, Tue 29 Sep zero-reset as the only one-off). Evening Wall, close-out sign-off, Sunday review Q4: **phone on the far table across the bedroom**. Close-out line gains `G` and `H` |
+| `ramish-deen-shields/SKILL.md` | Night Protocol: "phone OUT of bedroom" → **in the bedroom, far table, out of arm's reach**. Schedule facts: Cult after Maghrib, sink-empty cues, 21:00 far-table cutoff, Cult 1 h non-negotiable, House line with the full chore system. "Training at Cult" as a halal significance source |
+| `.../references/habit-system-and-routine-protocols.md` | Phone shield #1 → far table in the bedroom. Airlock starts from Cult and puts gym clothes in the basket. New §2b House no-pile rule |
+| `.../references/reels-project.md` | Parked banner notes "MMA" clips now mean the Cult hour. Posting ritual's "phone outside bedroom" line replaced |
+| `ramish-mentor/scripts/drift-audit.py` | New `steer2_retired` patterns (phone docked / outside bedroom / to the hall, MMA parked) |
+| `scripts/SETUP-GUIDE.md` (this repo) | Stale daily-workflow table (10:45–18:00, 22:30 sleep, "charger OUT of bedroom") replaced with the Winter Arc blocks + far-table rule |
+
+**Commits (`/root/.hermes`, skill files only, pushed):** `3562e8c` + `2cd5ca2` (hourly auto-backups that picked up the in-progress edits, and they also carry that job's own `cron/jobs.json` snapshot) and `aae06e5` (steer 2 skill commit). Runtime files were not staged by hand.
+**Verified:** grep for `dock`, `outside the bedroom`, `out of bedroom`, `MMA parked`, `phone to the hall` across both skills + the active plan files (archive excluded) gives no live instruction hits, only the dated history rows above. `drift-audit.py` gives 0 flags.
