@@ -1,0 +1,1039 @@
+{
+ "version": 1,
+ "routines": [
+  {
+   "key": "winter_weekday",
+   "name": "Winter Arc · Tue/Wed",
+   "dayType": "WEEKDAY",
+   "blocks": [
+    {
+     "title": "Wake — alarm clock",
+     "type": "SURVIVAL",
+     "alarm": "NOTIFICATION",
+     "time": "04:50",
+     "anchor": "FAJR-27",
+     "note": "Feet on the floor. Wudu. The phone stays on the far table."
+    },
+    {
+     "title": "Tahajjud 2–4 (bonus)",
+     "type": "PRAYER",
+     "alarm": "OFF",
+     "time": "04:55",
+     "anchor": "FAJR-22",
+     "note": "Bonus, not the floor. Witr was prayed after Isha."
+    },
+    {
+     "title": "Fajr — 2 sunnah → fard → adhkar",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "05:17",
+     "anchor": "FAJR",
+     "note": "Wed + Sat: laundry load in (2 min).",
+     "linkedDuaCategory": "morning_adhkar"
+    },
+    {
+     "title": "Block 1 · DSA 90",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "05:40",
+     "anchor": "FAJR+23",
+     "note": "New problems, Blind-75 order. 25-min hard stop per attempt → editorial → 1-line note.",
+     "checklist": [
+      "Problem open",
+      "25-min stop respected",
+      "Pattern note written"
+     ]
+    },
+    {
+     "title": "Breakfast (protein) → sink empty",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "07:10",
+     "anchor": "FAJR+113",
+     "checklist": [
+      "Eat",
+      "Wash the breakfast things"
+     ]
+    },
+    {
+     "title": "Block 2 · Depth 75",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "07:30",
+     "anchor": "FAJR+133",
+     "note": "Mon/Wed: Spring Boot project · Tue/Thu: Java core + SQL · Fri: LLD / design. Sat/Sun: see the weekend plan. Commit at the end."
+    },
+    {
+     "title": "Block 3 · Blind re-solve 15",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "08:45",
+     "anchor": "FAJR+208",
+     "note": "No notes, no editorial. This feeds the score. → 3 h done."
+    },
+    {
+     "title": "Read — paper book (floor 15)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "09:00",
+     "anchor": "FAJR+223"
+    },
+    {
+     "title": "Reset 10 (timer)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "09:25",
+     "anchor": "FAJR+248",
+     "checklist": [
+      "Clothes → basket/wardrobe",
+      "Bed made",
+      "One surface cleared"
+     ]
+    },
+    {
+     "title": "Duha 2 (bonus) · dress · office box + gym bag",
+     "type": "PRAYER",
+     "alarm": "OFF",
+     "time": "09:35"
+    },
+    {
+     "title": "Leave for the office",
+     "type": "CUSTOM",
+     "alarm": "NOTIFICATION",
+     "time": "10:15",
+     "note": "Family call (optional) on the commute."
+    },
+    {
+     "title": "TCS — containment (10:30–18:30)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "10:30",
+     "note": "Do the job well inside the hours. No more. Qailulah 15–20 min at lunch."
+    },
+    {
+     "title": "Dhuhr — 4 sunnah → fard → 2 sunnah (office musallah)",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "12:25",
+     "anchor": "DHUHR"
+    },
+    {
+     "title": "Asr (Hanafi time — later than most boards)",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "16:35",
+     "anchor": "ASR"
+    },
+    {
+     "title": "Maghrib at the office → 2 sunnah",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "18:10",
+     "anchor": "MAGHRIB",
+     "note": "Leave straight for Cult with the gym bag. Don't go home first.",
+     "linkedDuaCategory": "evening_adhkar"
+    },
+    {
+     "title": "Cult 1 h — run first 10",
+     "type": "TRAINING",
+     "alarm": "NOTIFICATION",
+     "time": "18:50",
+     "note": "First ≥10 min = the run. Last 5 = cooldown + stretch."
+    },
+    {
+     "title": "Airlock → shower",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "20:00",
+     "checklist": [
+      "Shoes off",
+      "Phone → far table, on charger",
+      "Gym clothes → basket",
+      "Shower / wudu"
+     ]
+    },
+    {
+     "title": "Isha + 2 sunnah + Witr 3",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "20:10"
+    },
+    {
+     "title": "Dinner (post-workout) → sink empty → pack tomorrow",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "20:25",
+     "checklist": [
+      "Eat",
+      "Wash tonight's utensils",
+      "Pack office box + gym bag"
+     ]
+    },
+    {
+     "title": "Journal 3 lines → one line to Hermes",
+     "type": "CUSTOM",
+     "alarm": "NOTIFICATION",
+     "time": "20:50",
+     "note": "S F R G St J Rd H · + any unaided solve. '8/8=n' alone is a complete report.",
+     "checklist": [
+      "S — 5 salah + 12 rawatib + Witr 3",
+      "F — fast (Mon/Thu) · '–' other days",
+      "R + G — run ≥10 + Cult 60",
+      "St — 3 h study (office never counts)",
+      "J — journal, 3 lines",
+      "Rd — paper book ≥15 min",
+      "C — weekend = career only",
+      "T — no office work at home",
+      "H — sink empty + reset 10 (tracked, not in 8/8)"
+     ]
+    },
+    {
+     "title": "21:00 — the wall",
+     "type": "REST",
+     "alarm": "NOTIFICATION",
+     "time": "21:00",
+     "note": "Phone on the far table. Laptop shut. Paper book in bed, no screens."
+    },
+    {
+     "title": "Lights out",
+     "type": "REST",
+     "alarm": "OFF",
+     "time": "21:30",
+     "note": "Wednesday night (Thursday is a fast): 21:15."
+    }
+   ]
+  },
+  {
+   "key": "winter_friday",
+   "name": "Winter Arc · Friday (Jumu'ah)",
+   "dayType": "FRIDAY",
+   "blocks": [
+    {
+     "title": "Wake — alarm clock",
+     "type": "SURVIVAL",
+     "alarm": "NOTIFICATION",
+     "time": "04:50",
+     "anchor": "FAJR-27",
+     "note": "Feet on the floor. Wudu. The phone stays on the far table."
+    },
+    {
+     "title": "Tahajjud 2–4 (bonus)",
+     "type": "PRAYER",
+     "alarm": "OFF",
+     "time": "04:55",
+     "anchor": "FAJR-22",
+     "note": "Bonus, not the floor. Witr was prayed after Isha."
+    },
+    {
+     "title": "Fajr — 2 sunnah → fard → adhkar",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "05:17",
+     "anchor": "FAJR",
+     "note": "Wed + Sat: laundry load in (2 min).",
+     "linkedDuaCategory": "morning_adhkar"
+    },
+    {
+     "title": "Block 1 · DSA 90",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "05:40",
+     "anchor": "FAJR+23",
+     "note": "New problems, Blind-75 order. 25-min hard stop per attempt → editorial → 1-line note.",
+     "checklist": [
+      "Problem open",
+      "25-min stop respected",
+      "Pattern note written"
+     ]
+    },
+    {
+     "title": "Breakfast (protein) → sink empty",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "07:10",
+     "anchor": "FAJR+113",
+     "checklist": [
+      "Eat",
+      "Wash the breakfast things"
+     ]
+    },
+    {
+     "title": "Block 2 · Depth 75",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "07:30",
+     "anchor": "FAJR+133",
+     "note": "Mon/Wed: Spring Boot project · Tue/Thu: Java core + SQL · Fri: LLD / design. Sat/Sun: see the weekend plan. Commit at the end."
+    },
+    {
+     "title": "Block 3 · Blind re-solve 15",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "08:45",
+     "anchor": "FAJR+208",
+     "note": "No notes, no editorial. This feeds the score. → 3 h done."
+    },
+    {
+     "title": "Read — paper book (floor 15)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "09:00",
+     "anchor": "FAJR+223"
+    },
+    {
+     "title": "Reset 10 (timer)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "09:25",
+     "anchor": "FAJR+248",
+     "checklist": [
+      "Clothes → basket/wardrobe",
+      "Bed made",
+      "One surface cleared"
+     ]
+    },
+    {
+     "title": "Duha 2 (bonus) · dress · office box + gym bag",
+     "type": "PRAYER",
+     "alarm": "OFF",
+     "time": "09:35"
+    },
+    {
+     "title": "Leave for the office",
+     "type": "CUSTOM",
+     "alarm": "NOTIFICATION",
+     "time": "10:15",
+     "note": "Family call (optional) on the commute."
+    },
+    {
+     "title": "TCS — containment (10:30–18:30)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "10:30",
+     "note": "Do the job well inside the hours. No more. Qailulah 15–20 min at lunch."
+    },
+    {
+     "title": "Jumu'ah — 4 sunnah → khutbah + fard → 4 sunnah",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "12:25",
+     "anchor": "DHUHR"
+    },
+    {
+     "title": "Asr (Hanafi time — later than most boards)",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "16:35",
+     "anchor": "ASR"
+    },
+    {
+     "title": "Maghrib at the office → 2 sunnah",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "18:10",
+     "anchor": "MAGHRIB",
+     "note": "Leave straight for Cult with the gym bag. Don't go home first.",
+     "linkedDuaCategory": "evening_adhkar"
+    },
+    {
+     "title": "Cult 1 h — run first 10",
+     "type": "TRAINING",
+     "alarm": "NOTIFICATION",
+     "time": "18:50",
+     "note": "First ≥10 min = the run. Last 5 = cooldown + stretch."
+    },
+    {
+     "title": "Airlock → shower",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "20:00",
+     "checklist": [
+      "Shoes off",
+      "Phone → far table, on charger",
+      "Gym clothes → basket",
+      "Shower / wudu"
+     ]
+    },
+    {
+     "title": "Isha + 2 sunnah + Witr 3",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "20:10"
+    },
+    {
+     "title": "Dinner (post-workout) → sink empty → pack tomorrow",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "20:25",
+     "checklist": [
+      "Eat",
+      "Wash tonight's utensils",
+      "Pack office box + gym bag"
+     ]
+    },
+    {
+     "title": "Journal 3 lines → one line to Hermes",
+     "type": "CUSTOM",
+     "alarm": "NOTIFICATION",
+     "time": "20:50",
+     "note": "S F R G St J Rd H · + any unaided solve. '8/8=n' alone is a complete report.",
+     "checklist": [
+      "S — 5 salah + 12 rawatib + Witr 3",
+      "F — fast (Mon/Thu) · '–' other days",
+      "R + G — run ≥10 + Cult 60",
+      "St — 3 h study (office never counts)",
+      "J — journal, 3 lines",
+      "Rd — paper book ≥15 min",
+      "C — weekend = career only",
+      "T — no office work at home",
+      "H — sink empty + reset 10 (tracked, not in 8/8)"
+     ]
+    },
+    {
+     "title": "21:00 — the wall",
+     "type": "REST",
+     "alarm": "NOTIFICATION",
+     "time": "21:00",
+     "note": "Phone on the far table. Laptop shut. Paper book in bed, no screens."
+    },
+    {
+     "title": "Lights out",
+     "type": "REST",
+     "alarm": "OFF",
+     "time": "21:30"
+    }
+   ]
+  },
+  {
+   "key": "winter_fasting",
+   "name": "Winter Arc · Mon/Thu fast",
+   "dayType": "FASTING",
+   "blocks": [
+    {
+     "title": "Wake — alarm clock (fast day)",
+     "type": "SURVIVAL",
+     "alarm": "NOTIFICATION",
+     "time": "04:30",
+     "anchor": "FAJR-47",
+     "note": "Feet on the floor. Wudu. The phone stays on the far table."
+    },
+    {
+     "title": "Suhoor + niyyah",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "04:35",
+     "anchor": "FAJR-42",
+     "note": "Eggs + shake + 500 ml water. Stop by the 'suhoor ends' time (§2).",
+     "checklist": [
+      "Niyyah",
+      "Eggs",
+      "Shake (500 ml 7% milk + 2 whey)",
+      "Water 500 ml+"
+     ]
+    },
+    {
+     "title": "Fajr — 2 sunnah → fard → adhkar",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "05:17",
+     "anchor": "FAJR",
+     "note": "Wed + Sat: laundry load in (2 min).",
+     "linkedDuaCategory": "morning_adhkar"
+    },
+    {
+     "title": "Block 1 · DSA 90",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "05:40",
+     "anchor": "FAJR+23",
+     "note": "New problems, Blind-75 order. 25-min hard stop per attempt → editorial → 1-line note.",
+     "checklist": [
+      "Problem open",
+      "25-min stop respected",
+      "Pattern note written"
+     ]
+    },
+    {
+     "title": "Suhoor dishes + 10-min stretch",
+     "type": "CUSTOM",
+     "alarm": "NOTIFICATION",
+     "time": "07:10",
+     "anchor": "FAJR+113",
+     "note": "No breakfast today. Everything after moves 10 min earlier."
+    },
+    {
+     "title": "Block 2 · Depth 75",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "07:20",
+     "anchor": "FAJR+123",
+     "note": "Mon/Wed: Spring Boot project · Tue/Thu: Java core + SQL · Fri: LLD / design. Sat/Sun: see the weekend plan. Commit at the end."
+    },
+    {
+     "title": "Block 3 · Blind re-solve 15",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "08:35",
+     "anchor": "FAJR+198",
+     "note": "No notes, no editorial. This feeds the score. → 3 h done."
+    },
+    {
+     "title": "Read — paper book (floor 15)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "08:50",
+     "anchor": "FAJR+213"
+    },
+    {
+     "title": "Reset 10 (timer)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "09:15",
+     "anchor": "FAJR+238",
+     "checklist": [
+      "Clothes → basket/wardrobe",
+      "Bed made",
+      "One surface cleared"
+     ]
+    },
+    {
+     "title": "Duha 2 (bonus) · dress · office box + gym bag",
+     "type": "PRAYER",
+     "alarm": "OFF",
+     "time": "09:35"
+    },
+    {
+     "title": "Leave for the office",
+     "type": "CUSTOM",
+     "alarm": "NOTIFICATION",
+     "time": "10:15",
+     "note": "Family call (optional) on the commute."
+    },
+    {
+     "title": "TCS — containment (10:30–18:30)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "10:30",
+     "note": "Do the job well inside the hours. No more. No lunch — fasting. Qailulah matters most."
+    },
+    {
+     "title": "Dhuhr — 4 sunnah → fard → 2 sunnah (office musallah)",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "12:25",
+     "anchor": "DHUHR"
+    },
+    {
+     "title": "Asr (Hanafi time — later than most boards)",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "16:35",
+     "anchor": "ASR"
+    },
+    {
+     "title": "Iftar (dates + water) → Maghrib at the office → 2 sunnah",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "18:10",
+     "anchor": "MAGHRIB",
+     "note": "Leave straight for Cult with the gym bag. Don't go home first.",
+     "linkedDuaCategory": "evening_adhkar"
+    },
+    {
+     "title": "Cult 1 h — run first 10",
+     "type": "TRAINING",
+     "alarm": "NOTIFICATION",
+     "time": "18:50",
+     "note": "Easy variant: 10-min conversational run, mobility, light machines. Sip water. Dizzy → walk it out; it still counts."
+    },
+    {
+     "title": "Airlock → shower",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "20:00",
+     "checklist": [
+      "Shoes off",
+      "Phone → far table, on charger",
+      "Gym clothes → basket",
+      "Shower / wudu"
+     ]
+    },
+    {
+     "title": "Isha + 2 sunnah + Witr 3",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "20:10"
+    },
+    {
+     "title": "Dinner (post-workout + the real iftar meal) → sink empty → pack tomorrow",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "20:25",
+     "checklist": [
+      "Eat",
+      "Wash tonight's utensils",
+      "Pack office box + gym bag"
+     ]
+    },
+    {
+     "title": "Journal 3 lines → one line to Hermes",
+     "type": "CUSTOM",
+     "alarm": "NOTIFICATION",
+     "time": "20:50",
+     "note": "S F R G St J Rd H · + any unaided solve. '8/8=n' alone is a complete report.",
+     "checklist": [
+      "S — 5 salah + 12 rawatib + Witr 3",
+      "F — fast (Mon/Thu) · '–' other days",
+      "R + G — run ≥10 + Cult 60",
+      "St — 3 h study (office never counts)",
+      "J — journal, 3 lines",
+      "Rd — paper book ≥15 min",
+      "C — weekend = career only",
+      "T — no office work at home",
+      "H — sink empty + reset 10 (tracked, not in 8/8)"
+     ]
+    },
+    {
+     "title": "21:00 — the wall",
+     "type": "REST",
+     "alarm": "NOTIFICATION",
+     "time": "21:00",
+     "note": "Phone on the far table. Laptop shut. Paper book in bed, no screens."
+    },
+    {
+     "title": "Lights out",
+     "type": "REST",
+     "alarm": "OFF",
+     "time": "21:30"
+    }
+   ]
+  },
+  {
+   "key": "winter_saturday",
+   "name": "Winter Arc · Saturday (applications)",
+   "dayType": "SATURDAY",
+   "blocks": [
+    {
+     "title": "Wake — alarm clock",
+     "type": "SURVIVAL",
+     "alarm": "NOTIFICATION",
+     "time": "04:50",
+     "anchor": "FAJR-27",
+     "note": "Feet on the floor. Wudu. The phone stays on the far table."
+    },
+    {
+     "title": "Tahajjud 2–4 (bonus)",
+     "type": "PRAYER",
+     "alarm": "OFF",
+     "time": "04:55",
+     "anchor": "FAJR-22",
+     "note": "Bonus, not the floor. Witr was prayed after Isha."
+    },
+    {
+     "title": "Fajr — 2 sunnah → fard → adhkar",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "05:17",
+     "anchor": "FAJR",
+     "note": "Wed + Sat: laundry load in (2 min).",
+     "linkedDuaCategory": "morning_adhkar"
+    },
+    {
+     "title": "Block 1 · DSA 90",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "05:40",
+     "anchor": "FAJR+23",
+     "note": "New problems, Blind-75 order. 25-min hard stop per attempt → editorial → 1-line note.",
+     "checklist": [
+      "Problem open",
+      "25-min stop respected",
+      "Pattern note written"
+     ]
+    },
+    {
+     "title": "Breakfast (protein) → sink empty",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "07:10",
+     "anchor": "FAJR+113",
+     "checklist": [
+      "Eat",
+      "Wash the breakfast things"
+     ]
+    },
+    {
+     "title": "Block 2 · Depth 75",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "07:30",
+     "anchor": "FAJR+133",
+     "note": "Mon/Wed: Spring Boot project · Tue/Thu: Java core + SQL · Fri: LLD / design. Sat/Sun: see the weekend plan. Commit at the end."
+    },
+    {
+     "title": "Block 3 · Blind re-solve 15",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "08:45",
+     "anchor": "FAJR+208",
+     "note": "No notes, no editorial. This feeds the score. → 3 h done."
+    },
+    {
+     "title": "Read — paper book (floor 15)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "09:00",
+     "anchor": "FAJR+223"
+    },
+    {
+     "title": "Reset 10 (timer)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "09:25",
+     "anchor": "FAJR+248",
+     "checklist": [
+      "Clothes → basket/wardrobe",
+      "Bed made",
+      "One surface cleared"
+     ]
+    },
+    {
+     "title": "Duha · break",
+     "type": "PRAYER",
+     "alarm": "OFF",
+     "time": "09:15"
+    },
+    {
+     "title": "Block A · resume tune + 8 applications",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "09:30",
+     "note": "Log every one (Hermes: one log-application each).",
+     "checklist": [
+      "Resume tuned",
+      "8 applications logged"
+     ]
+    },
+    {
+     "title": "Dhuhr + Qailulah (timer)",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "12:25",
+     "anchor": "DHUHR"
+    },
+    {
+     "title": "Read — paper book",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "13:15"
+    },
+    {
+     "title": "Block B · outreach: 5 messages + follow-ups + LinkedIn",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "13:45"
+    },
+    {
+     "title": "Asr",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "16:35",
+     "anchor": "ASR"
+    },
+    {
+     "title": "House reset 45 (timer)",
+     "type": "CUSTOM",
+     "alarm": "NOTIFICATION",
+     "time": "16:50",
+     "anchor": "ASR+15",
+     "checklist": [
+      "Floors",
+      "Bathroom",
+      "Bedsheet + towels",
+      "Anything piled"
+     ]
+    },
+    {
+     "title": "Maghrib at home → 2 sunnah",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "18:10",
+     "anchor": "MAGHRIB",
+     "linkedDuaCategory": "evening_adhkar"
+    },
+    {
+     "title": "Cult 1 h — run first 10",
+     "type": "TRAINING",
+     "alarm": "NOTIFICATION",
+     "time": "18:45"
+    },
+    {
+     "title": "Airlock → shower",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "19:55",
+     "checklist": [
+      "Phone → far table, on charger",
+      "Gym clothes → basket",
+      "Shower / wudu"
+     ]
+    },
+    {
+     "title": "Isha + 2 sunnah + Witr 3",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "20:05"
+    },
+    {
+     "title": "Dinner → sink empty",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "20:20"
+    },
+    {
+     "title": "Journal 3 lines → one line to Hermes (+ C)",
+     "type": "CUSTOM",
+     "alarm": "NOTIFICATION",
+     "time": "20:50",
+     "checklist": [
+      "S — 5 salah + 12 rawatib + Witr 3",
+      "F — fast (Mon/Thu) · '–' other days",
+      "R + G — run ≥10 + Cult 60",
+      "St — 3 h study (office never counts)",
+      "J — journal, 3 lines",
+      "Rd — paper book ≥15 min",
+      "C — weekend = career only",
+      "T — no office work at home",
+      "H — sink empty + reset 10 (tracked, not in 8/8)"
+     ]
+    },
+    {
+     "title": "21:00 — the wall",
+     "type": "REST",
+     "alarm": "NOTIFICATION",
+     "time": "21:00"
+    },
+    {
+     "title": "Lights out",
+     "type": "REST",
+     "alarm": "OFF",
+     "time": "21:30"
+    }
+   ]
+  },
+  {
+   "key": "winter_sunday",
+   "name": "Winter Arc · Sunday (proof + prep)",
+   "dayType": "SUNDAY",
+   "blocks": [
+    {
+     "title": "Wake — alarm clock",
+     "type": "SURVIVAL",
+     "alarm": "NOTIFICATION",
+     "time": "04:50",
+     "anchor": "FAJR-27",
+     "note": "Feet on the floor. Wudu. The phone stays on the far table."
+    },
+    {
+     "title": "Tahajjud 2–4 (bonus)",
+     "type": "PRAYER",
+     "alarm": "OFF",
+     "time": "04:55",
+     "anchor": "FAJR-22",
+     "note": "Bonus, not the floor. Witr was prayed after Isha."
+    },
+    {
+     "title": "Fajr — 2 sunnah → fard → adhkar",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "05:17",
+     "anchor": "FAJR",
+     "note": "Wed + Sat: laundry load in (2 min).",
+     "linkedDuaCategory": "morning_adhkar"
+    },
+    {
+     "title": "Block 1 · DSA 90",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "05:40",
+     "anchor": "FAJR+23",
+     "note": "New problems, Blind-75 order. 25-min hard stop per attempt → editorial → 1-line note.",
+     "checklist": [
+      "Problem open",
+      "25-min stop respected",
+      "Pattern note written"
+     ]
+    },
+    {
+     "title": "Breakfast (protein) → sink empty",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "07:10",
+     "anchor": "FAJR+113",
+     "checklist": [
+      "Eat",
+      "Wash the breakfast things"
+     ]
+    },
+    {
+     "title": "Block 2 · Depth 75",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "07:30",
+     "anchor": "FAJR+133",
+     "note": "Mon/Wed: Spring Boot project · Tue/Thu: Java core + SQL · Fri: LLD / design. Sat/Sun: see the weekend plan. Commit at the end."
+    },
+    {
+     "title": "Block 3 · Blind re-solve 15",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "08:45",
+     "anchor": "FAJR+208",
+     "note": "No notes, no editorial. This feeds the score. → 3 h done."
+    },
+    {
+     "title": "Read — paper book (floor 15)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "09:00",
+     "anchor": "FAJR+223"
+    },
+    {
+     "title": "Reset 10 (timer)",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "09:25",
+     "anchor": "FAJR+248",
+     "checklist": [
+      "Clothes → basket/wardrobe",
+      "Bed made",
+      "One surface cleared"
+     ]
+    },
+    {
+     "title": "Duha · break",
+     "type": "PRAYER",
+     "alarm": "OFF",
+     "time": "09:15"
+    },
+    {
+     "title": "Block A · 1 timed mock + Spring commit",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "09:30"
+    },
+    {
+     "title": "Dhuhr + Qailulah (timer)",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "12:25",
+     "anchor": "DHUHR"
+    },
+    {
+     "title": "Read — paper book",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "13:15"
+    },
+    {
+     "title": "Block B · LLD / design 60 + Sunday review 20 + write Monday's problems",
+     "type": "STUDY",
+     "alarm": "NOTIFICATION",
+     "time": "13:45",
+     "checklist": [
+      "LLD 60",
+      "Sunday review (5 questions)",
+      "Monday's problems written"
+     ]
+    },
+    {
+     "title": "Asr",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "16:35",
+     "anchor": "ASR"
+    },
+    {
+     "title": "Meal-prep — the week's protein (Maghrib = hard stop)",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "16:50",
+     "anchor": "ASR+15",
+     "note": "Last 15 min: kitchen wipe-down + sink empty.",
+     "checklist": [
+      "Protein cooked + boxed",
+      "Kitchen wiped",
+      "Sink empty"
+     ]
+    },
+    {
+     "title": "Maghrib at home → 2 sunnah",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "18:10",
+     "anchor": "MAGHRIB",
+     "linkedDuaCategory": "evening_adhkar"
+    },
+    {
+     "title": "Cult 1 h — run first 10",
+     "type": "TRAINING",
+     "alarm": "NOTIFICATION",
+     "time": "18:45"
+    },
+    {
+     "title": "Airlock → shower",
+     "type": "CUSTOM",
+     "alarm": "OFF",
+     "time": "19:55",
+     "checklist": [
+      "Phone → far table, on charger",
+      "Gym clothes → basket",
+      "Shower / wudu"
+     ]
+    },
+    {
+     "title": "Isha + 2 sunnah + Witr 3",
+     "type": "PRAYER",
+     "alarm": "NOTIFICATION",
+     "time": "20:05"
+    },
+    {
+     "title": "Dinner → sink empty",
+     "type": "MEAL",
+     "alarm": "NOTIFICATION",
+     "time": "20:20"
+    },
+    {
+     "title": "Journal 3 lines → one line to Hermes (+ C)",
+     "type": "CUSTOM",
+     "alarm": "NOTIFICATION",
+     "time": "20:50",
+     "checklist": [
+      "S — 5 salah + 12 rawatib + Witr 3",
+      "F — fast (Mon/Thu) · '–' other days",
+      "R + G — run ≥10 + Cult 60",
+      "St — 3 h study (office never counts)",
+      "J — journal, 3 lines",
+      "Rd — paper book ≥15 min",
+      "C — weekend = career only",
+      "T — no office work at home",
+      "H — sink empty + reset 10 (tracked, not in 8/8)"
+     ]
+    },
+    {
+     "title": "21:00 — the wall",
+     "type": "REST",
+     "alarm": "NOTIFICATION",
+     "time": "21:00"
+    },
+    {
+     "title": "Lights out",
+     "type": "REST",
+     "alarm": "OFF",
+     "time": "21:15",
+     "note": "Sunday: 21:15 — Monday is a fast."
+    }
+   ]
+  }
+ ]
+}
