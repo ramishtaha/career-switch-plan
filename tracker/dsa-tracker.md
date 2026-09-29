@@ -33,7 +33,7 @@
 | 1 | Contains Duplicate (LC 217) | HashSet (Hashing) | Easy | 2026-09-16 | <10 min | 🟢 Alone | V1 carryover. Verified by 4Q recall: pattern + algorithm correct. Complexity reasoning corrected in grill (set ops = O(1) avg, not O(n)) |
 | 2 | Two Sum (LC 1) | HashMap one-pass (Hashing) | Easy | 2026-09-16 | ~5 min | 🟢 Alone | V1 carryover. Recall-verified: number→index map, partner = target − current. Self-upgraded HashSet → HashMap when return type demanded indices. Complexity needs crisp verbal form (O(n)/O(n), map ops O(1) avg) |
 | 3 | Group Anagrams (LC 49) | Canonical-key HashMap (sorted string as key) | Medium | 2026-09-23 | ? | 🟠 Gemini | Code correct & clean (sorted-char key, put-if-missing, groups.values()). Assisted → unaided re-solve queued. Grill pending: O(n·k log k) + count-array key alternative |
-| 4 | Valid Anagram (LC 242) | Arrays & Hashing | Easy | 2026-09-29 | <10 min | 🟢 Alone | unaided (3rd ever), sick day |
+| 4 | Valid Anagram (LC 242) | Arrays & Hashing | Easy | 2026-09-29 | ? | 🟢 Alone | unaided (3rd ever), sick day |
 
 **Help flags:** 🟢 alone (scores) · 🟡 hint · 🟠 AI-assisted · 🔁 blind re-solve (scores if unaided; add a new row, never edit the old one).
 
