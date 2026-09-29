@@ -14,7 +14,7 @@
 **Winter Arc note (appended Sep 28, 2026):** the lines above are history, left untouched. The score is the **Unaided total** in the generated block below (DB-backed). "Unaided" = no AI, no editorial, no hints, no old code; blind re-solves count. **Tier-1 gate = 35.** Plan: `../WINTER-ARC.md`.
 
 <!-- GENERATED BLOCK — do not hand-edit below this line -->
-> Generated from Postgres at 2026-09-29 22:51 IST. Unaided count is the single definition used by
+> Generated from Postgres at 2026-09-30 00:28 IST. Unaided count is the single definition used by
 > the app, the dashboard and Hermes — there is no second place to disagree with it.
 
 **Unaided total: 3**
