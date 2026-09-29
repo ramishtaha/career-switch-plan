@@ -38,8 +38,8 @@
 
 | Call | Why |
 |---|---|
-| **3 h study = 90 (DSA) + 75 (depth) before office + 15 (blind re-solve) after Isha** | Study done before 10:15 can't be eaten by office overrun or the evening relapse window. The 15-min evening block keeps spaced retrieval feeding the score |
-| **Run right after Fajr** (cue: adhkar done → shoes) | One fixed cue, before any screen. Fast days: 10 min easy on suhoor fuel |
+| **3 h study = 90 (DSA) + 75 (depth) before office + 15 (blind re-solve) after Isha** *(superseded by WINTER-ARC.md §4/§5: Block 3 is 08:45, right after Block 2)* | Study done before 10:15 can't be eaten by office overrun or the evening relapse window. The 15-min evening block keeps spaced retrieval feeding the score |
+| **Run right after Fajr** (cue: adhkar done → shoes) *(superseded by Steer 2, §9: the run is the first 10 min of Cult)* | One fixed cue, before any screen. Fast days: 10 min easy on suhoor fuel |
 | **21:00 hard cutoff, alarm clock** *(phone location superseded by Steer 2, §9: it now stays in the bedroom on the far table)* | Breaks the first link of the chain that ended 5 arcs. plan-v3 kept the phone in the bedroom "for alarms". A ₹300 clock removes that reason |
 | **Witr right after Isha, every night; Tahajjud = bonus** | Hanafi-safe (no risk of a missed wajib → qada), and one less decision. Tahajjud stays valued but isn't on the floor |
 | **Weekly review → Sunday 13:45** (was Friday evening) | Friday evening is the tiredest slot, and none of the Friday reviews were ever held. The Sunday career block has room, and it plans the week ahead |

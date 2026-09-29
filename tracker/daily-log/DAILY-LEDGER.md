@@ -22,6 +22,15 @@
 | **U** | Unaided DSA solved today (names in Note) |
 | **8/8** | How many of the 8 floor items held today (on weekdays #7 counts as held) |
 
+**How 8/8 is counted (same rules as the Rafiq server, `Fiqh.evaluateFloor`, 29 Sep):**
+- `?` / blank = not reported. It never counts as a miss.
+- **F** on a non-fast day (`–`) = held. **M-sick** = held (the §9 sick-day version is "don't fast").
+- **#3** holds at R ≥ 10 and G ≥ 60. On a sick day, a 10-min walk holds it.
+- **#7** is held on weekdays by definition; on Sat/Sun it needs `C`.
+- **#8 (TCS lowest)** is held unless office work came home.
+- **S** counts Witr inside Isha. Friday's Dhuhr sunnah = Jumu'ah 4 + 4.
+- A bare "8/8=n" is a complete report; his n wins.
+
 | Date | Wkday | S | F | R | G | St | J | Rd | C | H | U | 8/8 | Note |
 |------|-------|---|---|---|---|----|---|----|---|---|---|-----|------|
 | 2026-09-29 | Tue | ? | – | ? | – | ? | ? | ? | – | ? | 1 | ? | Valid Anagram ✅ UNAIDED (3rd ever). Group Anagrams re-solve still pending. Camp final day Wed. |
