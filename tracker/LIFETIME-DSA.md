@@ -14,13 +14,14 @@
 **Winter Arc note (appended Sep 28, 2026):** the lines above are history, left untouched. The score is the **Unaided total** in the generated block below (DB-backed). "Unaided" = no AI, no editorial, no hints, no old code; blind re-solves count. **Tier-1 gate = 35.** Plan: `../WINTER-ARC.md`.
 
 <!-- GENERATED BLOCK — do not hand-edit below this line -->
-> Generated from Postgres at 2026-09-27 15:47 IST. Unaided count is the single definition used by
+> Generated from Postgres at 2026-09-29 22:51 IST. Unaided count is the single definition used by
 > the app, the dashboard and Hermes — there is no second place to disagree with it.
 
-**Unaided total: 2**
+**Unaided total: 3**
 
 | # | Problem | Pattern | Date | Help |
 |---|---------|---------|------|------|
 | 1 | Two Sum | Arrays & Hashing | 2026-09-16 | 🟢 Unaided |
 | 2 | Contains Duplicate | Arrays & Hashing | 2026-09-16 | 🟢 Unaided |
+| 3 | Valid Anagram (LC 242) | Arrays & Hashing | 2026-09-29 | 🟢 Unaided |
 <!-- END GENERATED BLOCK -->

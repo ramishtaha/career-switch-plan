@@ -24,7 +24,8 @@
 
 | Date | Wkday | S | F | R | G | St | J | Rd | C | H | U | 8/8 | Note |
 |------|-------|---|---|---|---|----|---|----|---|---|---|-----|------|
-| 2026-09-28 | Mon | ? | – | ? | – | ? | ? | ? | – | ? | ? | ? | Bridge day 1 (camp week, no fast). Target: Valid Anagram unaided. Winter Arc declared |
+| 2026-09-29 | Tue | ? | – | ? | – | ? | ? | ? | – | ? | 1 | ? | Valid Anagram ✅ UNAIDED (3rd ever). Group Anagrams re-solve still pending. Camp final day Wed. |
+| 2026-09-28 | Mon | ? | – | – | – | – | ? | ? | – | ? | – | rest | REST DAY — declared, unwell. Valid Anagram carries to Tue 29. Zero guilt. |
 
 ---
 
@@ -64,15 +65,17 @@
 | 2026-09-27 | Sun | 🛠️ audit day | — | 0 | none | ? | ? | ? | Full Opus-5 max-effort audit (AUDIT-SEP27.md). Truth answers given: salah on-time most days, tahajjud missed 1-2, no fasting (camp), camp unmissed, ZERO career work, phone chain ACTIVE, loan = heaviest weight. Crons re-pointed to Telegram |
 
 <!-- GENERATED BLOCK — do not hand-edit below this line -->
-> Generated from Postgres at 2026-09-27 15:47 IST. The database is the source of truth for
+> Generated from Postgres at 2026-09-29 22:51 IST. The database is the source of truth for
 > these counts; this block is output, not input. Hand-written sections above are
 > preserved and are still yours to edit.
 
-**Unaided DSA: 2** · Streak: 0d · Day count: 0 · Applications: 0
+**Unaided DSA: 3** · Streak: 0d · Day count: 0 · Applications: 0
 
 | Date | Wkday | Bar | Salah | Nafl | Unaided | Ticks | Note |
 |------|-------|-----|-------|------|---------|-------|------|
-| 2026-09-27 | Sun | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-29 | Tue | ⬜ Missed | 0/6 | 0 | 1 | 0 |  |
+| 2026-09-28 | Mon | · Unknown | 0/6 | 0 | 0 | 0 |  |
+| 2026-09-27 | Sun | ⬜ Missed | 0/6 | 0 | 0 | 0 |  |
 | 2026-09-26 | Sat | · Unknown | 0/6 | 0 | 0 | 0 |  |
 | 2026-09-25 | Fri | · Unknown | 0/6 | 0 | 0 | 0 |  |
 | 2026-09-24 | Thu | · Unknown | 0/6 | 0 | 0 | 0 |  |
@@ -100,6 +103,4 @@
 | 2026-09-02 | Wed | 🟩 Floor | 5/6 | 2 | 0 | 0 |  |
 | 2026-09-01 | Tue | 🟩 Floor | 4/6 | 0 | 0 | 0 |  |
 | 2026-08-31 | Mon | 🟩 Floor | 5/6 | 1 | 0 | 0 |  |
-| 2026-08-30 | Sun | · Unknown | 0/6 | 0 | 0 | 0 |  |
-| 2026-08-29 | Sat | · Unknown | 0/6 | 0 | 0 | 0 |  |
 <!-- END GENERATED BLOCK -->
