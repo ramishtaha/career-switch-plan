@@ -22,7 +22,7 @@ These are **your words, final.** Every day has all 8, including bad days and sic
 | 7 | **Weekends = career only** | Sat + Sun: the only *work* is career work (§6) |
 | 8 | **TCS = lowest priority** | Do the job well inside 10:30–18:30. **No more.** No office work at home |
 
-**The one score:** unaided DSA problems in `tracker/LIFETIME-DSA.md`. **Now: 2.** Tier-1 gate: **35.**
+**The one score:** unaided DSA problems in `tracker/LIFETIME-DSA.md`. The live count is the generated block in that file (Hermes quotes it nightly). Tier-1 gate: **35.**
 
 ---
 
@@ -94,7 +94,7 @@ Times are for **Oct 1–15**. Other months: use the wake and Block 1 times from 
 | 09:35–10:15 | *Duha 2 (bonus)* · dress · grab the packed office box **+ gym bag** |
 | **10:15** | Leave. *Family call (optional, not floor): on this commute or at office lunch* |
 | **10:30–18:30** | **TCS (containment).** Dhuhr + Asr at the musallah. **Qailulah 15–20 min** in lunch if you can |
-| **~18:15** | **MAGHRIB at the office** → leave with the gym bag |
+| **Maghrib** (18:27 on 1 Oct → 18:05 by 31 Oct, §2) | **MAGHRIB at the office** → leave with the gym bag |
 | **18:50–19:50** | 🏋️ **CULT, 1 h.** Straight from the office, **don't go home first.** First 10 min = the run |
 | **~20:00** | Home: **the airlock** (§7) → shower |
 | **~20:10** | **ISHA** + 2 sunnah + **Witr 3** |

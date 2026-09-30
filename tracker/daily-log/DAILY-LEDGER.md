@@ -74,42 +74,42 @@
 | 2026-09-27 | Sun | 🛠️ audit day | — | 0 | none | ? | ? | ? | Full Opus-5 max-effort audit (AUDIT-SEP27.md). Truth answers given: salah on-time most days, tahajjud missed 1-2, no fasting (camp), camp unmissed, ZERO career work, phone chain ACTIVE, loan = heaviest weight. Crons re-pointed to Telegram |
 
 <!-- GENERATED BLOCK — do not hand-edit below this line -->
-> Generated from Postgres at 2026-09-30 00:28 IST. The database is the source of truth for
+> Generated from Postgres at 2026-09-30 06:37 IST. The database is the source of truth for
 > these counts; this block is output, not input. Hand-written sections above are
 > preserved and are still yours to edit.
 
 **Unaided DSA: 3** / 35 · Applications: 0 · 8/8 is what was reported; '·' / 'not reported yet' is silence, never a miss.
 
-| Date | Wkday | 8/8 | Salah (DB) | Sunnah | Study | Cult | Unaided | Note |
-|------|-------|-----|------------|--------|-------|------|---------|------|
-| 2026-09-30 | Wed | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-29 | Tue | not reported yet | 0/6 | 0 | ? | ? | 1 |  |
-| 2026-09-28 | Mon | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-27 | Sun | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-26 | Sat | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-25 | Fri | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-24 | Thu | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-23 | Wed | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-22 | Tue | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-21 | Mon | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-20 | Sun | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-19 | Sat | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-18 | Fri | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-17 | Thu | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-16 | Wed | not reported yet | 1/6 | 0 | ? | ? | 2 |  |
-| 2026-09-15 | Tue | not reported yet | 2/6 | 0 | ? | ? | 0 |  |
-| 2026-09-14 | Mon | not reported yet | 2/6 | 0 | ? | ? | 0 |  |
-| 2026-09-13 | Sun | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-12 | Sat | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-11 | Fri | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-10 | Thu | not reported yet | 0/6 | 0 | ? | ? | 0 |  |
-| 2026-09-09 | Wed | not reported yet | 4/6 | 0 | ? | ? | 0 |  |
-| 2026-09-08 | Tue | not reported yet | 2/6 | 0 | ? | ? | 0 |  |
-| 2026-09-07 | Mon | not reported yet | 4/6 | 0 | ? | ? | 0 |  |
-| 2026-09-06 | Sun | not reported yet | 5/6 | 0 | ? | ? | 0 |  |
-| 2026-09-05 | Sat | not reported yet | 4/6 | 0 | ? | ? | 0 |  |
-| 2026-09-04 | Fri | not reported yet | 5/6 | 0 | ? | ? | 0 |  |
-| 2026-09-03 | Thu | not reported yet | 5/6 | 0 | ? | ? | 0 |  |
-| 2026-09-02 | Wed | not reported yet | 5/6 | 0 | ? | ? | 0 |  |
-| 2026-09-01 | Tue | not reported yet | 4/6 | 0 | ? | ? | 0 |  |
+| Date | Wkday | 8/8 | Salah (DB) | Sunnah | Study | Cult | Unaided | Apps | Note |
+|------|-------|-----|------------|--------|-------|------|---------|------|------|
+| 2026-09-30 | Wed | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-29 | Tue | not reported yet | 0/6 | 0 | ? | ? | 1 | 0 |  |
+| 2026-09-28 | Mon | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-27 | Sun | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-26 | Sat | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-25 | Fri | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-24 | Thu | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-23 | Wed | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-22 | Tue | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-21 | Mon | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-20 | Sun | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-19 | Sat | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-18 | Fri | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-17 | Thu | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-16 | Wed | not reported yet | 1/6 | 0 | ? | ? | 2 | 0 |  |
+| 2026-09-15 | Tue | not reported yet | 2/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-14 | Mon | not reported yet | 2/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-13 | Sun | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-12 | Sat | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-11 | Fri | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-10 | Thu | not reported yet | 0/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-09 | Wed | not reported yet | 4/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-08 | Tue | not reported yet | 2/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-07 | Mon | not reported yet | 4/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-06 | Sun | not reported yet | 5/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-05 | Sat | not reported yet | 4/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-04 | Fri | not reported yet | 5/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-03 | Thu | not reported yet | 5/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-02 | Wed | not reported yet | 5/6 | 0 | ? | ? | 0 | 0 |  |
+| 2026-09-01 | Tue | not reported yet | 4/6 | 0 | ? | ? | 0 | 0 |  |
 <!-- END GENERATED BLOCK -->

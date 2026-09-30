@@ -11,7 +11,7 @@
 - **Arc:** **Winter Arc**, declared Sep 28, 2026. **Day one = Thu 1 Oct 2026** (a fast day). Runs until Ramadan (tentatively Tue 9 Feb 2027 in India). A Ramadan edition gets written at the Sun 31 Jan review.
 - **Bridge:** Mon 28 → Wed 30 Sep (MMA camp wraps Sep 30). One unaided problem a day plus the setup checklist, see `WINTER-ARC.md` §12.
 - **Phase:** `bridge` until Oct 1, then `active`. **There is no pause state and no restart.** Misses are logged rows.
-- **Scoreboard:** unaided DSA problems (DB-backed, `tracker/LIFETIME-DSA.md`). **2 as of Sep 28** (Contains Duplicate + Two Sum, Sep 16). **Tier-1 gate = 35.**
+- **Scoreboard:** unaided DSA problems (DB-backed, `tracker/LIFETIME-DSA.md`). Count: `rafiq-api.py today` (never copied here). **Tier-1 gate = 35.**
 - **Office:** TCS System Engineer, **10:30–18:30**, leaves home ~10:15, goes straight to Cult after Maghrib. **Lowest priority. Containment only.**
 
 ## The floor (Ramish's 8, verbatim intent, final)
