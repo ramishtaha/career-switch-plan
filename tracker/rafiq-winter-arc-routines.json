@@ -534,9 +534,9 @@
      "title": "Iftar (dates + water) → Maghrib at the office → 2 sunnah",
      "type": "PRAYER",
      "alarm": "NOTIFICATION",
-     "time": "18:10",
+     "time": "18:40",
      "anchor": "MAGHRIB",
-     "note": "Leave straight for Cult with the gym bag. Don't go home first.",
+     "note": "Iftar at the Maghrib adhan (the app's computed time), never at a clock time. Then leave straight for Cult with the gym bag.",
      "linkedDuaCategory": "evening_adhkar"
     },
     {
